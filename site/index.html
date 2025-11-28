@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Winston Hills HOA Documents</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="data/documents.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Winston Hills HOA</p>
+        <h1>Governing Documents Library</h1>
+        <p class="lede">Browse the official CC&R, amendments, bylaws, and filings. Each page includes annotations and a link to the original PDF.</p>
+      </div>
+    </header>
+
+    <div id="doc-toolbar" class="toolbar hidden">
+      <button id="back-button" class="ghost" aria-label="Back to index">← Back</button>
+      <div class="toolbar-search">
+        <label class="search">
+          <input id="doc-search" type="search" placeholder="Search this document…">
+        </label>
+        <div class="search-nav">
+          <button id="doc-prev" class="pill ghost" aria-label="Previous match">Prev</button>
+          <button id="doc-next" class="pill" aria-label="Next match">Next</button>
+          <span id="doc-match-count" class="match-count">0 / 0</span>
+        </div>
+      </div>
+      <div class="toolbar-actions">
+        <button id="scroll-top" class="pill ghost hidden" aria-label="Scroll to top">Top</button>
+      </div>
+    </div>
+
+    <main>
+      <section id="index-view">
+        <div id="featured-panel" class="panel hidden">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Featured</p>
+              <h2>Consolidated CC&R</h2>
+            </div>
+          </div>
+          <div id="featured-list" class="doc-grid"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Chronological Index</p>
+              <h2>Documents</h2>
+            </div>
+            <div class="filters">
+              <label class="search">
+                <input id="list-search" type="search" placeholder="Filter by title or description…">
+              </label>
+            </div>
+          </div>
+          <div id="doc-list" class="doc-grid"></div>
+        </div>
+      </section>
+
+      <section id="doc-view" class="hidden">
+        <div class="doc-meta">
+          <div>
+            <p class="eyebrow" id="doc-date"></p>
+            <h2 id="doc-title"></h2>
+            <p id="doc-description"></p>
+            <div class="doc-links">
+              <a id="doc-pdf" class="pill" target="_blank" rel="noopener">Open PDF</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="doc-layout">
+          <aside id="annotations" class="annotations"></aside>
+          <article id="doc-content" class="doc-content"></article>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
