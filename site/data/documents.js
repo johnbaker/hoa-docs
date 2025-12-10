@@ -30,6 +30,17 @@ window.HOADocs = [
       { label: "Bylaws: Assessments", section: "ARTICLE XI. Assessments", text: "All assessments lien the Lot; interest after 30 days.", inlineDetail: "Restates that all assessments (including remedial) lien the Lot, accrue interest after 30 days, and can be collected through legal action or foreclosure." }
     ]
   },
+    {
+    slug: "consolidated-development-guidelines",
+    title: "Consolidated Developement Guidelines (through 1/4/2005)",
+    date: "2005-01-04",
+    featured: true,
+    description: "Single view of the Development Guidelines (Exhibit D) with amendment applied.",
+    mdPath: "source/amended_final_exhibit_d.md",
+    pdfPath: "source/consolidated.pdf",
+    annotations: [
+    ]
+  },
   {
     slug: "covenants-conditions-restrictions",
     title: "Phase One Declaration (Village III)",
@@ -49,6 +60,16 @@ window.HOADocs = [
       { label: "General Provisions", section: "ARTICLE IX: GENERAL PROVISIONS", text: "Enforcement, amendments, notices, lender protections.", inlineDetail: "Covers enforcement tools, amendment process, notice requirements, and lender protections. Sets how disputes are resolved (Board is final), how liens survive foreclosure, and how mortgagees get notices/consents." },
       { label: "Property Description", section: 'EXHIBIT "A" TO DECLARATION', text: "Legal description of covered land.", inlineDetail: "The legal description of all property bound by these covenants—shows which Lots are inside the regime." },
       { label: "Common Areas", section: 'EXHIBIT "B" TO DECLARATION', text: "Legal description of Common Areas.", inlineDetail: "Legal description of the Association-owned Common Areas and what’s excluded (platted Lots/streets); notes drainage, utility, and open-space easements that must stay accessible." }
+    ]
+  },
+  {
+    slug: "exhibit-d-development-guidelines",
+    title: "Exhibit D: Development Guidelines",
+    date: "1999-05-27",
+    description: "Included Development Guidelines recorded with the original declairation.",
+    mdPath: "source/development-guidelines-exhibit-d.md",
+    pdfPath: "source/development-guidelines-exhibit-d.pdf",
+    annotations: [
     ]
   },
   {
@@ -166,6 +187,16 @@ window.HOADocs = [
       { label: "Leasing Rules", section: "EIGHTH AMENDMENT TO DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS", text: "Sets 6+ month leases, Board notice, no subleases without consent.", inlineDetail: "Requires written leases of at least six months, Board notice within 10 days, bans subleases/assignments without approval, and keeps owners liable for tenant violations." },
       { label: "Business Use", section: "EIGHTH AMENDMENT TO DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS", text: "Bans visible/nuisance businesses; allows undetectable home work.", inlineDetail: "Bars trades/uses that create traffic, noise, smell, or safety risk; quiet home occupations are allowed if undetectable and code-compliant. Leasing per Section 19 is not treated as a business." },
       { label: "Bylaws Replacement", section: "EIGHTH AMENDMENT TO DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS", text: "Replaces Exhibit C bylaws with new version.", inlineDetail: "Deletes the old bylaws and substitutes the updated bylaws attached as Exhibit A to this amendment." }
+    ]
+  },
+  {
+    slug: "first-amendment-development-guidelines",
+    title: "First Amendment to Development Guidelines",
+    date: "2005-01-04",
+    description: "Updates to the Development Guidelines.",
+    mdPath: "source/1st_ammendment_to_development_guidelines.md",
+    pdfPath: "source/1st_ammendment_to_development_guidelines.pdf",
+    annotations: [
     ]
   },
   {
