@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/schemas/node.schema.json",
+  "title": "Node",
+  "$ref": "https://example.org/schemas/instrument-document.schema.json#/$defs/Node"
+}
