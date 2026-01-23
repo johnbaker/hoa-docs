@@ -75,6 +75,8 @@ def parse_text(text: str, *, node_prefix: str, included_in_instrument_id: str | 
     pending_exhibit_title = False
     epilog_mode = False
     current_exhibit_id = None
+    list_item_section_parent = None
+    list_item_section_indent = None
 
     section_stack = {}
     current_top_num = None
@@ -155,6 +157,8 @@ def parse_text(text: str, *, node_prefix: str, included_in_instrument_id: str | 
 
         if stripped.startswith('@') and stripped.lower() != '@epilog':
             epilog_mode = False
+            list_item_section_parent = None
+            list_item_section_indent = None
 
         if stripped.lower() == '@epilog':
             close_lists()
@@ -162,6 +166,8 @@ def parse_text(text: str, *, node_prefix: str, included_in_instrument_id: str | 
             section_stack = {}
             current_top_num = None
             current_exhibit_id = None
+            list_item_section_parent = None
+            list_item_section_indent = None
             i += 1
             continue
 
@@ -232,8 +238,57 @@ def parse_text(text: str, *, node_prefix: str, included_in_instrument_id: str | 
 
         m = heading_re.match(stripped)
         if m:
-            close_lists()
             hashes, text = m.groups()
+            leading_spaces = len(line) - len(line.lstrip(' '))
+            if list_stack and list_stack[-1]['last_item_id'] and leading_spaces > list_stack[-1]['indent']:
+                m_ch = chapter_re.match(text)
+                m_num = num_heading_re.match(text)
+                node_type = 'section'
+                label = None
+                title = None
+                if m_ch:
+                    chap_num = int(m_ch.group(1))
+                    label = f"Chapter {chap_num}"
+                    title = m_ch.group(2).strip() or None
+                elif m_num:
+                    num_label = m_num.group(1)
+                    title = m_num.group(2).strip() or None
+                    label = num_label
+                    dot_count = num_label.count('.')
+                    node_type = 'section' if dot_count <= 1 else 'subsection'
+                else:
+                    title = text
+
+                if label:
+                    norm = label.lower().replace('chapter ', 'chapter-').replace('.', '-').replace(' ', '-')
+                else:
+                    norm = title.lower().replace(' ', '-') if title else 'section'
+                norm = re.sub(r'[^a-z0-9\-]+', '-', norm).strip('-')
+                node_id = f"node:{node_prefix}:{norm}"
+                suffix = 1
+                base_id = node_id
+                while node_id in node_by_id:
+                    suffix += 1
+                    node_id = f"{base_id}-{suffix}"
+
+                node = {'id': node_id, 'type': node_type}
+                if label:
+                    node['label'] = label
+                if title:
+                    node['title'] = title
+                meta = make_meta()
+                if meta:
+                    node['meta'] = meta
+                add_node(node, list_stack[-1]['last_item_id'])
+                list_item_section_parent = node_id
+                list_item_section_indent = leading_spaces
+                current_indent = None
+                i += 1
+                continue
+
+            close_lists()
+            list_item_section_parent = None
+            list_item_section_indent = None
             if pending_exhibit_id:
                 current_title = node_by_id[pending_exhibit_id].get('title')
                 if current_title:
@@ -385,6 +440,8 @@ def parse_text(text: str, *, node_prefix: str, included_in_instrument_id: str | 
 
             list_id = list_stack[-1]['list_id']
             item_id = next_para_id(list_id)
+            list_item_section_parent = None
+            list_item_section_indent = None
             item_node = {'id': item_id, 'type': 'list_item', 'text': item_text}
             label = None
             if marker not in ('-', '+', '*'):
@@ -423,6 +480,9 @@ def parse_text(text: str, *, node_prefix: str, included_in_instrument_id: str | 
             leading_spaces = len(line) - len(line.lstrip(' '))
             if leading_spaces > list_stack[-1]['indent'] and list_stack[-1]['last_item_id']:
                 parent_id = list_stack[-1]['last_item_id']
+                if list_item_section_parent and list_item_section_indent is not None:
+                    if leading_spaces >= list_item_section_indent:
+                        parent_id = list_item_section_parent
                 para_id = next_para_id(parent_id)
                 node = {'id': para_id, 'type': 'paragraph', 'text': stripped}
                 meta = make_meta()
@@ -434,6 +494,8 @@ def parse_text(text: str, *, node_prefix: str, included_in_instrument_id: str | 
                 continue
 
         close_lists()
+        list_item_section_parent = None
+        list_item_section_indent = None
         parent_id = root_id if epilog_mode else current_section_parent()
         node_id = next_para_id(parent_id)
         node = {'id': node_id, 'type': 'paragraph', 'text': stripped}

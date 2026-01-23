@@ -47,6 +47,21 @@ Use stable logical ids that do not change across snapshots:
 
 Avoid embedding dates in node ids. Dates belong in instrument ids and snapshot ids.
 
+## Markdown ingestion helper (scripts/parse_exhibit_md.py)
+This helper converts a lightly-structured Markdown file into instrument JSON. Use it for
+initial transcription or updates, but treat the JSON as the source of truth.
+
+Supported conventions:
+- Front matter header between `---` lines with `key: value` pairs (instrument metadata).
+- `@exhibit <Label> @instrument_id <id> @base_doc_id <id>` to start a new exhibit node.
+- `@epilog` to switch remaining paragraphs to the document root.
+- `>>> <dest>` to attach `meta.pdf_dest.name` to the next node.
+- `]]]` indentation markers to set `meta.indent_level` on the next node.
+- `# Table <Label> #` to label the next Markdown table as a `table` node.
+- List items support `Title :: text` to split `title` vs `text`.
+
+If you add new shorthand to the parser, document it here.
+
 ### Facsimile jump behavior
 If `meta.pdf_dest` exists:
 - show “View in PDF” action next to the node (or on hover)

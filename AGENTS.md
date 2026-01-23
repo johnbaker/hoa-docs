@@ -109,6 +109,17 @@ When a query only matches prior versions, results must be labeled **Historical**
 
 ---
 
+## Helper scripts
+
+- `scripts/parse_exhibit_md.py` parses a lightly-structured Markdown file into instrument JSON.
+  Document any new shorthand in `docs/transcription-conventions.md`.
+- `scripts/apply_from.py` applies amendment operations to a base instrument JSON, but only supports
+  `insert_children`, `delete_node`, `delete_children`, `replace_children`, `update_node_fields`,
+  and `patch_text`.
+- `scripts/render_json_to_html.py` renders JSON to HTML for local inspection only.
+
+---
+
 ## Security & privacy
 
 Do not add private homeowner data, emails, phone numbers, or addresses beyond what appears in recorded public instruments.
@@ -145,4 +156,3 @@ When editing snapshot JSON, set node.meta.provenance for any node created or mod
 - replaces_node_id when a node supersedes a prior node id
 Use the amendment’s instrument.id and the exact operations.op_id from its instrument JSON.
 Do not change node ids unless required.
-

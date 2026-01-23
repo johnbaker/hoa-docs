@@ -36,7 +36,7 @@ def render(json_path: Path, out_path: Path):
         parts.append("</table>")
         return "\n".join(parts)
 
-    def render_node(node_id, depth=1):
+    def render_node(node_id, depth=1, parent_type=None):
         node = node_map[node_id]
         t = node['type']
         parts = []
@@ -73,7 +73,7 @@ def render(json_path: Path, out_path: Path):
         elif t == 'list':
             parts.append("<ul>")
             for child in node.get('children', []):
-                parts.append(render_node(child['ref'], depth))
+                parts.append(render_node(child['ref'], depth, parent_type='list'))
             parts.append("</ul>")
         elif t == 'list_item':
             label = node.get('label')
@@ -90,15 +90,19 @@ def render(json_path: Path, out_path: Path):
             if text:
                 inner.append(text)
             for child in node.get('children', []):
-                inner.append(render_node(child['ref'], depth))
+                inner.append(render_node(child['ref'], depth, parent_type='list_item'))
             parts.append(f"<li{class_attr}{style}>{''.join(inner)}</li>")
         elif t == 'table':
             parts.append(render_table(node))
 
         if t not in ('list', 'list_item'):
             for child in node.get('children', []):
-                parts.append(render_node(child['ref'], depth + (1 if t in ('article', 'section', 'subsection', 'exhibit') else 0)))
-        return "\n".join(parts)
+                parts.append(render_node(child['ref'], depth + (1 if t in ('article', 'section', 'subsection', 'exhibit') else 0), parent_type=t))
+
+        rendered = "\n".join(parts)
+        if parent_type == 'list_item' and t in ('article', 'section', 'subsection', 'exhibit'):
+            return f"<div class=\"list-item-child\">{rendered}</div>"
+        return rendered
 
     root_id = content['root_ref']
     body_parts = []
@@ -124,6 +128,10 @@ def render(json_path: Path, out_path: Path):
     li.list-item-labeled {{ list-style: none; padding-left: 0; }}
     li.list-item-labeled::marker {{ content: ''; }}
     .list-item-title {{ font-weight: bold; }}
+    .list-item-child {{ margin-left: 1.5em; }}
+    .list-item-child > h2,
+    .list-item-child > h3,
+    .list-item-child > h4 {{ margin-top: 10px; }}
     table {{ width: 100%; border-collapse: collapse; margin: 12px 0; }}
     th, td {{ border: 1px solid #aaa; padding: 6px 8px; text-align: left; vertical-align: top; }}
     .table-label {{ font-weight: bold; margin-top: 14px; }}

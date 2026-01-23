@@ -10,8 +10,15 @@ Each recorded item (instrument) is stored as structured JSON:
 See schema:
 - `schemas/instrument-document.schema.json`
 
-## Operation extensions (proposed)
-These op types allow amendments to reference only amendment text without restating base text:
+## Operation types
+Operations allow amendments to reference only amendment text without restating base text.
+The schema supports the following `op_type` values:
+- `replace_node`, `replace_children`, `replace_entire_document`
+- `insert_children`, `delete_node`, `delete_children`
+- `patch_text`, `update_node_fields`
+- `update_incorporation`
+- `assign_declarant_rights`, `annex_property`, `deannex_property`
+- `other`
 
 ### patch_text
 Applies targeted text edits to an existing node by anchoring to existing text.
@@ -30,11 +37,25 @@ Supports targeting by `heading_text` or `section_path` with an `occurrence` inde
 `update_incorporation` supports `previous_incorporated_base_doc_id` so changes are explicit
 when replacing an exhibit with a new incorporated base document or new payload instrument.
 
+### Helper script coverage
+`scripts/apply_from.py` supports only: `insert_children`, `delete_node`, `delete_children`,
+`replace_children`, `update_node_fields`, and `patch_text`. Other op types require custom handling.
+
 ### Missing-text exhibits
 If the corpus references an exhibit but the text is not available, create a stub instrument:
 - `instrument.availability.has_text = false`
 - `instrument.availability.reason = not_in_corpus`
 - `content` may be omitted (or included as a minimal placeholder)
+
+## Node metadata (selected)
+Common optional `node.meta` fields in the schema:
+- `render_hint` (style hints + `preserve_linebreaks`)
+- `indent_level` (display indentation for nested content)
+- `pdf_dest` / `pdf_refs` (facsimile navigation)
+- `provenance` (snapshot edit lineage)
+- `transcription` (OCR or normalization notes)
+- `exhibit_ref` (links exhibit nodes to instruments/base docs)
+- `citations`, `source_ranges`, `tags`, `note`
 
 ## Generated artifacts (CI output)
 ### Snapshots

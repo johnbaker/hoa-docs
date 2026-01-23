@@ -51,14 +51,18 @@ CI produces:
 ## Source of truth
 
 Canonical content is edited in structured JSON under `data/instruments/`. Markdown/HTML is generated from JSON as a build artifact (not edited directly).
+For non-substantive fixes (anchors/tags/heading_path), use `data/overrides/`.
 
 See:
 - `docs/overview.md`
 - `docs/data-model.md`
 - `docs/indexing-and-search.md`
+- `docs/transcription-conventions.md`
+- `docs/pdf-mapping.md`
+- `docs/rendering.md`
 - `docs/ui-mockups.md`
 - `docs/admin-app.md`
 
 ## Ignore Folder
 
-The `source/` folder should be ignored and only contains information for a human and will go away once we migrate.
+The `source/` folder is for human reference only. Do not read or edit anything in `source/`; it will be removed after migration.
