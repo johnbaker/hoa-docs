@@ -134,3 +134,15 @@ One small note for Codex usage (so it generates correctly)
 - Prefer paragraph.label for same-line labels: (a), A., SECTION 1. when inline.
 - Always create proper section nodes for TOC/anchors, even if the PDF is inline.
 - Skip facsimile layout features; optionally include meta.pdf_refs later.
+
+---
+
+## Editing snapshot JSON
+
+When editing snapshot JSON, set node.meta.provenance for any node created or modified by an amendment:
+- created_by_instrument_id + created_by_op_id for inserted nodes
+- modified_by_instrument_id + modified_by_op_id for replaced nodes
+- replaces_node_id when a node supersedes a prior node id
+Use the amendment’s instrument.id and the exact operations.op_id from its instrument JSON.
+Do not change node ids unless required.
+

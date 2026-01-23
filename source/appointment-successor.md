@@ -27,12 +27,5 @@ ENTERED the day and date first above written.
 INDYMAC BANK F.S.B. d/b/a/
 CONSTRUCTION LENDING
 CORPORATION OF AMERICA
-
-BY: Sixty W. Mong
 SCOTT W. MORRIS
 VICE PRESIDENT
-
-STATE OF ILLINOIS
-COUNTY OF COOK
-
-Personally appeared before me, , a Notary Public, Scott W. Morris, with whom I am personally acquainted, and who acknowledged that he executed the within instrument for the purposes therein contained, and who further acknowledged that he is the VP of INDYMAC BANK F.S.B d/b/a/ CONSTRUCTION LENDING CORPORATION OF AMERICA, a corporation, and is authorized by the corporation to execute this instrument on behalf of the corporation.

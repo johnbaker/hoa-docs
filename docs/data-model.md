@@ -10,6 +10,26 @@ Each recorded item (instrument) is stored as structured JSON:
 See schema:
 - `schemas/instrument-document.schema.json`
 
+## Operation extensions (proposed)
+These op types allow amendments to reference only amendment text without restating base text:
+
+### patch_text
+Applies targeted text edits to an existing node by anchoring to existing text.
+Use this for "insert after X", "insert before X", or simple replace/delete cases.
+Use `text_patches` with an `anchor_text` or `match_text` and an `occurrence` index.
+
+### update_node_fields
+Updates node metadata fields such as `title` or `label` without replacing text.
+Use this for "change the title to read ..." or "label the first paragraph as (a)."
+
+### target_selector
+Optional selector used when stable `target_node_id` is unknown.
+Supports targeting by `heading_text` or `section_path` with an `occurrence` index.
+
+### incorporation updates
+`update_incorporation` supports `previous_incorporated_base_doc_id` so changes are explicit
+when replacing an exhibit with a new incorporated base document or new payload instrument.
+
 ### Missing-text exhibits
 If the corpus references an exhibit but the text is not available, create a stub instrument:
 - `instrument.availability.has_text = false`

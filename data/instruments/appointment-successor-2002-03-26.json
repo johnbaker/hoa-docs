@@ -1,0 +1,186 @@
+{
+  "content": {
+    "schema_version": 1,
+    "root_ref": "node:appointment-successor:root",
+    "nodes": [
+      {
+        "id": "node:appointment-successor:root",
+        "type": "document",
+        "children": [
+          {
+            "ref": "node:appointment-successor:heading-1"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-1"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-2"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-3"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-4"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-5"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-6"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-7"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-8"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-9"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-10"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-11"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-12"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-13"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-14"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-15"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-16"
+          },
+          {
+            "ref": "node:appointment-successor:root:p-17"
+          }
+        ]
+      },
+      {
+        "id": "node:appointment-successor:heading-1",
+        "type": "heading",
+        "text": "APPOINTMENT OF SUCCESSOR DECLARANT FOR WINSTON HILLS SUBDIVISION",
+        "meta": {
+          "pdf_dest": {
+            "name": "appoint-successor-declarant"
+          }
+        }
+      },
+      {
+        "id": "node:appointment-successor:root:p-1",
+        "type": "paragraph",
+        "text": "This Appointment of Successor Declarant For Winston Hills Subdivision set forth and entered into this 26 day of MARCH, 2002, by the undersigned."
+      },
+      {
+        "id": "node:appointment-successor:root:p-2",
+        "type": "paragraph",
+        "text": "WITNESSETH:"
+      },
+      {
+        "id": "node:appointment-successor:root:p-3",
+        "type": "paragraph",
+        "text": "WHEREAS, by instrument entitled Phase One of Winston Hills (Village III) Declaration Office for Summer County, Tennessee, RBAG/Preston - Winston Hills, LLC was named \"Declarant\" as defined therein; and"
+      },
+      {
+        "id": "node:appointment-successor:root:p-4",
+        "type": "paragraph",
+        "text": "WHEREAS, by Construction Trust Deed with Assignment of Rents, Security Agreement Tennessee (the \"Deed of Trust\") RBAG/Preston - Winston Hills, LLC conveyed to Joseph B. Pitt, Jr., Trustee, the hereinafter described property for the purpose of securing the payment of the indebtedness and performance of the obligations therein set forth, together with all rights appurtenant thereto; and"
+      },
+      {
+        "id": "node:appointment-successor:root:p-5",
+        "type": "paragraph",
+        "text": "WHEREAS, Laura Lincoln was appointed Successor Trustee on November 21, 2000, to serve in the place and stead of Joseph B. Pitt, Jr., Trustee, said appointment being recorded in"
+      },
+      {
+        "id": "node:appointment-successor:root:p-6",
+        "type": "paragraph",
+        "text": "WHEREAS, default was made in the terms and conditions of said Deed of Trust, and the beneficiary requested Laura Lincoln, Successor Trustee, to advertise and sell said property under the terms and provisions of said Deed of Trust; and"
+      },
+      {
+        "id": "node:appointment-successor:root:p-7",
+        "type": "paragraph",
+        "text": "WHEREAS, in pursuance of said request of said beneficiary, the said property was advertised for sale in conformity with the terms and provisions of said Deed of Trust, by which advertisement the sale was appointed to be held on the 20th day of April, 2001, at the Summer County Courthouse in Gallatin, Tennessee; and"
+      },
+      {
+        "id": "node:appointment-successor:root:p-8",
+        "type": "paragraph",
+        "text": "WHEREAS, at the time and place mentioned in said advertisement, Laura Lincoln, Successor Trustee, offered said property for sale at public outery to the highest and best bidder for cash (or credit upon the indebtedness secured if the holder of the secured indebtedness were the successful bidder) at which sale, Indymac Bank, F.S.B. d/b/a Construction Lending Corporation of America, the holder of the secured indebtedness, was the highest and best bidder and became the purchaser of said property for the sum of $5,050,000.00; and"
+      },
+      {
+        "id": "node:appointment-successor:root:p-9",
+        "type": "paragraph",
+        "text": "WHEREAS, Laura Lincoln, as Successor Trustee, did grant, bargain, sell and convey to the said Indymac Bank, F.S.B. d/b/a Construction Lending Corporation of America, in fee simple forever, the property above mentioned in the County of Summer and State of Tennessee, County, Tennessee, together with all rights appurtenant thereto; and"
+      },
+      {
+        "id": "node:appointment-successor:root:p-10",
+        "type": "paragraph",
+        "text": "WHEREAS, Indymac Bank, F.S.B. d/b/a Construction Lending Corporation of America did grant, bargain, sell and convey to HALO Properties, LLC in fee simple forever, the property Sumner County, Tennessee, together with all rights appurtenant thereto."
+      },
+      {
+        "id": "node:appointment-successor:root:p-11",
+        "type": "paragraph",
+        "text": "NOW, THEREFORE, in consideration of the premises contained herein, the undersigned, Indymac Bank, F.S.B. d/b/a Construction Lending Corporation of America, does hereby appoint HALO Properties, LLC as the Successor Declarant pursuant to the Phase One of Winston Hills (Village III) Declaration of Covenants, Conditions and Restrictions, recorded in place and stead of RBAG/Preston- Winston Hills, LLC."
+      },
+      {
+        "id": "node:appointment-successor:root:p-12",
+        "type": "paragraph",
+        "text": "ENTERED the day and date first above written."
+      },
+      {
+        "id": "node:appointment-successor:root:p-13",
+        "type": "paragraph",
+        "text": "INDYMAC BANK F.S.B. d/b/a/"
+      },
+      {
+        "id": "node:appointment-successor:root:p-14",
+        "type": "paragraph",
+        "text": "CONSTRUCTION LENDING"
+      },
+      {
+        "id": "node:appointment-successor:root:p-15",
+        "type": "paragraph",
+        "text": "CORPORATION OF AMERICA"
+      },
+      {
+        "id": "node:appointment-successor:root:p-16",
+        "type": "paragraph",
+        "text": "SCOTT W. MORRIS"
+      },
+      {
+        "id": "node:appointment-successor:root:p-17",
+        "type": "paragraph",
+        "text": "VICE PRESIDENT"
+      }
+    ],
+    "meta": {
+      "generated_at": "2026-01-23T05:52:56.229922Z"
+    }
+  },
+  "instrument": {
+    "id": "appointment-successor-2002-03-26",
+    "base_doc_id": "appointment-successor",
+    "title": "Appointment of Successor Declarant for Winston Hills Subdivision",
+    "instrument_kind": "appointment",
+    "doc_type": "Appointment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2002-06-05",
+    "effective_at": "2002-03-26",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1488",
+      "page": "550"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  }
+}
