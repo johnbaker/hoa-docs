@@ -126,7 +126,12 @@
       {
         "id": "node:appointment-successor:root:p-11",
         "type": "paragraph",
-        "text": "NOW, THEREFORE, in consideration of the premises contained herein, the undersigned, Indymac Bank, F.S.B. d/b/a Construction Lending Corporation of America, does hereby appoint HALO Properties, LLC as the Successor Declarant pursuant to the Phase One of Winston Hills (Village III) Declaration of Covenants, Conditions and Restrictions, recorded in place and stead of RBAG/Preston- Winston Hills, LLC."
+        "text": "NOW, THEREFORE, in consideration of the premises contained herein, the undersigned, Indymac Bank, F.S.B. d/b/a Construction Lending Corporation of America, does hereby appoint HALO Properties, LLC as the Successor Declarant pursuant to the Phase One of Winston Hills (Village III) Declaration of Covenants, Conditions and Restrictions, recorded in place and stead of RBAG/Preston- Winston Hills, LLC.",
+        "meta": {
+          "pdf_dest": {
+            "name": "appoint-successor-p11"
+          }
+        }
       },
       {
         "id": "node:appointment-successor:root:p-12",
@@ -188,6 +193,13 @@
       "op_id": "assign-successor-declarant-2002-03-26",
       "op_type": "assign_declarant_rights",
       "target_base_doc_id": "ccr",
+      "source_ref": {
+        "instrument_id": "appointment-successor-2002-03-26",
+        "node_id": "node:appointment-successor:root:p-11",
+        "pdf_dest": {
+          "name": "appoint-successor-p11"
+        }
+      },
       "parties": {
         "assignor": "RBAG/Preston- Winston Hills, LLC",
         "assignee": "HALO Properties, LLC"
