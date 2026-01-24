@@ -117,6 +117,7 @@ When a query only matches prior versions, results must be labeled **Historical**
   `insert_children`, `delete_node`, `delete_children`, `replace_children`, `update_node_fields`,
   and `patch_text`.
 - `scripts/render_json_to_html.py` renders JSON to HTML for local inspection only.
+- PDF destination testing runbook: `docs/pdf-destination-testing.md`
 
 ---
 
