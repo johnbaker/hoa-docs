@@ -2775,7 +2775,7 @@
         "children": [],
         "meta": {
           "exhibit_ref": {
-            "base_doc_id": "exhibit-c"
+            "instrument_id": "exhibit-c-1999-05-27"
           }
         }
       },
@@ -2786,7 +2786,7 @@
         "children": [],
         "meta": {
           "exhibit_ref": {
-            "base_doc_id": "exhibit-d"
+            "instrument_id": "exhibit-d-1999-05-27"
           }
         }
       }
@@ -2813,20 +2813,74 @@
     "availability": {
       "has_text": true,
       "reason": "available"
-    }
+    },
+    "coverage": [
+      {
+        "action": "other",
+        "scope_kind": "all_lots",
+        "phase_scope": "full_phase",
+        "plat_refs": [
+          {
+            "book": "17",
+            "page": "374"
+          }
+        ],
+        "legal_description": "Being land located in the 5TH Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee. The above described property is encumbered by easements for sanitary sewer lines, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress- egress easements for the use and benefit of the Winston Hills Homeowners Association.",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Initial declaration coverage.",
+        "phases": [
+          "Village III"
+        ]
+      },
+      {
+        "action": "other",
+        "scope_kind": "common_area_only",
+        "phase_scope": "full_phase",
+        "plat_refs": [
+          {
+            "book": "17",
+            "page": "374"
+          }
+        ],
+        "legal_description": "Being land located in the 555 Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee. HOWEVER, there is specifically EXCLUDED AND EXCEPTED from the above described property all numbered and platted lots and public utility easements as shown in plat of said lots and public streets as shown in plat of WINSTON HILLS [Village III], a Planned Unit Development, of record in Plat Book 17, Page 374, of the Register's Office for Sumner County, Tennessee, and to which plat reference is hereby made for more complete details as to location and description of said lot areas and public utilities and drainage easements. The above described property is encumbered by easements for sanitary sewer lines, open space, detention area, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress-egress easements for the use and benefit of the WINSTON HILLS HOMEOWNERS ASSOCIATION.",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Initial declaration common areas.",
+        "phases": [
+          "Village III"
+        ]
+      }
+    ],
+    "current_declarant": {
+      "name": "RBAG/PRESTON - WINSTON HILLS, L.L.C.",
+      "role": "declarant",
+      "source_instrument_id": "ccr-1999-05-27",
+      "effective_at": "1999-05-27",
+      "notes": "Declared in definitions section."
+    },
+    "declarant_history": [
+      {
+        "name": "RBAG/PRESTON - WINSTON HILLS, L.L.C.",
+        "role": "declarant",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Declared in definitions section."
+      }
+    ]
   },
   "incorporations": [
     {
       "role": "exhibit",
       "exhibit_label": "EXHIBIT \"C\" BYLAWS OF WINSTON HILLS HOMEOWNERS ASSOCIATION",
-      "base_doc_id": "exhibit-c",
-      "included_in_instrument_id": "ccr-1999-05-27"
+      "included_in_instrument_id": "ccr-1999-05-27",
+      "instrument_id": "exhibit-c-1999-05-27"
     },
     {
       "role": "exhibit",
       "exhibit_label": "EXHIBIT \"D\" WINSTON HILLS Development Guidelines",
-      "base_doc_id": "exhibit-d",
-      "included_in_instrument_id": "ccr-1999-05-27"
+      "included_in_instrument_id": "ccr-1999-05-27",
+      "instrument_id": "exhibit-d-1999-05-27"
     }
   ]
 }

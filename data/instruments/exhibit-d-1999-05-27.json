@@ -23,25 +23,7 @@
             "ref": "node:exhibit-d:chapter-3"
           },
           {
-            "ref": "node:exhibit-d:shade-and-ornamental-trees"
-          },
-          {
-            "ref": "node:exhibit-d:evergreen-trees"
-          },
-          {
-            "ref": "node:exhibit-d:shrubs---groundcover"
-          },
-          {
-            "ref": "node:exhibit-d:3-12-6"
-          },
-          {
-            "ref": "node:exhibit-d:3-12-7"
-          },
-          {
-            "ref": "node:exhibit-d:3-12-8"
-          },
-          {
-            "ref": "node:exhibit-d:4-0"
+            "ref": "node:exhibit-d:chapter-4"
           }
         ]
       },
@@ -404,6 +386,15 @@
           },
           {
             "ref": "node:exhibit-d:3-12"
+          },
+          {
+            "ref": "node:exhibit-d:3-13"
+          },
+          {
+            "ref": "node:exhibit-d:3-14"
+          },
+          {
+            "ref": "node:exhibit-d:3-15"
           }
         ]
       },
@@ -1498,7 +1489,7 @@
         "title": "Grading and Drainage",
         "meta": {
           "pdf_dest": {
-            "name": "ccr-x-d-c3-3.6.7"
+            "name": "ccr-x-d-c3-3.7"
           }
         },
         "children": [
@@ -3020,6 +3011,15 @@
           },
           {
             "ref": "node:exhibit-d:3-12-5"
+          },
+          {
+            "ref": "node:exhibit-d:3-12-6"
+          },
+          {
+            "ref": "node:exhibit-d:3-12-7"
+          },
+          {
+            "ref": "node:exhibit-d:3-12-8"
           }
         ]
       },
@@ -3325,6 +3325,15 @@
           },
           {
             "ref": "node:exhibit-d:3-12-5:p-4"
+          },
+          {
+            "ref": "node:exhibit-d:shade-and-ornamental-trees"
+          },
+          {
+            "ref": "node:exhibit-d:evergreen-trees"
+          },
+          {
+            "ref": "node:exhibit-d:shrubs---groundcover"
           }
         ]
       },
@@ -3401,7 +3410,7 @@
       },
       {
         "id": "node:exhibit-d:shade-and-ornamental-trees",
-        "type": "section",
+        "type": "subsection",
         "title": "Shade and Ornamental Trees",
         "children": [
           {
@@ -3533,7 +3542,7 @@
       },
       {
         "id": "node:exhibit-d:evergreen-trees",
-        "type": "section",
+        "type": "subsection",
         "title": "Evergreen Trees",
         "children": [
           {
@@ -3577,7 +3586,7 @@
       },
       {
         "id": "node:exhibit-d:shrubs---groundcover",
-        "type": "section",
+        "type": "subsection",
         "title": "Shrubs & Groundcover",
         "children": [
           {
@@ -3588,15 +3597,6 @@
           },
           {
             "ref": "node:exhibit-d:shrubs---groundcover:p-2"
-          },
-          {
-            "ref": "node:exhibit-d:3-13"
-          },
-          {
-            "ref": "node:exhibit-d:3-14"
-          },
-          {
-            "ref": "node:exhibit-d:3-15"
           }
         ]
       },
@@ -4147,6 +4147,30 @@
         "text": "Model homes shall be converted to standard family residences within sixty (60) days of closing The DRC is to approve all aspects of conversion. Sales offices must be put back to a condition of typical units in the builder product line, i.e.,, French doors in garage walls are not permitted to remain but must be bricked in or replaced with operating garage doors or partially bricked and windowed The conversion must return the model home to conformity with all design guidelines applicable to non-model homes."
       },
       {
+        "id": "node:exhibit-d:chapter-4",
+        "type": "section",
+        "label": "Chapter 4",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-x-d-c4"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:exhibit-d:4-0"
+          },
+          {
+            "ref": "node:exhibit-d:4-1"
+          },
+          {
+            "ref": "node:exhibit-d:4-2"
+          },
+          {
+            "ref": "node:exhibit-d:development-review-committee"
+          }
+        ]
+      },
+      {
         "id": "node:exhibit-d:4-0",
         "type": "section",
         "label": "4.0",
@@ -4158,15 +4182,6 @@
         "children": [
           {
             "ref": "node:exhibit-d:4-0:p-1"
-          },
-          {
-            "ref": "node:exhibit-d:4-1"
-          },
-          {
-            "ref": "node:exhibit-d:4-2"
-          },
-          {
-            "ref": "node:exhibit-d:development-review-committee"
           }
         ]
       },
@@ -4546,7 +4561,7 @@
       }
     ],
     "meta": {
-      "generated_at": "2026-01-23T05:52:56.310048Z"
+      "generated_at": "2026-01-23T19:09:57.324533Z"
     }
   },
   "instrument": {

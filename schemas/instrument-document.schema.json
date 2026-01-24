@@ -50,11 +50,13 @@
         "effective_at": { "type": "string", "format": "date" },
         "expires_at": { "type": "string", "format": "date" },
         "recording": { "$ref": "#/$defs/RecordingInfo" },
-        "parties": { "type": "array", "items": { "$ref": "#/$defs/Party" } },
         "format": { "type": "string", "enum": ["json", "markdown", "pdf_text", "html", "other"] },
         "source": { "$ref": "#/$defs/SourceInfo" },
         "availability": { "$ref": "#/$defs/Availability" },
         "tags": { "type": "array", "items": { "type": "string", "minLength": 1 }, "uniqueItems": true },
+        "coverage": { "type": "array", "items": { "$ref": "#/$defs/CoverageEntry" } },
+        "declarant_history": { "type": "array", "items": { "$ref": "#/$defs/DeclarantEntry" } },
+        "current_declarant": { "$ref": "#/$defs/DeclarantEntry" },
         "notes": { "type": "string" },
         "created_at": { "type": "string", "format": "date-time" },
         "updated_at": { "type": "string", "format": "date-time" }
@@ -80,18 +82,23 @@
     "Incorporation": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["role", "exhibit_label", "base_doc_id", "included_in_instrument_id"],
+      "required": ["role", "exhibit_label", "included_in_instrument_id"],
       "properties": {
         "role": { "type": "string", "enum": ["exhibit", "attachment", "incorporated_by_reference", "schedule", "other"] },
         "exhibit_label": { "type": "string", "minLength": 1 },
         "title": { "type": "string" },
+        "instrument_id": { "type": "string", "minLength": 1, "pattern": "^[a-z0-9][a-z0-9._:-]{1,127}$" },
         "base_doc_id": { "type": "string", "minLength": 1, "pattern": "^[a-z0-9][a-z0-9._-]{0,63}$" },
         "included_in_instrument_id": { "type": "string", "minLength": 1 },
         "effective_from": { "type": "string", "format": "date" },
         "effective_to": { "type": "string", "format": "date" },
         "availability_hint": { "type": "string", "enum": ["available", "missing_text", "unknown"] },
         "notes": { "type": "string" }
-      }
+      },
+      "anyOf": [
+        { "required": ["instrument_id"] },
+        { "required": ["base_doc_id"] }
+      ]
     },
 
     "RecordingInfo": {
@@ -108,15 +115,56 @@
       }
     },
 
-    "Party": {
+    "CoverageEntry": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["role", "name"],
+      "required": ["action", "source_instrument_id"],
       "properties": {
-        "role": { "type": "string", "enum": ["grantor", "grantee", "declarant", "assignee", "assignor", "owner", "association", "mortgagee", "other"] },
+        "action": { "type": "string", "enum": ["annex_property", "deannex_property", "other"] },
+        "scope_kind": { "type": "string", "enum": ["all_lots", "some_lots", "common_area_only", "declarant_rights", "unknown"] },
+        "phases": { "type": "array", "items": { "type": "string" } },
+        "phase_scope": { "type": "string", "enum": ["full_phase", "partial_phase", "unknown"] },
+        "plat_refs": { "type": "array", "items": { "$ref": "#/$defs/PlatRef" } },
+        "parcel_ids": { "type": "array", "items": { "type": "string" } },
+        "lot_ids": { "type": "array", "items": { "type": "string" } },
+        "lot_refs": { "type": "array", "items": { "$ref": "#/$defs/LotRef" } },
+        "legal_description": { "type": "string" },
+        "source_instrument_id": { "type": "string", "minLength": 1 },
+        "effective_at": { "type": "string", "format": "date" },
+        "notes": { "type": "string" }
+      }
+    },
+
+    "PlatRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["book", "page"],
+      "properties": {
+        "book": { "type": "string" },
+        "page": { "type": "string" }
+      }
+    },
+
+    "LotRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["phase", "lot"],
+      "properties": {
+        "phase": { "type": "string" },
+        "lot": { "type": "string" }
+      }
+    },
+
+    "DeclarantEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "source_instrument_id"],
+      "properties": {
         "name": { "type": "string", "minLength": 1 },
-        "entity_type": { "type": "string", "enum": ["person", "company", "trust", "government", "unknown"] },
-        "address": { "type": "string" }
+        "role": { "type": "string" },
+        "source_instrument_id": { "type": "string", "minLength": 1 },
+        "effective_at": { "type": "string", "format": "date" },
+        "notes": { "type": "string" }
       }
     },
 
@@ -148,7 +196,8 @@
       "type": "object",
       "additionalProperties": false,
       "properties": {
-        "generated_at": { "type": "string", "format": "date-time" }
+        "generated_at": { "type": "string", "format": "date-time" },
+        "tombstones": { "type": "array", "items": { "$ref": "#/$defs/Tombstone" } }
       }
     },
 
@@ -325,6 +374,18 @@
       }
     },
 
+    "SourceRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["instrument_id", "node_id"],
+      "properties": {
+        "instrument_id": { "type": "string", "minLength": 1 },
+        "node_id": { "type": "string", "minLength": 1 },
+        "pdf_dest": { "$ref": "#/$defs/PdfDest" },
+        "note": { "type": "string" }
+      }
+    },
+
     "Provenance": {
       "type": "object",
       "additionalProperties": false,
@@ -333,7 +394,40 @@
         "created_by_op_id": { "type": "string" },
         "modified_by_instrument_id": { "type": "string" },
         "modified_by_op_id": { "type": "string" },
-        "replaces_node_id": { "type": "string" }
+        "replaces_node_id": { "type": "string" },
+        "source_ref": { "$ref": "#/$defs/SourceRef" }
+      }
+    },
+
+    "Tombstone": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["node_id", "deleted_by_instrument_id", "deleted_by_op_id"],
+      "properties": {
+        "node_id": { "type": "string", "minLength": 1 },
+        "parent_node_id": { "type": "string" },
+        "position": {
+          "type": "string",
+          "enum": ["start", "end", "after", "before", "only_child", "unknown"]
+        },
+        "before_child_node_id": { "type": "string" },
+        "after_child_node_id": { "type": "string" },
+        "deleted_by_instrument_id": { "type": "string" },
+        "deleted_by_op_id": { "type": "string" },
+        "last_seen_version_id": { "type": "string" },
+        "source_ref": { "$ref": "#/$defs/SourceRef" },
+        "cached": { "$ref": "#/$defs/TombstoneCached" }
+      }
+    },
+
+    "TombstoneCached": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "type": { "type": "string" },
+        "label": { "type": "string" },
+        "title": { "type": "string" },
+        "text_snippet": { "type": "string" }
       }
     },
 
@@ -403,6 +497,7 @@
         "position": { "type": "string", "enum": ["before", "after", "start", "end"] },
         "before_child_node_id": { "type": "string" },
         "after_child_node_id": { "type": "string" },
+        "source_ref": { "$ref": "#/$defs/SourceRef" },
         "payload_nodes": { "type": "array", "items": { "$ref": "#/$defs/Node" } },
         "payload_instrument_id": { "type": "string" },
         "text_patches": { "type": "array", "items": { "$ref": "#/$defs/TextPatch" } },
@@ -413,6 +508,7 @@
           "properties": {
             "exhibit_label": { "type": "string" },
             "previous_incorporated_base_doc_id": { "type": "string" },
+            "previous_payload_instrument_id": { "type": "string" },
             "new_incorporated_base_doc_id": { "type": "string" },
             "new_payload_instrument_id": { "type": "string" }
           }
@@ -432,6 +528,9 @@
           "additionalProperties": false,
           "properties": {
             "scope_kind": { "type": "string", "enum": ["all_lots", "some_lots", "common_area_only", "declarant_rights", "unknown"] },
+            "phases": { "type": "array", "items": { "type": "string" } },
+            "phase_scope": { "type": "string", "enum": ["full_phase", "partial_phase", "unknown"] },
+            "plat_refs": { "type": "array", "items": { "$ref": "#/$defs/PlatRef" } },
             "parcel_ids": { "type": "array", "items": { "type": "string" } },
             "lot_ids": { "type": "array", "items": { "type": "string" } },
             "legal_description": { "type": "string" }

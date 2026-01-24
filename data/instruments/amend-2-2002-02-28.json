@@ -176,19 +176,16 @@
   },
   "operations": [
     {
-      "op_id": "delete-section-3-paragraph-c",
-      "op_type": "delete_node",
-      "target_base_doc_id": "ccr",
-      "target_node_id": "node:ccr:section-3--amendment:list-1:p-3",
-      "effective_at": "2002-02-28"
-    },
-    {
       "op_id": "insert-section-19-subjection-submittal",
       "op_type": "insert_children",
       "target_base_doc_id": "ccr",
       "target_node_id": "node:ccr:article-ix-general-provisions",
       "position": "after",
       "after_child_node_id": "node:ccr:section-18--adoption-of-declaration",
+      "source_ref": {
+        "instrument_id": "amend-2-2002-02-28",
+        "node_id": "node:amend-2-2002-02-28:root:list-1:p-2"
+      },
       "payload_nodes": [
         {
           "id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant",
@@ -213,6 +210,13 @@
       "op_type": "replace_children",
       "target_base_doc_id": "ccr",
       "target_node_id": "node:ccr:section-3--amendment",
+      "source_ref": {
+        "instrument_id": "amend-2-2002-02-28",
+        "node_id": "node:amend-2-2002-02-28:root:list-1:p-1"
+      },
+      "meta": {
+        "note": "Second Amended Declaration's recital references a two-thirds vote threshold, but the replacement text sets 75% of votes."
+      },
       "payload_nodes": [
         {
           "id": "node:ccr:section-3--amendment:amend-2-2002-02-28:p-1",

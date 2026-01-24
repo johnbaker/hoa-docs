@@ -182,5 +182,18 @@
       "has_text": true,
       "reason": "available"
     }
-  }
+  },
+  "operations": [
+    {
+      "op_id": "assign-successor-declarant-2002-03-26",
+      "op_type": "assign_declarant_rights",
+      "target_base_doc_id": "ccr",
+      "parties": {
+        "assignor": "RBAG/Preston- Winston Hills, LLC",
+        "assignee": "HALO Properties, LLC"
+      },
+      "effective_at": "2002-03-26",
+      "notes": "Appointment of HALO Properties, LLC as Successor Declarant in place and stead of RBAG/Preston- Winston Hills, LLC."
+    }
+  ]
 }

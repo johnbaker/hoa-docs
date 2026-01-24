@@ -41,6 +41,10 @@ when replacing an exhibit with a new incorporated base document or new payload i
 `scripts/apply_from.py` supports only: `insert_children`, `delete_node`, `delete_children`,
 `replace_children`, `update_node_fields`, and `patch_text`. Other op types require custom handling.
 
+### Operation source refs
+Each operation may include `source_ref` to point back to the amendment clause that authorizes it.
+This helps the UI link a change to the exact amendment text node (and optional PDF destination).
+
 ### Missing-text exhibits
 If the corpus references an exhibit but the text is not available, create a stub instrument:
 - `instrument.availability.has_text = false`
@@ -56,6 +60,15 @@ Common optional `node.meta` fields in the schema:
 - `transcription` (OCR or normalization notes)
 - `exhibit_ref` (links exhibit nodes to instruments/base docs)
 - `citations`, `source_ranges`, `tags`, `note`
+
+## Tombstones (deleted nodes)
+Snapshots may include `content.meta.tombstones` to preserve deletion history for UI display.
+Each tombstone records:
+- `node_id` and `parent_node_id`
+- placement (`position` plus `before_child_node_id`/`after_child_node_id` when applicable)
+- `deleted_by_instrument_id` and `deleted_by_op_id`
+Tombstones may also carry `source_ref` to link back to the amendment clause that deleted them.
+Optional fields like `last_seen_version_id` or cached display info may be included by the generator.
 
 ## Generated artifacts (CI output)
 ### Snapshots

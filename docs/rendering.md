@@ -15,6 +15,7 @@ This repo includes a simple HTML preview renderer for instrument JSON:
 - `meta.render_hint` styles
 - `meta.pdf_dest` / `meta.pdf_refs` facsimile navigation
 - `meta.citations` / `meta.source_ranges`
+- `meta.provenance` and `content.meta.tombstones` (UI uses these for amendment badges and deleted-section placeholders)
 - Bundle-aware rendering (CC&R + exhibits)
 
 If you update the node schema, align this doc with the renderer or note the gap here.

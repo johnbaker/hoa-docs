@@ -63,7 +63,7 @@
       {
         "id": "node:amend-7:root:p-2",
         "type": "paragraph",
-        "text": "WITHNESSETH"
+        "text": "WITNESSETH"
       },
       {
         "id": "node:amend-7:root:p-3",
@@ -140,9 +140,23 @@
       "op_id": "annex-plat-book-22-page-117",
       "op_type": "annex_property",
       "target_base_doc_id": "ccr",
+      "source_ref": {
+        "instrument_id": "amend-7-2005-01-04",
+        "node_id": "node:amend-7:root:p-7"
+      },
       "scope": {
         "scope_kind": "some_lots",
-        "legal_description": "Final Plat of Winston Hills Phase V, Section II recorded in Plat Book 22, page 117, Register's Office of Sumner County, Tennessee."
+        "legal_description": "Final Plat of Winston Hills Phase V, Section II recorded in Plat Book 22, page 117, Register's Office of Sumner County, Tennessee.",
+        "phases": [
+          "Phase V, Section II"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "22",
+            "page": "117"
+          }
+        ]
       },
       "effective_at": "2005-01-04"
     }

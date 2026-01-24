@@ -6,6 +6,9 @@
       {
         "id": "node:amend-5:root",
         "type": "document",
+        "meta": {
+          "note": "Recital paragraph says \"THIS FOURTH AMENDMENT\" while instrument is the Fifth Amendment."
+        },
         "children": [
           {
             "ref": "node:amend-5:heading-1"
@@ -125,16 +128,31 @@
     "availability": {
       "has_text": true,
       "reason": "available"
-    }
+    },
+    "notes": "Recital paragraph says \"THIS FOURTH AMENDMENT\" while instrument is the Fifth Amendment."
   },
   "operations": [
     {
       "op_id": "annex-plat-book-21-page-170",
       "op_type": "annex_property",
       "target_base_doc_id": "ccr",
+      "source_ref": {
+        "instrument_id": "amend-5-2003-11-07",
+        "node_id": "node:amend-5:root:p-7"
+      },
       "scope": {
         "scope_kind": "some_lots",
-        "legal_description": "Final Plat of Winston Hills Phase I, Section IV recorded in Plat Book 21, page 170, Register's Office of Sumner County, Tennessee."
+        "legal_description": "Final Plat of Winston Hills Phase I, Section IV recorded in Plat Book 21, page 170, Register's Office of Sumner County, Tennessee.",
+        "phases": [
+          "Phase I, Section IV"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "21",
+            "page": "170"
+          }
+        ]
       },
       "effective_at": "2003-11-07"
     }

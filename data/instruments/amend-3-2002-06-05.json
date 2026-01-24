@@ -158,6 +158,10 @@
       "target_node_id": "node:ccr:root",
       "position": "after",
       "after_child_node_id": "node:ccr:article-ix-general-provisions",
+      "source_ref": {
+        "instrument_id": "amend-3-2002-06-05",
+        "node_id": "node:amend-3:root:list-1:p-1"
+      },
       "payload_nodes": [
         {
           "id": "node:ccr:article-xiii-fha-va-approval",
@@ -169,7 +173,7 @@
             }
           ],
           "meta": {
-            "note": "The Third Amendment (2002-06-05) places FHA/VA approval text into Article XIII Section 1, however Article XIII does not exist in the original Covenants."
+            "note": "The Third Amendment places FHA/VA approval text into Article XIII Section 1, however Article XIII does not exist in the original Covenants."
           }
         },
         {

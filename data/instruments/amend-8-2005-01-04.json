@@ -6,6 +6,9 @@
       {
         "id": "node:amend-8:root",
         "type": "document",
+        "meta": {
+          "note": "Recital references \"Seventh Amendment\" but this instrument is the Eighth Amendment."
+        },
         "children": [
           {
             "ref": "node:amend-8:heading-1"
@@ -94,6 +97,9 @@
       {
         "id": "node:amend-8:root:p-7",
         "type": "paragraph",
+        "meta": {
+          "note": "Recital references this as the \"Seventh Amendment\" but this instrument is the Eighth Amendment."
+        },
         "text": "WHEREAS, the undersigned Successor Declarant is an owner having 75% or more of the votes of the owners as of the date of this Seventh Amendment."
       },
       {
@@ -519,5 +525,241 @@
       "has_text": true,
       "reason": "available"
     }
-  }
+  },
+  "operations": [
+    {
+      "op_id": "insert-definitions-drc-acc",
+      "op_type": "insert_children",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-1--definitions:list-1",
+      "position": "after",
+      "after_child_node_id": "node:ccr:section-1--definitions:list-1:p-13",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-1:list-1:p-1"
+      },
+      "payload_nodes": [
+        {
+          "id": "node:ccr:section-1--definitions:list-1:p-14--drc",
+          "type": "list_item",
+          "label": "(n)",
+          "text": "\"DRC\" shall mean and refer to that Development Review Committee or Design Review Committee, Development Review Committee and Design Review Committee being interchangeable terms referring to the same entity, referenced in the Winston Hills Development Guidelines attached as Exhibit \"D\" to this Declaration."
+        },
+        {
+          "id": "node:ccr:section-1--definitions:list-1:p-15--acc",
+          "type": "list_item",
+          "label": "(o)",
+          "text": "\"ACC\" shall mean and refer to that Architectural Control Committee appointed by the Board of Directors of the Association pursuant to Article IX of the By-Laws of the Winston Hills Homeowners Association attached as Exhibit \"C\" to this Declaration. By First Amendment to Winston Hills Development Guidelines and Use Restrictions recorded simultaneously herewith, the ACC shall undertake all duties and responsibilities of the DRC and shall be referenced in lieu of the DRC wherever DRC is referenced in the Winston Hills Development Guidelines attached as Exhibit \"D\" to this Declaration."
+        }
+      ],
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "insert-remedial-assessments-list-item",
+      "op_type": "insert_children",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1",
+      "position": "after",
+      "after_child_node_id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-2",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-1"
+      },
+      "payload_nodes": [
+        {
+          "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-3--remedial-assessments",
+          "type": "list_item",
+          "label": "(c)",
+          "text": "remedial assessments for violations of the Winston Hills Development Guidelines and Use Restrictions."
+        }
+      ],
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "patch-article-iv-section-1-add-remedial-assessments",
+      "op_type": "patch_text",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-2",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-2"
+      },
+      "text_patches": [
+        {
+          "action": "insert_after",
+          "anchor_text": "special assessments",
+          "occurrence": 1,
+          "insert_text": " and remedial assessments"
+        }
+      ],
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "patch-article-iv-section-1-define-assessments-collectively",
+      "op_type": "patch_text",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-1",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-3"
+      },
+      "text_patches": [
+        {
+          "action": "insert_after",
+          "anchor_text": "pay to the Association:",
+          "occurrence": 1,
+          "insert_text": " The reference to 'assessments' in this Article and elsewhere in this Declaration shall refer to annual, special and remedial assessments, collectively."
+        }
+      ],
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "update-section-5-title-remedial-assessments",
+      "op_type": "update_node_fields",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-5--special-assessments-for-capital-improvements",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-1"
+      },
+      "update_fields": {
+        "title": "SECTION 5. Special Assessments for Capital Improvements and Remedial Assessments for Violations of Winston Hills Development Guidelines and Use Restrictions."
+      },
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "label-section-5-first-paragraph",
+      "op_type": "update_node_fields",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-5--special-assessments-for-capital-improvements:p-1",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-2"
+      },
+      "update_fields": {
+        "label": "(a)"
+      },
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "insert-section-5-remedial-assessment-paragraph",
+      "op_type": "insert_children",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-5--special-assessments-for-capital-improvements",
+      "position": "after",
+      "after_child_node_id": "node:ccr:section-5--special-assessments-for-capital-improvements:p-1",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-3"
+      },
+      "payload_nodes": [
+        {
+          "id": "node:ccr:section-5--special-assessments-for-capital-improvements:p-2--remedial-assessments",
+          "type": "paragraph",
+          "label": "(b)",
+          "text": "In addition to the annual and special assessments authorized above, the Association (acting by and through the Board, either independently or upon advice of the DRC) may levy, at any time, a remedial assessment for the violation of any Winston Hills Development Guidelines attached as Exhibit \"D\" to the Declaration, and amended by First Amendment to Winston Hills Development Guidelines and Use Restrictions being recorded simultaneously herewith. Said remedial assessment shall include expenses incurred by the Association or the DRC to remedy such violation and a fine for the violation not to exceed ONE HUNDRED AND NO/100 DOLLARS ($100.00) per violation."
+        }
+      ],
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+      "op_type": "insert_children",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:article-ix-general-provisions",
+      "position": "after",
+      "after_child_node_id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-3"
+      },
+      "payload_nodes": [
+        {
+          "id": "node:ccr:section-19--leasing-of-units",
+          "type": "subsection",
+          "title": "SECTION 19. Leasing of Units.",
+          "meta": {
+            "note": "Amendment Eighth Amendment adds a second SECTION 19 but Second Amended Declaration already created SECTION 19; numbering is preserved as recorded."
+          },
+          "children": [
+            {
+              "ref": "node:ccr:section-19--leasing-of-units:list-1"
+            }
+          ]
+        },
+        {
+          "id": "node:ccr:section-19--leasing-of-units:list-1",
+          "type": "list",
+          "children": [
+            {
+              "ref": "node:ccr:section-19--leasing-of-units:list-1:p-1"
+            },
+            {
+              "ref": "node:ccr:section-19--leasing-of-units:list-1:p-2"
+            },
+            {
+              "ref": "node:ccr:section-19--leasing-of-units:list-1:p-3"
+            }
+          ]
+        },
+        {
+          "id": "node:ccr:section-19--leasing-of-units:list-1:p-1",
+          "type": "list_item",
+          "label": "(a)",
+          "text": "Definition. \"Leasing\" for purposes of the Declaration, is defined as regular, exclusive occupancy of a Unit by any person or persons other than the Owner for which the Owner receives any consideration or benefit, including, but not limited to a fee, service, gratuity, or emolument."
+        },
+        {
+          "id": "node:ccr:section-19--leasing-of-units:list-1:p-2",
+          "type": "list_item",
+          "label": "(b)",
+          "text": "General. Units may be rented only in their entirety; no fraction or portion may be rented. There shall be no subleasing of Units or assignment of leases unless prior written approval is obtained from the Board. No transient tenants may be accommodated in a Unit. All leases shall be in writing and shall be for an initial term of no less than six (6) months, except with the prior written consent of the Board. Notice of any lease, together with such additional information as may be required by the Board, shall be given to the Board by the Owner within ten (10) days of execution of the lease. The Owner must make available to the lessee copies of the Declaration, Bylaws, and the rules and regulations."
+        },
+        {
+          "id": "node:ccr:section-19--leasing-of-units:list-1:p-3",
+          "type": "list_item",
+          "label": "(c)",
+          "text": "Compliance with Declaration, Bylaws and Rules and Regulations. Every Owner shall cause all occupants of his or her Unit to comply with the Declaration, Bylaws, and the rules and regulations adopted pursuant thereto, and shall be responsible for all violations and losses to the Common Areas caused by such occupants, notwithstanding the fact that such occupants of a Unit are fully liable and may be sanctioned for any violation of the Declaration, Bylaws, and rules and regulations adopted pursuant thereto."
+        },
+        {
+          "id": "node:ccr:section-20--business-use",
+          "type": "subsection",
+          "title": "SECTION 20. Business Use.",
+          "children": [
+            {
+              "ref": "node:ccr:section-20--business-use:p-1"
+            },
+            {
+              "ref": "node:ccr:section-20--business-use:p-2"
+            }
+          ]
+        },
+        {
+          "id": "node:ccr:section-20--business-use:p-1",
+          "type": "paragraph",
+          "text": "No trade or business may be conducted in or from any Unit, except that an Owner or occupant residing in a Unit may conduct business activities within the Unit so long as: (a) the existence or operation of the business activity is not apparent or detectable by sight, sound or smell from outside the Unit; (b) the business activity conforms to all zoning requirements for the Property; (c) the business activity does not involve persons coming onto the Property who do not reside in the Property or door-to-door solicitation of residents of the Property; and (d) the business activity is consistent with the residential character of the Property and does not constitute a nuisance, or a hazardous or offensive use, or threaten the security or safety of other residents of the Property, as may be determined in the sole discretion of the Board."
+        },
+        {
+          "id": "node:ccr:section-20--business-use:p-2",
+          "type": "paragraph",
+          "text": "The terms \"business\" and \"trade\", as used in this provision, shall be constructed to have their ordinary, generally accepted meanings, and shall include, without limitation, any occupation, work or activity undertaken on an ongoing basis which involves the provision of goods or services to persons other than the provider's family and for which the provider receives a fee, compensation, or other form of consideration, regardless of whether: (i) such activity is engaged in full or part-time; (ii) such activity is intended to or does generate a profit; or (iii) a license is required therefore. Notwithstanding the above, the leasing of a Unit in accordance with T. of this Section shall not be considered a trade or business within the meaning of the section."
+        }
+      ],
+      "effective_at": "2005-01-04"
+    },
+    {
+      "op_id": "update-exhibit-c-bylaws-incorporation",
+      "op_type": "update_incorporation",
+      "target_base_doc_id": "ccr",
+      "source_ref": {
+        "instrument_id": "amend-8-2005-01-04",
+        "node_id": "node:amend-8:root:list-1:p-4:list-1:p-1"
+      },
+      "incorporation": {
+        "exhibit_label": "EXHIBIT \"C\" BYLAWS OF WINSTON HILLS HOMEOWNERS ASSOCIATION",
+        "previous_payload_instrument_id": "exhibit-c-1999-05-27",
+        "new_payload_instrument_id": "exhibit-c-2005-01-04"
+      },
+      "effective_at": "2005-01-04"
+    }
+  ]
 }
