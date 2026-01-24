@@ -79,7 +79,12 @@
       {
         "id": "node:amend-1-1999-09-14:root:p-7",
         "type": "paragraph",
-        "text": "NOW, THEREFORE, Declarant does hereby declare that all of the Lots and Common Areas shown and described on the Additional Plat(s) described above shall be held, sold and conveyed subject to all the easements, restrictions, charges, covenants, terms, liens and conditions contained in the Original Declaration, which are for the purpose of protecting the value and desirability of, and which shall run with the real property and be binding on all parties having any right, title or interest in the described properties or any part thereof, their heirs, successors and assigns, and shall inure to the benefit of each owner thereof. And the Declarant does hereby incorporate by reference all the definitions, terms, conditions, easements, restrictions, charges, covenants, terms, liens and conditions contained in the Original Declaration herein, as if they were fully copied herein. Any modifications which shall be necessary in the Original Declaration, for purposes of this Amendment, such as Exhibit A and Exhibit B to the Original Declaration, shall be deemed to be made in this Amendment, as they apply to the said Lots and Common Areas shown on the Additional Plat(s). This document shall be known as the \"First Amended Declaration\"."
+        "text": "NOW, THEREFORE, Declarant does hereby declare that all of the Lots and Common Areas shown and described on the Additional Plat(s) described above shall be held, sold and conveyed subject to all the easements, restrictions, charges, covenants, terms, liens and conditions contained in the Original Declaration, which are for the purpose of protecting the value and desirability of, and which shall run with the real property and be binding on all parties having any right, title or interest in the described properties or any part thereof, their heirs, successors and assigns, and shall inure to the benefit of each owner thereof. And the Declarant does hereby incorporate by reference all the definitions, terms, conditions, easements, restrictions, charges, covenants, terms, liens and conditions contained in the Original Declaration herein, as if they were fully copied herein. Any modifications which shall be necessary in the Original Declaration, for purposes of this Amendment, such as Exhibit A and Exhibit B to the Original Declaration, shall be deemed to be made in this Amendment, as they apply to the said Lots and Common Areas shown on the Additional Plat(s). This document shall be known as the \"First Amended Declaration\".",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend1-p7"
+          }
+        }
       },
       {
         "id": "node:amend-1-1999-09-14:root:p-8",
@@ -118,7 +123,10 @@
       "target_base_doc_id": "ccr",
       "source_ref": {
         "instrument_id": "amend-1-1999-09-14",
-        "node_id": "node:amend-1-1999-09-14:root:p-7"
+        "node_id": "node:amend-1-1999-09-14:root:p-7",
+        "pdf_dest": {
+          "name": "amend1-p7"
+        }
       },
       "scope": {
         "scope_kind": "some_lots",

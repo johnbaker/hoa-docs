@@ -222,7 +222,7 @@
         "label": "3.",
         "meta": {
           "pdf_dest": {
-            "name": "dev-guidelines-amend1-2"
+            "name": "dev-guidelines-amend1-3"
           }
         },
         "children": [
@@ -881,7 +881,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-1"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-1",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-1"
+        }
       },
       "payload_nodes": [
         {
@@ -900,7 +903,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-2"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-2",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-2"
+        }
       },
       "payload_nodes": [
         {
@@ -919,7 +925,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-3"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-3",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-3"
+        }
       },
       "payload_nodes": [
         {
@@ -938,7 +947,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-4"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-4",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-4"
+        }
       },
       "payload_nodes": [
         {
@@ -956,7 +968,10 @@
       "target_node_id": "node:exhibit-d:3-1-2",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-5"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-5",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-5"
+        }
       },
       "payload_nodes": [
         {
@@ -984,7 +999,10 @@
       "target_node_id": "node:exhibit-d:3-3-3:p-2",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-6"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-6",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-6"
+        }
       },
       "effective_at": "2005-01-04"
     },
@@ -995,7 +1013,10 @@
       "target_node_id": "node:exhibit-d:3-4-1:p-4",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-7"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-7",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-7"
+        }
       },
       "effective_at": "2005-01-04"
     },
@@ -1007,7 +1028,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-8"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-8",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-8"
+        }
       },
       "payload_nodes": [
         {
@@ -1027,7 +1051,10 @@
       "after_child_node_id": "node:exhibit-d:3-9-1:p-2",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-9"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-9",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-9"
+        }
       },
       "payload_nodes": [
         {
@@ -1046,7 +1073,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-10"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-10",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-10"
+        }
       },
       "payload_nodes": [
         {
@@ -1066,7 +1096,10 @@
       "after_child_node_id": "node:exhibit-d:3-9-12",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-11"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-11",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-11"
+        }
       },
       "payload_nodes": [
         {
@@ -1095,7 +1128,10 @@
       "target_node_id": "node:exhibit-d:3-10-1:p-1",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-12"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-12",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-12"
+        }
       },
       "effective_at": "2005-01-04"
     },
@@ -1107,7 +1143,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-13"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-13",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-13"
+        }
       },
       "payload_nodes": [
         {
@@ -1125,7 +1164,10 @@
       "target_node_id": "node:exhibit-d:3-11-1",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-14"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-14",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-14"
+        }
       },
       "payload_nodes": [
         {
@@ -1146,7 +1188,10 @@
       "target_node_id": "node:exhibit-d:3-11-4",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-15"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-15",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-15"
+        }
       },
       "payload_nodes": [
         {
@@ -1164,7 +1209,10 @@
       "target_node_id": "node:exhibit-d:3-11-4",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-15"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-15",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-15"
+        }
       },
       "update_fields": {
         "title": "Fences"
@@ -1178,7 +1226,10 @@
       "target_node_id": "node:exhibit-d:3-11-5:p-2",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-16"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-16",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-16"
+        }
       },
       "update_fields": {
         "text": "Decorations for holidays, including exterior seasonal holiday lighting, are acceptable, but must not be in place 30 days prior to an event and must be removed 15 days after an event."
@@ -1193,7 +1244,10 @@
       "position": "end",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-17"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-17",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-17"
+        }
       },
       "payload_nodes": [
         {
@@ -1213,7 +1267,10 @@
       "after_child_node_id": "node:exhibit-d:3-12-1:p-2",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-18"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-18",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-18"
+        }
       },
       "payload_nodes": [
         {
@@ -1234,7 +1291,10 @@
       "target_node_id": "node:exhibit-d:3-12-3",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-19"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-19",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-19"
+        }
       },
       "effective_at": "2005-01-04"
     },
@@ -1245,7 +1305,10 @@
       "target_node_id": "node:exhibit-d:3-12-4:p-1",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-20"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-20",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-20"
+        }
       },
       "update_fields": {
         "text": "The total quantity of trees must be planted within the front yard setback of a Lot unless the Lot backs up to Caudill Drive, common areas, or other areas of the development that do not contain residential housing or unless approved by the Board or the ACC"
@@ -1259,7 +1322,10 @@
       "target_node_id": "node:exhibit-d:3-14-1",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-21"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-21",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-21"
+        }
       },
       "payload_nodes": [
         {
@@ -1284,7 +1350,10 @@
       "after_child_node_id": "node:exhibit-d:3-15",
       "source_ref": {
         "instrument_id": "amend-1-development-guidelines-2005-01-04",
-        "node_id": "node:amend-1-development-guidelines:root:list-1:p-22"
+        "node_id": "node:amend-1-development-guidelines:root:list-1:p-22",
+        "pdf_dest": {
+          "name": "dev-guidelines-amend1-22"
+        }
       },
       "payload_nodes": [
         {

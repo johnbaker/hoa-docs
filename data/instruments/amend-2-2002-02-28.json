@@ -184,7 +184,10 @@
       "after_child_node_id": "node:ccr:section-18--adoption-of-declaration",
       "source_ref": {
         "instrument_id": "amend-2-2002-02-28",
-        "node_id": "node:amend-2-2002-02-28:root:list-1:p-2"
+        "node_id": "node:amend-2-2002-02-28:root:list-1:p-2",
+        "pdf_dest": {
+          "name": "amend2-2"
+        }
       },
       "payload_nodes": [
         {
@@ -212,7 +215,10 @@
       "target_node_id": "node:ccr:section-3--amendment",
       "source_ref": {
         "instrument_id": "amend-2-2002-02-28",
-        "node_id": "node:amend-2-2002-02-28:root:list-1:p-1"
+        "node_id": "node:amend-2-2002-02-28:root:list-1:p-1",
+        "pdf_dest": {
+          "name": "amend2-1"
+        }
       },
       "meta": {
         "note": "Second Amended Declaration's recital references a two-thirds vote threshold, but the replacement text sets 75% of votes."

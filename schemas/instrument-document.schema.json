@@ -497,6 +497,7 @@
         "position": { "type": "string", "enum": ["before", "after", "start", "end"] },
         "before_child_node_id": { "type": "string" },
         "after_child_node_id": { "type": "string" },
+        "pdf_dest": { "$ref": "#/$defs/PdfDest" },
         "source_ref": { "$ref": "#/$defs/SourceRef" },
         "payload_nodes": { "type": "array", "items": { "$ref": "#/$defs/Node" } },
         "payload_instrument_id": { "type": "string" },

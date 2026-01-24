@@ -95,7 +95,7 @@
         "label": "1.",
         "meta": {
           "pdf_dest": {
-            "name": "amend-3-1"
+            "name": "amend3-1"
           }
         },
         "children": [
@@ -160,7 +160,10 @@
       "after_child_node_id": "node:ccr:article-ix-general-provisions",
       "source_ref": {
         "instrument_id": "amend-3-2002-06-05",
-        "node_id": "node:amend-3:root:list-1:p-1"
+        "node_id": "node:amend-3:root:list-1:p-1",
+        "pdf_dest": {
+          "name": "amend3-1"
+        }
       },
       "payload_nodes": [
         {

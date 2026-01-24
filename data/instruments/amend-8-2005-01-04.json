@@ -161,7 +161,12 @@
           {
             "ref": "node:amend-8:root:list-1:p-1:list-1:p-1:list-1"
           }
-        ]
+        ],
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-1"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-1:list-1:p-1:p-1",
@@ -272,19 +277,34 @@
         "id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-1",
         "type": "list_item",
         "text": "by adding the following to the first paragraph: c) remedial assessments for violations of the Winston Hills Development Guidelines and Use Restrictions.",
-        "label": "(a)"
+        "label": "(a)",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-2-s1"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-2",
         "type": "list_item",
         "text": "by adding the words \"and remedial assessments\" to the first sentence of the second paragraph after the words \"special assessments\".",
-        "label": "(b)"
+        "label": "(b)",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-2-s1"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-3",
         "type": "list_item",
         "text": "by adding the following sentence to the end of the first paragraph: \"The reference to 'assessments' in this Article and elsewhere in this Declaration shall refer to annual, special and remedial assessments, collectively.\"",
-        "label": "(c)"
+        "label": "(c)",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-2-s1"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-2:list-1:p-2",
@@ -328,19 +348,34 @@
         "id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-1",
         "type": "list_item",
         "text": "by changing the title of this section to read: Special Assessments for Capital Improvements and Remedial Assessments for Violations of Winston Hills Development Guidelines and Use Restrictions.",
-        "label": "(d)"
+        "label": "(d)",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-2-s5"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-2",
         "type": "list_item",
         "text": "by labeling the first paragraph under this section as a).",
-        "label": "(e)"
+        "label": "(e)",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-2-s5"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-3",
         "type": "list_item",
         "text": "by adding the following paragraph to this section: (b) In addition to the annual and special assessments authorized above, the Association (acting by and through the Board, either independently or upon advice of the DRC) may levy, at any time, a remedial assessment for the violation of any Winston Hills Development Guidelines attached as Exhibit \"D\" to the Declaration, and amended by First Amendment to Winston Hills Development Guidelines and Use Restrictions being recorded simultaneously herewith. Said remedial assessment shall include expenses incurred by the Association or the DRC to remedy such violation and a fine for the violation not to exceed ONE HUNDRED AND NO/100 DOLLARS ($100.00) per violation.",
-        "label": "(f)"
+        "label": "(f)",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-2-s5"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-3",
@@ -469,7 +504,12 @@
           {
             "ref": "node:amend-8:root:list-1:p-4:list-1:p-1:p-1"
           }
-        ]
+        ],
+        "meta": {
+          "pdf_dest": {
+            "name": "amend8-4"
+          }
+        }
       },
       {
         "id": "node:amend-8:root:list-1:p-4:list-1:p-1:p-1",
@@ -536,7 +576,10 @@
       "after_child_node_id": "node:ccr:section-1--definitions:list-1:p-13",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-1:list-1:p-1"
+        "node_id": "node:amend-8:root:list-1:p-1:list-1:p-1",
+        "pdf_dest": {
+          "name": "amend8-1"
+        }
       },
       "payload_nodes": [
         {
@@ -563,7 +606,10 @@
       "after_child_node_id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-2",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-1"
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-1",
+        "pdf_dest": {
+          "name": "amend8-2-s1"
+        }
       },
       "payload_nodes": [
         {
@@ -582,7 +628,10 @@
       "target_node_id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-2",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-2"
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-2",
+        "pdf_dest": {
+          "name": "amend8-2-s1"
+        }
       },
       "text_patches": [
         {
@@ -601,7 +650,10 @@
       "target_node_id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-1",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-3"
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-3",
+        "pdf_dest": {
+          "name": "amend8-2-s1"
+        }
       },
       "text_patches": [
         {
@@ -620,7 +672,10 @@
       "target_node_id": "node:ccr:section-5--special-assessments-for-capital-improvements",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-1"
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-1",
+        "pdf_dest": {
+          "name": "amend8-2-s5"
+        }
       },
       "update_fields": {
         "title": "SECTION 5. Special Assessments for Capital Improvements and Remedial Assessments for Violations of Winston Hills Development Guidelines and Use Restrictions."
@@ -634,7 +689,10 @@
       "target_node_id": "node:ccr:section-5--special-assessments-for-capital-improvements:p-1",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-2"
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-2",
+        "pdf_dest": {
+          "name": "amend8-2-s5"
+        }
       },
       "update_fields": {
         "label": "(a)"
@@ -650,7 +708,10 @@
       "after_child_node_id": "node:ccr:section-5--special-assessments-for-capital-improvements:p-1",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-3"
+        "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-3",
+        "pdf_dest": {
+          "name": "amend8-2-s5"
+        }
       },
       "payload_nodes": [
         {
@@ -671,7 +732,10 @@
       "after_child_node_id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-3"
+        "node_id": "node:amend-8:root:list-1:p-3",
+        "pdf_dest": {
+          "name": "amend8-3"
+        }
       },
       "payload_nodes": [
         {
@@ -752,7 +816,10 @@
       "target_base_doc_id": "ccr",
       "source_ref": {
         "instrument_id": "amend-8-2005-01-04",
-        "node_id": "node:amend-8:root:list-1:p-4:list-1:p-1"
+        "node_id": "node:amend-8:root:list-1:p-4:list-1:p-1",
+        "pdf_dest": {
+          "name": "amend8-4"
+        }
       },
       "incorporation": {
         "exhibit_label": "EXHIBIT \"C\" BYLAWS OF WINSTON HILLS HOMEOWNERS ASSOCIATION",

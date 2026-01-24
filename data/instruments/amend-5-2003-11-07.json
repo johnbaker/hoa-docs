@@ -88,7 +88,12 @@
       {
         "id": "node:amend-5:root:p-7",
         "type": "paragraph",
-        "text": "NOW THERFORE, in consideration of the premises and Ten Dollars ($10.00) and other good and valuable consideration, the receipt of all of which is hereby acknowledged, the Successor Declarant does hereby declare that the property shown on the Final Plat of Winston Hills Phase I, Section IV, recorded in Plat Book 21, page 170, Register's Office of Sumner County, Tennessee, shall be held and conveyed subject to the terms, covenants, conditions and restrictions set forth in the Declaration, which are hereby adopted as covenants running with the land and bind all present and future owners of the said property. This Fifth Amendment is made pursuant to the terms of Article IX Section 3C of the Declaration for the purpose of annexing the said property to the scheme of the Declaration and extending the jurisdiction of the Association (as defined in the Declaration) to cover the said property. The annexation of the said property to the Declaration shall be effective upon the recording of this Fifth Amendment to Declaration of Covenants, Conditions and Restrictions with the Register of Deeds of Sumner County, Tennessee."
+        "text": "NOW THERFORE, in consideration of the premises and Ten Dollars ($10.00) and other good and valuable consideration, the receipt of all of which is hereby acknowledged, the Successor Declarant does hereby declare that the property shown on the Final Plat of Winston Hills Phase I, Section IV, recorded in Plat Book 21, page 170, Register's Office of Sumner County, Tennessee, shall be held and conveyed subject to the terms, covenants, conditions and restrictions set forth in the Declaration, which are hereby adopted as covenants running with the land and bind all present and future owners of the said property. This Fifth Amendment is made pursuant to the terms of Article IX Section 3C of the Declaration for the purpose of annexing the said property to the scheme of the Declaration and extending the jurisdiction of the Association (as defined in the Declaration) to cover the said property. The annexation of the said property to the Declaration shall be effective upon the recording of this Fifth Amendment to Declaration of Covenants, Conditions and Restrictions with the Register of Deeds of Sumner County, Tennessee.",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend5-p7"
+          }
+        }
       },
       {
         "id": "node:amend-5:root:p-8",
@@ -138,7 +143,10 @@
       "target_base_doc_id": "ccr",
       "source_ref": {
         "instrument_id": "amend-5-2003-11-07",
-        "node_id": "node:amend-5:root:p-7"
+        "node_id": "node:amend-5:root:p-7",
+        "pdf_dest": {
+          "name": "amend5-p7"
+        }
       },
       "scope": {
         "scope_kind": "some_lots",
