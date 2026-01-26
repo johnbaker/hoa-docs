@@ -50,6 +50,9 @@
             "ref": "node:ccr:article-ix-general-provisions"
           },
           {
+            "ref": "node:ccr:article-xiii-fha-va-approval"
+          },
+          {
             "ref": "node:ccr:root:p-5"
           },
           {
@@ -1813,6 +1816,9 @@
           },
           {
             "ref": "node:ccr:section-18--adoption-of-declaration"
+          },
+          {
+            "ref": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant"
           }
         ]
       },
@@ -1875,7 +1881,7 @@
         },
         "children": [
           {
-            "ref": "node:ccr:section-3--amendment:list-1"
+            "ref": "node:ccr:section-3--amendment:amend-2-2002-02-28:p-1"
           }
         ]
       },
@@ -2789,21 +2795,161 @@
             "instrument_id": "exhibit-d-1999-05-27"
           }
         }
+      },
+      {
+        "id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant",
+        "type": "subsection",
+        "title": "SECTION 19. Subjection / Submittal of Adjacent Property Owned by the Declarant.",
+        "children": [
+          {
+            "ref": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant:p-1"
+          }
+        ],
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-2-2002-02-28",
+            "created_by_op_id": "insert-section-19-subjection-submittal",
+            "source_ref": {
+              "instrument_id": "amend-2-2002-02-28",
+              "node_id": "node:amend-2-2002-02-28:root:list-1:p-2",
+              "pdf_dest": {
+                "name": "amend2-2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant:p-1",
+        "type": "paragraph",
+        "text": "Anything herein to the contrary notwithstanding, the Declarant (or its successors or assigns in title) may subject and/or submit additional Villages or Phases of Lots to the Association and to this Declaration, as long as the newly submitted Lots/Phase of development are a part of the general plan for the property which the Declarant has proposed and has received approval for from the appropriate Planning Commission, such property consisting of this Village III and adjacent property which the Declarant now owns and which has been approved for development as a planned unit development (with Village III) by the appropriate Planning Commission or public authority. Such subjection and/or submission may be accomplished by the Declarant (or its successors or assigns in title) acting alone, and without the permission, consent or joinder of any other party, including, but not limited to, the Association, any Homeowner, or any mortgagee.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-2-2002-02-28",
+            "created_by_op_id": "insert-section-19-subjection-submittal",
+            "source_ref": {
+              "instrument_id": "amend-2-2002-02-28",
+              "node_id": "node:amend-2-2002-02-28:root:list-1:p-2",
+              "pdf_dest": {
+                "name": "amend2-2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-3--amendment:amend-2-2002-02-28:p-1",
+        "type": "paragraph",
+        "text": "The covenants and restrictions of this Declaration shall run with and bind the land for a term of thirty (30) years from the date this Declaration is recorded, after which time they shall be automatically extended for six (6) successive periods of ten (10) years each. This Declaration may be changed, modified, amended or terminated by an instrument in writing, setting forth such change, modification, amendment or termination, and signed by Owners having not less than seventy five percent (75%) of the votes of the Owners at the time of said change, modification, amendment or termination. Any such change, modification, amendment or termination of said Declaration shall be effective upon recording of such instrument in the office of the Register of Deeds of Sumner County, Tennessee.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-2-2002-02-28",
+            "created_by_op_id": "replace-section-3-amendment",
+            "source_ref": {
+              "instrument_id": "amend-2-2002-02-28",
+              "node_id": "node:amend-2-2002-02-28:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend2-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:article-xiii-fha-va-approval",
+        "type": "section",
+        "title": "ARTICLE XIII",
+        "children": [
+          {
+            "ref": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval"
+          }
+        ],
+        "meta": {
+          "note": "The Third Amendment places FHA/VA approval text into Article XIII Section 1, however Article XIII does not exist in the original Covenants.",
+          "provenance": {
+            "created_by_instrument_id": "amend-3-2002-06-05",
+            "created_by_op_id": "insert-article-xiii-fha-va-approval",
+            "source_ref": {
+              "instrument_id": "amend-3-2002-06-05",
+              "node_id": "node:amend-3:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend3-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval",
+        "type": "subsection",
+        "title": "SECTION 1.",
+        "children": [
+          {
+            "ref": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval:p-1"
+          }
+        ],
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-3-2002-06-05",
+            "created_by_op_id": "insert-article-xiii-fha-va-approval",
+            "source_ref": {
+              "instrument_id": "amend-3-2002-06-05",
+              "node_id": "node:amend-3:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend3-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval:p-1",
+        "type": "paragraph",
+        "text": "As long as there is a Class B membership, the following actions will require the prior approval of the Federal Housing Administration or the Veterans Administration: Annexation of additional properties, dedication of Common Area, and amendment of this Declaration.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-3-2002-06-05",
+            "created_by_op_id": "insert-article-xiii-fha-va-approval",
+            "source_ref": {
+              "instrument_id": "amend-3-2002-06-05",
+              "node_id": "node:amend-3:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend3-1"
+              }
+            }
+          }
+        }
       }
     ],
     "meta": {
-      "generated_at": "2026-01-23T07:36:02.668828Z"
+      "generated_at": "2026-01-23T07:36:02.668828Z",
+      "tombstones": [
+        {
+          "node_id": "node:ccr:section-3--amendment:list-1",
+          "parent_node_id": "node:ccr:section-3--amendment",
+          "deleted_by_instrument_id": "amend-2-2002-02-28",
+          "deleted_by_op_id": "replace-section-3-amendment",
+          "position": "only_child",
+          "source_ref": {
+            "instrument_id": "amend-2-2002-02-28",
+            "node_id": "node:amend-2-2002-02-28:root:list-1:p-1",
+            "pdf_dest": {
+              "name": "amend2-1"
+            }
+          }
+        }
+      ]
     }
   },
   "instrument": {
-    "id": "ccr-1999-05-27",
+    "id": "ccr@asof-2002-06-05",
     "base_doc_id": "ccr",
     "title": "Declaration of Covenants, Conditions and Restrictions",
     "instrument_kind": "declaration",
     "doc_type": "Declaration",
     "jurisdiction": "Tennessee",
-    "recorded_at": "1999-06-04",
-    "effective_at": "1999-05-27",
+    "recorded_at": "2002-06-05",
+    "effective_at": "2002-06-05",
     "recording": {
       "county": "Sumner",
       "state": "Tennessee",
@@ -2850,14 +2996,136 @@
         "phases": [
           "Village III"
         ]
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "amend-1-1999-09-14",
+        "source_op_id": "annex-plat-book-18-pages-96-98",
+        "effective_at": "1999-09-14",
+        "scope_kind": "some_lots",
+        "phases": [
+          "Village II",
+          "Village III"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "18",
+            "page": "96-98"
+          }
+        ],
+        "lot_refs": [
+          {
+            "phase": "Village III",
+            "lot": "26"
+          },
+          {
+            "phase": "Village III",
+            "lot": "27"
+          },
+          {
+            "phase": "Village III",
+            "lot": "28"
+          },
+          {
+            "phase": "Village III",
+            "lot": "29"
+          },
+          {
+            "phase": "Village III",
+            "lot": "30"
+          },
+          {
+            "phase": "Village III",
+            "lot": "49"
+          },
+          {
+            "phase": "Village III",
+            "lot": "50"
+          },
+          {
+            "phase": "Village III",
+            "lot": "51"
+          },
+          {
+            "phase": "Village III",
+            "lot": "52"
+          },
+          {
+            "phase": "Village II",
+            "lot": "83"
+          },
+          {
+            "phase": "Village II",
+            "lot": "84"
+          },
+          {
+            "phase": "Village II",
+            "lot": "85"
+          },
+          {
+            "phase": "Village II",
+            "lot": "100"
+          },
+          {
+            "phase": "Village II",
+            "lot": "101"
+          },
+          {
+            "phase": "Village II",
+            "lot": "102"
+          },
+          {
+            "phase": "Village II",
+            "lot": "103"
+          },
+          {
+            "phase": "Village II",
+            "lot": "104"
+          },
+          {
+            "phase": "Village II",
+            "lot": "121"
+          },
+          {
+            "phase": "Village II",
+            "lot": "122"
+          },
+          {
+            "phase": "Village II",
+            "lot": "123"
+          },
+          {
+            "phase": "Village II",
+            "lot": "124"
+          },
+          {
+            "phase": "Village II",
+            "lot": "125"
+          },
+          {
+            "phase": "Village II",
+            "lot": "126"
+          },
+          {
+            "phase": "Village II",
+            "lot": "127"
+          },
+          {
+            "phase": "Village II",
+            "lot": "128"
+          }
+        ],
+        "legal_description": "Additional Plat(s) recorded in Plat Book 18, pages 96-98: Village III Lots 26, 27, 28, 29, 30, 49, 50, 51, 52; Village II Lots 83, 84, 85, 100, 101, 102, 103, 104, 121, 122, 123, 124, 125, 126, 127, 128."
       }
     ],
     "current_declarant": {
-      "name": "RBAG/PRESTON - WINSTON HILLS, L.L.C.",
+      "name": "HALO Properties, LLC",
       "role": "declarant",
-      "source_instrument_id": "ccr-1999-05-27",
-      "effective_at": "1999-05-27",
-      "notes": "Declared in definitions section."
+      "source_instrument_id": "appointment-successor-2002-03-26",
+      "source_op_id": "assign-successor-declarant-2002-03-26",
+      "effective_at": "2002-03-26",
+      "notes": "Appointment of HALO Properties, LLC as Successor Declarant in place and stead of RBAG/Preston- Winston Hills, LLC."
     },
     "declarant_history": [
       {
@@ -2866,9 +3134,16 @@
         "source_instrument_id": "ccr-1999-05-27",
         "effective_at": "1999-05-27",
         "notes": "Declared in definitions section."
+      },
+      {
+        "name": "HALO Properties, LLC",
+        "role": "declarant",
+        "source_instrument_id": "appointment-successor-2002-03-26",
+        "source_op_id": "assign-successor-declarant-2002-03-26",
+        "effective_at": "2002-03-26",
+        "notes": "Appointment of HALO Properties, LLC as Successor Declarant in place and stead of RBAG/Preston- Winston Hills, LLC."
       }
-    ],
-    "sort_key": "1999-06-04"
+    ]
   },
   "incorporations": [
     {

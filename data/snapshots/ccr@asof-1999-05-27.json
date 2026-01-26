@@ -2796,13 +2796,13 @@
     }
   },
   "instrument": {
-    "id": "ccr-1999-05-27",
+    "id": "ccr@asof-1999-05-27",
     "base_doc_id": "ccr",
     "title": "Declaration of Covenants, Conditions and Restrictions",
     "instrument_kind": "declaration",
     "doc_type": "Declaration",
     "jurisdiction": "Tennessee",
-    "recorded_at": "1999-06-04",
+    "recorded_at": "1999-05-27",
     "effective_at": "1999-05-27",
     "recording": {
       "county": "Sumner",
@@ -2867,8 +2867,7 @@
         "effective_at": "1999-05-27",
         "notes": "Declared in definitions section."
       }
-    ],
-    "sort_key": "1999-06-04"
+    ]
   },
   "incorporations": [
     {

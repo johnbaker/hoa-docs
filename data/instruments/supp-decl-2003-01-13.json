@@ -178,7 +178,8 @@
     "availability": {
       "has_text": true,
       "reason": "available"
-    }
+    },
+    "sort_key": "2003-01-16"
   },
   "operations": [
     {

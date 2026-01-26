@@ -148,7 +148,8 @@
     "availability": {
       "has_text": true,
       "reason": "available"
-    }
+    },
+    "sort_key": "2004-11-29-01"
   },
   "operations": [
     {

@@ -1,23 +1,16 @@
 {
   "instrument": {
-    "id": "exhibit-c-1999-05-27",
+    "id": "exhibit-c@asof-1999-05-27",
     "base_doc_id": "exhibit-c",
     "title": "Bylaws of Winston Hills Homeowners Association",
     "instrument_kind": "exhibit",
     "doc_type": "Exhibit",
     "jurisdiction": "Tennessee",
-    "recorded_at": "1999-06-04",
+    "recorded_at": "1999-05-27",
     "effective_at": "1999-05-27",
     "availability": {
       "has_text": false,
       "reason": "not_in_corpus"
-    },
-    "recording": {
-      "county": "Sumner",
-      "state": "Tennessee",
-      "book": "982",
-      "page": "242"
-    },
-    "sort_key": "1999-06-04"
+    }
   }
 }

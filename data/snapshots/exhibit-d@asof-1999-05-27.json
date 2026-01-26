@@ -4565,13 +4565,13 @@
     }
   },
   "instrument": {
-    "id": "exhibit-d-1999-05-27",
+    "id": "exhibit-d@asof-1999-05-27",
     "base_doc_id": "exhibit-d",
     "title": "Winston Hills Development Guidelines",
     "instrument_kind": "exhibit",
     "doc_type": "Exhibit",
     "jurisdiction": "Tennessee",
-    "recorded_at": "1999-06-04",
+    "recorded_at": "1999-05-27",
     "effective_at": "1999-05-27",
     "recording": {
       "county": "Sumner",
@@ -4582,7 +4582,6 @@
     "availability": {
       "has_text": true,
       "reason": "available"
-    },
-    "sort_key": "1999-06-04"
+    }
   }
 }

@@ -870,7 +870,8 @@
     "availability": {
       "has_text": true,
       "reason": "available"
-    }
+    },
+    "sort_key": "2005-01-12-01"
   },
   "operations": [
     {

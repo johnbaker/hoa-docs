@@ -186,7 +186,8 @@
     "availability": {
       "has_text": true,
       "reason": "available"
-    }
+    },
+    "sort_key": "2002-06-05"
   },
   "operations": [
     {

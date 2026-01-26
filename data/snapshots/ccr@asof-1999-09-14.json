@@ -2796,14 +2796,14 @@
     }
   },
   "instrument": {
-    "id": "ccr-1999-05-27",
+    "id": "ccr@asof-1999-09-14",
     "base_doc_id": "ccr",
     "title": "Declaration of Covenants, Conditions and Restrictions",
     "instrument_kind": "declaration",
     "doc_type": "Declaration",
     "jurisdiction": "Tennessee",
-    "recorded_at": "1999-06-04",
-    "effective_at": "1999-05-27",
+    "recorded_at": "1999-09-14",
+    "effective_at": "1999-09-14",
     "recording": {
       "county": "Sumner",
       "state": "Tennessee",
@@ -2850,6 +2850,127 @@
         "phases": [
           "Village III"
         ]
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "amend-1-1999-09-14",
+        "source_op_id": "annex-plat-book-18-pages-96-98",
+        "effective_at": "1999-09-14",
+        "scope_kind": "some_lots",
+        "phases": [
+          "Village II",
+          "Village III"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "18",
+            "page": "96-98"
+          }
+        ],
+        "lot_refs": [
+          {
+            "phase": "Village III",
+            "lot": "26"
+          },
+          {
+            "phase": "Village III",
+            "lot": "27"
+          },
+          {
+            "phase": "Village III",
+            "lot": "28"
+          },
+          {
+            "phase": "Village III",
+            "lot": "29"
+          },
+          {
+            "phase": "Village III",
+            "lot": "30"
+          },
+          {
+            "phase": "Village III",
+            "lot": "49"
+          },
+          {
+            "phase": "Village III",
+            "lot": "50"
+          },
+          {
+            "phase": "Village III",
+            "lot": "51"
+          },
+          {
+            "phase": "Village III",
+            "lot": "52"
+          },
+          {
+            "phase": "Village II",
+            "lot": "83"
+          },
+          {
+            "phase": "Village II",
+            "lot": "84"
+          },
+          {
+            "phase": "Village II",
+            "lot": "85"
+          },
+          {
+            "phase": "Village II",
+            "lot": "100"
+          },
+          {
+            "phase": "Village II",
+            "lot": "101"
+          },
+          {
+            "phase": "Village II",
+            "lot": "102"
+          },
+          {
+            "phase": "Village II",
+            "lot": "103"
+          },
+          {
+            "phase": "Village II",
+            "lot": "104"
+          },
+          {
+            "phase": "Village II",
+            "lot": "121"
+          },
+          {
+            "phase": "Village II",
+            "lot": "122"
+          },
+          {
+            "phase": "Village II",
+            "lot": "123"
+          },
+          {
+            "phase": "Village II",
+            "lot": "124"
+          },
+          {
+            "phase": "Village II",
+            "lot": "125"
+          },
+          {
+            "phase": "Village II",
+            "lot": "126"
+          },
+          {
+            "phase": "Village II",
+            "lot": "127"
+          },
+          {
+            "phase": "Village II",
+            "lot": "128"
+          }
+        ],
+        "legal_description": "Additional Plat(s) recorded in Plat Book 18, pages 96-98: Village III Lots 26, 27, 28, 29, 30, 49, 50, 51, 52; Village II Lots 83, 84, 85, 100, 101, 102, 103, 104, 121, 122, 123, 124, 125, 126, 127, 128."
       }
     ],
     "current_declarant": {
@@ -2867,8 +2988,7 @@
         "effective_at": "1999-05-27",
         "notes": "Declared in definitions section."
       }
-    ],
-    "sort_key": "1999-06-04"
+    ]
   },
   "incorporations": [
     {

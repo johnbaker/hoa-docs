@@ -45,6 +45,7 @@
         },
         "doc_type": { "type": "string", "minLength": 1 },
         "jurisdiction": { "type": "string", "minLength": 2, "maxLength": 32 },
+        "sort_key": { "type": "string", "minLength": 1 },
         "authority_tier": { "type": "integer", "minimum": 0, "maximum": 100 },
         "recorded_at": { "type": "string", "format": "date" },
         "effective_at": { "type": "string", "format": "date" },
