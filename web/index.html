@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>HOA Recorded Documents Prototype</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Work+Sans:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body class="is-loading">
+    <div class="app">
+      <header id="topbar" class="topbar">
+        <div class="brand">
+          <div class="brand-mark">WH</div>
+          <div>
+            <div class="brand-title">Winston Hills HOA</div>
+            <div class="brand-sub">Recorded documents + as-of views</div>
+            <div class="breadcrumb-inline breadcrumb-header">
+              <span id="breadcrumbText">Overview</span>
+            </div>
+          </div>
+        </div>
+        <div class="topbar-actions">
+          <div class="toc-select">
+            <label for="tocSelect">Table of contents</label>
+            <select id="tocSelect"></select>
+          </div>
+          <div class="finder">
+            <label for="findInput">Find in document</label>
+            <div class="finder-input">
+              <input id="findInput" type="search" placeholder="Type to highlight" />
+              <button id="findPrev" type="button" title="Previous match">&#8593;</button>
+              <button id="findNext" type="button" title="Next match">&#8595;</button>
+              <span id="findCount" class="finder-count">0</span>
+            </div>
+          </div>
+        </div>
+      </header>
+      <main class="content">
+        <section id="landing" class="landing">
+          <div class="landing-hero">
+            <div class="landing-kicker">Winston Hills HOA</div>
+            <h1 class="landing-headline">The living record of your governing documents.</h1>
+            <p class="landing-subhead">
+              Read the consolidated “as‑of” text or trace every recorded instrument. Everything
+              below is derived from recorded filings, kept in sync with the public record.
+            </p>
+            <div class="landing-cta">
+              <button id="landingPrimary" class="landing-primary">Open latest as‑of</button>
+              <div class="landing-note">Updated as new instruments are recorded.</div>
+            </div>
+          </div>
+          <div class="landing-grid">
+            <div class="landing-section">
+              <div class="landing-title">As Of</div>
+              <p class="landing-copy">
+                Consolidated copies that apply today. Each view merges amendments into a single
+                authoritative read‑through as of the date shown.
+              </p>
+              <div id="asOfList" class="landing-list"></div>
+            </div>
+            <div class="landing-section">
+              <div class="landing-title">Recorded Instruments</div>
+              <p class="landing-copy">
+                The original filings, sorted by most recent version of each instrument. Use these
+                to audit changes or verify source language.
+              </p>
+              <div id="instrumentIndexList" class="landing-list"></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="doc-header">
+          <div>
+            <div id="docTitle" class="doc-title"></div>
+            <div id="docSubtitle" class="doc-subtitle"></div>
+          </div>
+          <div class="doc-meta">
+            <div id="docAsOf" class="doc-asof"></div>
+            <a id="pdfLink" class="pdf-link" href="#" target="_blank" rel="noreferrer">
+              Open PDF source
+            </a>
+          </div>
+        </section>
+
+        <section id="recordingBox" class="recording-card"></section>
+
+        <section id="docBody" class="doc-body"></section>
+      </main>
+
+      <aside class="inspector">
+        <div class="panel">
+          <div class="panel-title">Paragraph details</div>
+          <div id="metaPanel" class="meta-panel">
+            <div class="meta-empty">Select a paragraph to view provenance, conflicts, and notes.</div>
+          </div>
+        </div>
+        <div class="panel pdf-panel">
+          <div class="panel-title">PDF window</div>
+          <div class="pdf-toolbar">
+            <span id="pdfPageLabel" class="pdf-page">Page 1</span>
+            <a id="pdfJump" href="#" target="_blank" rel="noreferrer">Open at page</a>
+            <button id="pdfPopout" type="button" class="pdf-popout">Pop out PDF</button>
+          </div>
+          <div class="pdf-frame">
+            <canvas id="pdfCanvas" aria-label="PDF page canvas"></canvas>
+            <div id="pdfFallback" class="pdf-fallback">
+              PDF.js failed to load. Check the CDN script or use the PDF link above.
+            </div>
+          </div>
+          <div class="pdf-note">
+            Scroll the text to update the PDF page. Prototype uses PDF.js canvas rendering.
+          </div>
+          <div id="debugPanel" class="debug-panel"></div>
+        </div>
+      </aside>
+    </div>
+
+    <script type="module" src="app.js?v=1"></script>
+  </body>
+</html>

@@ -1,0 +1,236 @@
+{
+  "content": {
+    "schema_version": 1,
+    "root_ref": "node:amend-2-2002-02-28:root",
+    "nodes": [
+      {
+        "id": "node:amend-2-2002-02-28:root",
+        "type": "document",
+        "children": [
+          {
+            "ref": "node:amend-2-2002-02-28:heading-1"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-1"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-2"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-3"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-4"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-5"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-6"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-7"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:list-1"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-8"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-9"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:p-10"
+          }
+        ]
+      },
+      {
+        "id": "node:amend-2-2002-02-28:heading-1",
+        "type": "heading",
+        "text": "Second Amended Declaration of Covenants, Conditions and Restrictions",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend2"
+          }
+        }
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-1",
+        "type": "paragraph",
+        "text": "THIS SECOND AMENDED DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS, hereinafter referred to as the \"Second Amended Declaration\", set forth and entered into as of this the 28th day of February, 2002."
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-2",
+        "type": "paragraph",
+        "text": "WITNESSETH"
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-3",
+        "type": "paragraph",
+        "text": "WHEREAS, the undersigned are all of the Owners of lots in Winston Hills, plats of record in Plat Book 17, page 374 and Plat Book 18, page 96, as revised in Plat Book 18, page 218; and"
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-4",
+        "type": "paragraph",
+        "text": "WHEREAS, said lots are encumbered by Phase One of Winston Hills (Village III) Declaration of Covenants, Conditions and Restrictions recorded in Record Book 982, page 242, Register's Office of Sumner County, Tennessee, (hereinafter referred to as the \"Original Declaration\") and First Amended Declaration of Covenants, Conditions and Restrictions recorded in Record Book 1025, page 799, said Register's Office (hereinafter referred to as First Amended Declaration); said Original Declaration and First Amended Declaration are hereinafter referred to as the \"Declaration\"; and"
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-5",
+        "type": "paragraph",
+        "text": "WHEREAS, pursuant to Article IX, General Provisions, Section 3. Amendment, paragraph A. Duration and paragraph B. Supermajority Requirements, of the Original Declaration, the covenants and restrictions of the Declaration may be changed, modified or rescinded by an instrument in writing signed by not less than all of the Owners then eligible to vote and shall be effective upon recording of such instrument in the Office of the Register of Deeds of Sumner County, Tennessee; and"
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-6",
+        "type": "paragraph",
+        "text": "WHEREAS, the undersigned Owners desire to modify and amend the Declaration to provide for modification or amendment of the Declaration by two-thirds of the votes of the lot Owners at the time of the modification."
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-7",
+        "type": "paragraph",
+        "text": "NOW THEREFORE, in consideration of the premises and Ten Dollars ($10.00) and other good and valuable consideration, the receipt of all of which is hereby acknowledged, the Declaration is hereby modified and amended as follows:"
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:amend-2-2002-02-28:root:list-1:p-1"
+          },
+          {
+            "ref": "node:amend-2-2002-02-28:root:list-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:list-1:p-1",
+        "type": "list_item",
+        "text": "Article IX General Provisions Section 3. Amendment, paragraph A. Duration and paragraph B. Supermajority Requirements are hereby deleted in their entirety and the following is substituted in lieu thereof:",
+        "label": "1.",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend2-1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:amend-2-2002-02-28:root:list-1:p-1:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:list-1:p-1:p-1",
+        "type": "paragraph",
+        "text": "**SECTION 3. Amendment**. The covenants and restrictions of this Declaration shall run with and bind the land for a term of thirty (30) years from the date this Declaration is recorded, after which time they shall be automatically extended for six (6) successive periods of ten (10) years each. This Declaration may be changed, modified, amended or terminated by an instrument in writing, setting forth such change, modification, amendment or termination, and signed by Owners having not less than seventy five percent (75%) of the votes of the Owners at the time of said change, modification, amendment or termination. Any such change, modification, amendment or termination of said Declaration shall be effective upon recording of such instrument in the office of the Register of Deeds of Sumner County, Tennessee."
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:list-1:p-2",
+        "type": "list_item",
+        "text": "Article IX General Provision, Section 3. Amendment, paragraph C. Subjection/Submittal of Adjacent Property Owned by the Declarant is hereby renumbered as Article IX General Provisions, Section 19.",
+        "label": "2.",
+        "meta": {
+          "pdf_dest": {
+            "name": "amend2-2"
+          }
+        }
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-8",
+        "type": "paragraph",
+        "text": "This Second Amended Declaration may be executed in one or more counterparts, each of which shall be deemed an original, all of which together constitute the same instrument."
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-9",
+        "type": "paragraph",
+        "text": "IN WITNESS WHEREOF, the undersigned have caused this instrument to be executed as of the date first above written."
+      },
+      {
+        "id": "node:amend-2-2002-02-28:root:p-10",
+        "type": "paragraph",
+        "text": "(Signature pages follow)"
+      }
+    ],
+    "meta": {
+      "generated_at": "2026-01-23T05:52:56.435699Z"
+    }
+  },
+  "instrument": {
+    "id": "amend-2-2002-02-28",
+    "base_doc_id": "amend-2",
+    "title": "Second Amended Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2002-06-05",
+    "effective_at": "2002-02-28",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1488",
+      "page": "509"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "operations": [
+    {
+      "op_id": "insert-section-19-subjection-submittal",
+      "op_type": "insert_children",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:article-ix-general-provisions",
+      "position": "after",
+      "after_child_node_id": "node:ccr:section-18--adoption-of-declaration",
+      "source_ref": {
+        "instrument_id": "amend-2-2002-02-28",
+        "node_id": "node:amend-2-2002-02-28:root:list-1:p-2",
+        "pdf_dest": {
+          "name": "amend2-2"
+        }
+      },
+      "payload_nodes": [
+        {
+          "id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant",
+          "type": "subsection",
+          "title": "SECTION 19. Subjection / Submittal of Adjacent Property Owned by the Declarant.",
+          "children": [
+            {
+              "ref": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant:p-1"
+            }
+          ]
+        },
+        {
+          "id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant:p-1",
+          "type": "paragraph",
+          "text": "Anything herein to the contrary notwithstanding, the Declarant (or its successors or assigns in title) may subject and/or submit additional Villages or Phases of Lots to the Association and to this Declaration, as long as the newly submitted Lots/Phase of development are a part of the general plan for the property which the Declarant has proposed and has received approval for from the appropriate Planning Commission, such property consisting of this Village III and adjacent property which the Declarant now owns and which has been approved for development as a planned unit development (with Village III) by the appropriate Planning Commission or public authority. Such subjection and/or submission may be accomplished by the Declarant (or its successors or assigns in title) acting alone, and without the permission, consent or joinder of any other party, including, but not limited to, the Association, any Homeowner, or any mortgagee."
+        }
+      ],
+      "effective_at": "2002-02-28"
+    },
+    {
+      "op_id": "replace-section-3-amendment",
+      "op_type": "replace_children",
+      "target_base_doc_id": "ccr",
+      "target_node_id": "node:ccr:section-3--amendment",
+      "source_ref": {
+        "instrument_id": "amend-2-2002-02-28",
+        "node_id": "node:amend-2-2002-02-28:root:list-1:p-1",
+        "pdf_dest": {
+          "name": "amend2-1"
+        }
+      },
+      "meta": {
+        "note": "Second Amended Declaration's recital references a two-thirds vote threshold, but the replacement text sets 75% of votes."
+      },
+      "payload_nodes": [
+        {
+          "id": "node:ccr:section-3--amendment:amend-2-2002-02-28:p-1",
+          "type": "paragraph",
+          "text": "The covenants and restrictions of this Declaration shall run with and bind the land for a term of thirty (30) years from the date this Declaration is recorded, after which time they shall be automatically extended for six (6) successive periods of ten (10) years each. This Declaration may be changed, modified, amended or terminated by an instrument in writing, setting forth such change, modification, amendment or termination, and signed by Owners having not less than seventy five percent (75%) of the votes of the Owners at the time of said change, modification, amendment or termination. Any such change, modification, amendment or termination of said Declaration shall be effective upon recording of such instrument in the office of the Register of Deeds of Sumner County, Tennessee."
+        }
+      ],
+      "effective_at": "2002-02-28"
+    }
+  ]
+}

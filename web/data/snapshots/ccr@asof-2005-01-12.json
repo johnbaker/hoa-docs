@@ -1,0 +1,3557 @@
+{
+  "content": {
+    "schema_version": 1,
+    "root_ref": "node:ccr:root",
+    "nodes": [
+      {
+        "id": "node:ccr:root",
+        "type": "document",
+        "children": [
+          {
+            "ref": "node:ccr:heading-1"
+          },
+          {
+            "ref": "node:ccr:root:p-1"
+          },
+          {
+            "ref": "node:ccr:root:p-2"
+          },
+          {
+            "ref": "node:ccr:root:p-3"
+          },
+          {
+            "ref": "node:ccr:root:p-4"
+          },
+          {
+            "ref": "node:ccr:article-i-definitions"
+          },
+          {
+            "ref": "node:ccr:article-ii-property-rights"
+          },
+          {
+            "ref": "node:ccr:article-iii-membership-and-voting-rights"
+          },
+          {
+            "ref": "node:ccr:article-iv-covenants-for-maintenance-assessments"
+          },
+          {
+            "ref": "node:ccr:article-v-maintenance--repairs-and-replacements"
+          },
+          {
+            "ref": "node:ccr:article-vi"
+          },
+          {
+            "ref": "node:ccr:article-vii-insurance"
+          },
+          {
+            "ref": "node:ccr:article-viii-easements"
+          },
+          {
+            "ref": "node:ccr:article-ix-general-provisions"
+          },
+          {
+            "ref": "node:ccr:article-xiii-fha-va-approval"
+          },
+          {
+            "ref": "node:ccr:root:p-5"
+          },
+          {
+            "ref": "node:ccr:exhibit-1"
+          },
+          {
+            "ref": "node:ccr:exhibit-2"
+          },
+          {
+            "ref": "node:ccr:exhibit-3"
+          },
+          {
+            "ref": "node:ccr:exhibit-4"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:heading-1",
+        "type": "heading",
+        "text": "PHASE ONE OF WINSTON HILLS [Village III] DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr"
+          }
+        }
+      },
+      {
+        "id": "node:ccr:root:p-1",
+        "type": "paragraph",
+        "text": "This DECLARATION OF COVENANTS, CONDITIONS AND RESTRICTIONS, hereinafter sometimes referred to as the \"Declaration\", set forth and entered into as of this the 27 day of May 1999, by the undersigned \"Declarant\":"
+      },
+      {
+        "id": "node:ccr:root:p-2",
+        "type": "paragraph",
+        "text": "WITNESSETH:"
+      },
+      {
+        "id": "node:ccr:root:p-3",
+        "type": "paragraph",
+        "text": "WHEREAS, Declarant is the owner of certain real property in Nashville, Sumner County, Tennessee, known as WINSTON HILLS [Village III], a Plat of which is of record in Book 17, page 374 Register's Office for Sumner County, Tennessee (the \"Plat\" herein) and the Declarant desires to submit the property shown on the Plat to the terms, conditions, easements, restrictions, covenants and liens described herein."
+      },
+      {
+        "id": "node:ccr:root:p-4",
+        "type": "paragraph",
+        "text": "NOW, THEREFORE, Declarant does hereby declare that all of the properties described above shall be held, sold and conveyed subject to the following easements, restrictions, covenants, terms, liens and conditions which are for the purpose of protecting the value and desirability of, and which shall run with the real property and be binding on all parties having any right, title or interest in the described properties or any part thereof, their heirs, successors and assigns, and shall inure to the benefit of each owner thereof."
+      },
+      {
+        "id": "node:ccr:article-i-definitions",
+        "type": "section",
+        "title": "ARTICLE I DEFINITIONS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--definitions"
+          },
+          {
+            "ref": "node:ccr:section-2--lots"
+          },
+          {
+            "ref": "node:ccr:section-3"
+          },
+          {
+            "ref": "node:ccr:section-4--board-s-determination-binding"
+          },
+          {
+            "ref": "node:ccr:section-5--ownership-of-the-association"
+          },
+          {
+            "ref": "node:ccr:section-6--use-of-the-common-elements"
+          },
+          {
+            "ref": "node:ccr:section-7"
+          },
+          {
+            "ref": "node:ccr:section-8--mortgages-and-deeds-of-trust"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--definitions",
+        "type": "subsection",
+        "title": "SECTION 1. Definitions.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--definitions:p-1"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--definitions:p-1",
+        "type": "paragraph",
+        "text": "As used herein, unless the context otherwise requires:"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-3"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-4"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-5"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-6"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-7"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-8"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-9"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-10"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-11"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-12"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-13"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-14--drc"
+          },
+          {
+            "ref": "node:ccr:section-1--definitions:list-1:p-15--acc"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-1",
+        "type": "list_item",
+        "text": "\"Association\" shall mean and refer to Winston Hills Homeowners Association, a Tennessee not-for-profit corporation, its successors and assigns.",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-2",
+        "type": "list_item",
+        "text": "\"Board\" means the Board of Directors of Winston Hills Homeowners Association.",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-3",
+        "type": "list_item",
+        "text": "\"By-Laws\" means the By-Laws of Winston Hills Homeowners Association, attached hereto as Exhibit C and made a part hereof, as amended from time to time.",
+        "label": "(c)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-4",
+        "type": "list_item",
+        "text": "\"Owner\" shall mean and refer to the record Owner, whether one or more persons or entities, of a fee simple title to any Unit which is a part of the Property, including contract sellers but excluding contract buyers or those having such interest merely as security for the performance of an obligation.",
+        "label": "(d)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-5",
+        "type": "list_item",
+        "text": "\"Property\" (whether singular or plural) means all the land, property and space which is the subject of this Declaration (by amendment or otherwise), and all improvements and structures erected, constructed or contained therein or thereon, including the Buildings and all easements, rights and appurtenances belonging thereto, and all fixtures and equipment intended for the mutual use, benefit or enjoyment of the Owners.",
+        "label": "(e)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-6",
+        "type": "list_item",
+        "text": "\"Common Area\" or \"Common Elements\" shall mean all real property owned by the Association for the common use and enjoyment of the Owners. The common area to be owned by the Association is as described in the attachment hereto, marked \"Exhibit B\" and/or as shown on the above Plat [as public utility and drainage easements, \"Open Space\", and \"Detention Area\"]. Caudill Lane is a public street. The rock wall shown on the Plat is not a Common Area, but it may not be removed, changed or modified in any way.",
+        "label": "(f)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-7",
+        "type": "list_item",
+        "text": "\"Unit\" means the free-standing Residences to be built on each Lot shown on the Plat, which separate buildings are not owned in common with the Owners of other Units.",
+        "label": "(g)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-8",
+        "type": "list_item",
+        "text": "\"Member\" shall mean and refer to every person or entity who holds membership in the Association.",
+        "label": "(h)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-9",
+        "type": "list_item",
+        "text": "\"Declarant\" means RBAG/PRESTON - WINSTON HILLS, L.L.C., a Delaware limited liability company, its successors and assigns, provided such successors or assigns are designated in writing by Declarant as a successor or assign of the rights of Declarant set forth herein.",
+        "label": "(i)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-10",
+        "type": "list_item",
+        "text": "\"Occupant\" means a person or persons in possession of a Unit, regardless of whether said person is a Unit Owner.",
+        "label": "(j)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-11",
+        "type": "list_item",
+        "text": "\"Person\" means a natural individual, corporation, partnership, trustee or other legal entity capable of holding title to real property.",
+        "label": "(k)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-12",
+        "type": "list_item",
+        "text": "\"Majority\" or \"majority of the Unit Owners\" means the owners of more than fifty (50%) percent of the membership in the Association, present and then eligible to vote. Any specific percentage of Unit Owners means that percentage of Unit Owners who in the aggregate own such specified percentage of the entire membership in the Association, present and then eligible to vote.",
+        "label": "(l)"
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-13",
+        "type": "list_item",
+        "text": "\"Lot\" shall mean and refer to any numbered plot of land shown upon the Plat, with the exception of the Common Area and dedicated streets.",
+        "label": "(m)"
+      },
+      {
+        "id": "node:ccr:section-2--lots",
+        "type": "subsection",
+        "title": "SECTION 2. Lots.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s2"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-2--lots:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2--lots:p-1",
+        "type": "paragraph",
+        "text": "The legal description of each Lot shall consist of the identifying number or symbol of such Lot as shown on the Plat. Every deed, lease, mortgage, deed of trust or other instrument shall legally describe a Lot by its identifying number or symbol as shown on the Plat and every such description shall be deemed good and sufficient for all purposes. No Unit Owner shall, by deed, plat, court decree or otherwise, subdivide or in any other manner cause his Lot to be separated into any tracts or parcels different from the whole Lot as shown on the Plat."
+      },
+      {
+        "id": "node:ccr:section-3",
+        "type": "subsection",
+        "title": "SECTION 3.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s3"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-3:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-3:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-3:list-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3:list-1:p-1",
+        "type": "list_item",
+        "text": "There has been or will be formed an Association having the name \"Winston Hills Homeowners Association\", a Tennessee not-for-profit corporation, which Association shall be the governing body for all of the Owners, for the maintenance, repair, replacement, administration and operation of the Property, this Declaration and the By-Laws. The By-Laws for the Association shall be the By-Laws attached to the Declaration as Exhibit \"C\" and made a part hereof. The Board of Directors of the Association shall be elected and shall serve in accordance with the provisions of the By-Laws. The fiscal year of the Association shall be determined by the Board, and may be changed from time to time as the Board deems advisable. The Association shall not be deemed to be conducting a business of any kind. All activities undertaken by the Association shall be held and applied by it for the use and benefit of Owners in accordance with the provisions of the Declaration and By-Laws. Each Owner shall be a member of the Association so long as he is an Owner. An Owner's membership shall automatically terminate when he ceases to be an Owner. Upon the conveyance or transfer of an Owner's ownership interest to a new Owner, the new Owner shall simultaneously succeed to the former Owner's membership in the Association. The aggregate number of votes for all members of the Association shall be equal to the number of Lots subjected to the Declaration, by Plat or amendment, pursuant to Article IX, Section 3 hereof. Each Owner's respective percentage of ownership interests in the Association shall be the result of a fraction, the numerator being ONE and the denominator being the number of Lots submitted by Plat).",
+        "label": "(a)",
+        "title": "Association of Owners and Administration and Operation of the Property."
+      },
+      {
+        "id": "node:ccr:section-3:list-1:p-2",
+        "type": "list_item",
+        "text": "Neither the directors, Board, officers of the Association, nor the Declarants shall be personally liable to the Owners for any mistake of judgment or for any other acts or omissions of any nature whatsoever as such directors, Board, officers or Declarants, except for any acts or omissions found by a court to constitute gross negligence or actual fraud. The Unit Owners shall indemnify and hold harmless each of the directors, Board, officers, or Declarants, and their respective heirs, executors, administrators, successors and assigns in accordance with the By-Laws.",
+        "label": "(b)",
+        "title": "Non-Liability of the Directors, Board, Officers and Declarants."
+      },
+      {
+        "id": "node:ccr:section-4--board-s-determination-binding",
+        "type": "subsection",
+        "title": "SECTION 4. Board's Determination Binding.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s4"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-4--board-s-determination-binding:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-4--board-s-determination-binding:p-1",
+        "type": "paragraph",
+        "text": "In the event of any dispute or disagreement between any Owners relating to the Property, or any questions of interpretation or application of the provisions of the Declaration or By-Laws, the determination thereof by the Board shall be final and binding on each and all such Owners."
+      },
+      {
+        "id": "node:ccr:section-5--ownership-of-the-association",
+        "type": "subsection",
+        "title": "SECTION 5. Ownership of the Association.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s5"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-5--ownership-of-the-association:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--ownership-of-the-association:p-1",
+        "type": "paragraph",
+        "text": "Each Owner's respective percentage of ownership interests in the Association shall be the result of a fraction, the numerator being ONE and the denominator being the number of Lots submitted by the Plat, or by amendment. The percentages of ownership interests shall remain constant unless amended pursuant to the reservation set forth herein, or unless hereafter changed by recorded amendment to this Declaration as provided for herein or consented to in writing by the necessary Owners and first mortgagees, except for obvious scrivener's mistakes, which Declarants may correct without joinder of others. Said ownership interest in the Association shall be represented by a deed to that Owner from the previous Owner of that Lot, and the Association shall be owned by the Owners in accordance with their respective percentages of ownership. The ownership of each Lot shall not be conveyed separate from the percentage of ownership in the Association corresponding to said Lot. The ownership in the Association corresponding to any Lot shall be deemed conveyed or encumbered with that Unit, even though the legal description in the instrument conveying or encumbering said Lot may refer only to the fee title to that Lot."
+      },
+      {
+        "id": "node:ccr:section-6--use-of-the-common-elements",
+        "type": "subsection",
+        "title": "SECTION 6. Use of the Common Elements.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s6"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-6--use-of-the-common-elements:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-6--use-of-the-common-elements:p-1",
+        "type": "paragraph",
+        "text": "The use of the Common Elements shall be limited or restricted by the Board, depending upon an abutting Lot Owner's particular needs and convenience with regard to Common Elements which may abut his or her Lot. Each Owner shall have the right to use the Common Elements in common with all other Owners, as may be required for the purposes of necessity, access, ingress to, egress from, use, occupancy and enjoyment of the respective Unit owned by such Owner. Such right to use the Common Elements shall extend to not only each Owner, but also to his agents, servants, tenants, family members, invitees and licensees. Such rights to use the Common Elements shall be subject to and governed by the provisions of the Declaration, By-Laws and rules and regulations of the Association. In addition, the Association shall have the authority to lease, grant concessions or grant easements with respect to parts of the Common Elements, subject to the provisions of the Declaration and By-Laws. All income derived by the Association from leases, concessions or other sources shall be held and used for the benefit of the members of the Association, pursuant to such rules, resolutions or regulations as the Board may adopt or prescribe."
+      },
+      {
+        "id": "node:ccr:section-7",
+        "type": "subsection",
+        "title": "SECTION 7.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s7"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-7:list-1"
+          },
+          {
+            "ref": "node:ccr:section-7:p-1"
+          },
+          {
+            "ref": "node:ccr:section-7:p-2"
+          },
+          {
+            "ref": "node:ccr:section-7:p-3"
+          },
+          {
+            "ref": "node:ccr:section-7:list-2"
+          },
+          {
+            "ref": "node:ccr:section-7:p-4"
+          },
+          {
+            "ref": "node:ccr:section-7:p-5"
+          },
+          {
+            "ref": "node:ccr:section-7:p-6"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-7:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-7:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-7:list-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-7:list-1:p-1",
+        "type": "list_item",
+        "text": "Each Owner shall pay his proportionate share of the expenses of the administration and operation of the Common Elements and of any other expenses incurred in conformance with the Declaration and By-Laws (which expenses are herein sometimes referred to as \"common expenses\"), including, but not limited to, the maintenance and repair thereof and any and all replacements and additions thereto. Such proportionate share of the common expenses for each Owner shall be in accordance with his percentage of ownership in the Association. Payment of common expenses, including any prepayment thereof required by contract for a sale of a Unit, shall be in such amounts and at such times as determined in the manner provided in the By-Laws. No Owner shall be exempt from payment of his proportionate share of the common expenses by waiver or non use or enjoyment of the Common Elements or by abandonment of his Unit. If any Owner shall fail or refuse to make any such payment of the common expenses when due in advance on the first day of each month, then (i) a late charge of $10, plus $1 for each day thereafter that such payment has not been made or (ii) the Board may, by resolution or rule, increase the said late payment charge to a reasonable amount, considering the time and circumstances involved. The Board's decision as to reasonableness shall be binding upon all parties, and such payment, together with such late payment charge (the \"indebtedness\"), shall constitute a lien on the interest of such Owner in the Property.",
+        "label": "(a)",
+        "title": "Common Expenses."
+      },
+      {
+        "id": "node:ccr:section-7:list-1:p-2",
+        "type": "list_item",
+        "text": "FOR AND IN CONSIDERATION of the privileges, protections, mutual enjoyment and use of the Common Elements and the premises contained herein, the receipt of which is hereby acknowledged and any assumption of the obligations by transferees as required hereunder, and to secure the payment of said Common Expenses, principal, interest, and attorney fees, a lien is expressly retained by the Association on each and every Owner's Unit and prorata interest in the Association (referred to in this subparagraph 7 (b) as \"property\").",
+        "label": "(b)",
+        "title": "Enforcement of Lien."
+      },
+      {
+        "id": "node:ccr:section-7:p-1",
+        "type": "paragraph",
+        "text": "And now, for the purpose of better and more effectually securing the payment of said lien indebtedness; rendering unnecessary court proceedings for the enforcement of said lien in the event of the non-payment of said indebtedness and payments thereof, as they become due, and for the consideration of one dollar paid in cash, receipt of which is acknowledged, the said Owners, their heirs, administrators, and assigns, hereinafter referred to as trustors, hereby transfer and convey unto A. Harrison Johnson, Jr., Trustee, his successors and assigns, the real estate hereinbefore described, with the appurtenances, estate, title and interest thereto belonging upon the following uses and trusts:"
+      },
+      {
+        "id": "node:ccr:section-7:p-2",
+        "type": "paragraph",
+        "text": "Trustors agree to pay their prorata share of Common Expenses when due and further agree to pay all taxes and assessments thereon, general or special, and to pay them when due, and, upon demand of said trustee or the lawful owner and holder of said indebtedness, to pay, discharge, or remove, any and all liens (except a First Mortgage or Deed of Trust) which may be hereafter placed against said property and which shall adversely affect the lien of this instrument or enforcement of the terms and provisions hereof; to keep the improvements on said property in good repair and preservation, and in case the trustee or his successors or the lawful owner and holder of said indebtedness shall hereafter be required to appear in any court or tribunal to enforce, or defend the title to, or possession of, said property, or the lien of this instrument, or appear in any court to prove the above indebtedness, all the costs and expenses of such appearance or proceedings, together with a reasonable attorney's fee, shall be allowed, and be payable by trustors upon demand of the trustee or lawful owner or holder of said indebtedness, and, upon failure to do any of these things, then said trustee, or the lawful owner and holder of said indebtedness may do any or all of these things and the amounts so paid shall bear interest at the then highest maximum effective rate of interest per annum for home loans then legally collectible in Tennessee from the due date and shall be and become a part of the indebtedness secured hereby.",
+        "meta": {
+          "indent_level": 1
+        }
+      },
+      {
+        "id": "node:ccr:section-7:p-3",
+        "type": "paragraph",
+        "text": "Now, if trustors shall pay their prorata share of Common Expenses aforesaid when due, and pay any and all sums when due, as aforesaid, then this trust conveyance shall be of no further force or effect. But if said indebtedness, or any payment thereof, or interest thereon, is not paid promptly when due, or if, failing to pay said other sums when due, as herein provided, trustors fail to Pa3e 247 reimburse the trustee, or lawful owner and holder of said indebtedness for all sums, with interest, so expended by said trustee, or lawful owner and holder of said indebtedness, within thirty days from date of such payment, this trust conveyance shall remain in full force and effect, and the said trustee, or his successor in trust, is hereby authorized and empowered, upon giving twenty days' notice by three publications in any newspaper, daily or weekly, published in Sumner County, Tennessee, to sell said property at the front door of the Court House in said County to the highest bidder for cash, at public outcry, free from the equity or right (statutory or otherwise) of redemption, homestead, dower, spouse's elective share and all other rights and exemptions of every kind, which are hereby expressly waived; and the said trustee, or his successor in trust, is authorized and empowered to execute and deliver a deed to the purchaser. The Association may bid at any sale under this trust conveyance. The Trustee may, at any time after default in the payment of any of said indebtedness, enter and take possession of said property, and shall only account for the net rents actually received by him. It is further agreed that, in the event the trustee fails, before selling said property, as herein provided, to enter and take possession thereof, the purchaser shall be entitled to immediate possession thereof upon the delivery to him by the trustee of a deed for said property. In case of sale hereunder, the proceeds will be applied by the trustee as follows:",
+        "meta": {
+          "indent_level": 1
+        }
+      },
+      {
+        "id": "node:ccr:section-7:list-2",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-7:list-2:p-1"
+          },
+          {
+            "ref": "node:ccr:section-7:list-2:p-2"
+          },
+          {
+            "ref": "node:ccr:section-7:list-2:p-3"
+          },
+          {
+            "ref": "node:ccr:section-7:list-2:p-4"
+          },
+          {
+            "ref": "node:ccr:section-7:list-2:p-5"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-7:list-2:p-1",
+        "type": "list_item",
+        "text": "To the full and complete satisfaction of the interest of the first mortgage holder, unless arrangements have been made for the assumption of the first mortgage by the subsequent purchaser.",
+        "label": "1st."
+      },
+      {
+        "id": "node:ccr:section-7:list-2:p-2",
+        "type": "list_item",
+        "text": "To the payment of all costs, charges and expenses of executing this conveyance and enforcing said lien as herein provided; also reasonable attorney's fees for advice in the premises, or for instituting or defending any litigation which may arise on account of the execution of this conveyance, or the enforcement of said lien; also the expenses of any such litigation.",
+        "label": "2nd."
+      },
+      {
+        "id": "node:ccr:section-7:list-2:p-3",
+        "type": "list_item",
+        "text": "To the payment of all taxes which may be unpaid on said premises.",
+        "label": "3rd."
+      },
+      {
+        "id": "node:ccr:section-7:list-2:p-4",
+        "type": "list_item",
+        "text": "To the payment of all unpaid indebtedness herein secured, and any and all sums expended in the protection of said property, as herein authorized.",
+        "label": "4th."
+      },
+      {
+        "id": "node:ccr:section-7:list-2:p-5",
+        "type": "list_item",
+        "text": "The residue, if any, will be paid to trustor (s) legally entitled thereto, their order, representatives or assigns.",
+        "label": "5th."
+      },
+      {
+        "id": "node:ccr:section-7:p-4",
+        "type": "paragraph",
+        "text": "In case of the death, absence, inability, or refusal to act of said trustee at any time when action under the foregoing power and trusts may be required or for any other reason, the lawful owner and holder of said lien is hereby authorized and empowered to name and appoint a successor to execute this trust by an instrument in writing to be recorded in the Register's Office for Sumner County, Tennessee, and the title herein conveyed to the above named trustee shall be vested in said successor.",
+        "meta": {
+          "indent_level": 1
+        }
+      },
+      {
+        "id": "node:ccr:section-7:p-5",
+        "type": "paragraph",
+        "text": "The word \"Trustors\" when used herein shall apply to parties both singular and plural.",
+        "meta": {
+          "indent_level": 1
+        }
+      },
+      {
+        "id": "node:ccr:section-7:p-6",
+        "type": "paragraph",
+        "text": "This transfer and conveyance, and the lien for common expenses payable by an Owner which is secured by the transfer and conveyance shall both be subordinate to the lien of a recorded First Mortgage or Deed of Trust on the interest of such Owner, regardless of whether the First Mortgage or Deed of Trust was recorded before or after this instrument, except for the amount of the proportionate share of common expenses which become due and payable from and after the date on which the Mortgagee or Beneficiary accepts a conveyance of any interest therein (other than as security) or forecloses its Mortgage or Deed of Trust. While the lien for assessments may be extinguished, the personal indebtedness therefor shall remain and be the personal obligation of the Owner who owned the Unit when the assessment came due. Any delinquent assessments (after lien extinguishment) may be reallocated and assessed among all Units as a common expense. This subparagraph shall not be amended, changed, modified or rescinded without the prior written consent of all First Mortgagees and Beneficiaries of record."
+      },
+      {
+        "id": "node:ccr:section-8--mortgages-and-deeds-of-trust",
+        "type": "subsection",
+        "title": "SECTION 8. Mortgages and Deeds of Trust.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a1-s8"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-8--mortgages-and-deeds-of-trust:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-8--mortgages-and-deeds-of-trust:p-1",
+        "type": "paragraph",
+        "text": "Each Owner shall have the right, subject to the provisions herein, to make separate mortgages and deeds of trust for his respective Unit together with his respective ownership interest in the Association. No Owner shall have the right or authority to make or create, or cause to be made or created from the date hereof, any mortgage, deed of trust or other lien on or affecting the Property or any part thereof, except only to the extent of his own Unit and the respective percentage interest in the Association corresponding thereto."
+      },
+      {
+        "id": "node:ccr:article-ii-property-rights",
+        "type": "section",
+        "title": "ARTICLE II PROPERTY RIGHTS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a2"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--owners--easements-of-enjoyment"
+          },
+          {
+            "ref": "node:ccr:section-2--delegation-of-use"
+          },
+          {
+            "ref": "node:ccr:section-3--association-s-right-of-entry"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--owners--easements-of-enjoyment",
+        "type": "subsection",
+        "title": "SECTION 1. Owners' Easements of Enjoyment.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a2-s1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--owners--easements-of-enjoyment:p-1"
+          },
+          {
+            "ref": "node:ccr:section-1--owners--easements-of-enjoyment:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--owners--easements-of-enjoyment:p-1",
+        "type": "paragraph",
+        "text": "Every Owner shall have a right and easement of enjoyment in and to the Common Area which shall be appurtenant to and shall pass with the title to every Unit, subject to the following provisions:"
+      },
+      {
+        "id": "node:ccr:section-1--owners--easements-of-enjoyment:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-1--owners--easements-of-enjoyment:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-1--owners--easements-of-enjoyment:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-1--owners--easements-of-enjoyment:list-1:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--owners--easements-of-enjoyment:list-1:p-1",
+        "type": "list_item",
+        "text": "the right of the Association (acting by the Board) to suspend the voting rights of an Owner for any period during which any assessment against his Unit remains unpaid; and for a period not to exceed 60 days for any infraction of its published rules and regulations;",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-1--owners--easements-of-enjoyment:list-1:p-2",
+        "type": "list_item",
+        "text": "the right of the Association (acting by the Board) to dedicate or transfer all or any part of the Common Area to any public agency, authority, or utility for such purposes and subject to such conditions as may be agreed to by the Members. No such dedication or transfer shall be effective unless an instrument signed by all the Members, agreeing to such dedication or transfer, has been recorded; providing, however, that such consent shall not be required for the dedication of utility or service easements;",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-1--owners--easements-of-enjoyment:list-1:p-3",
+        "type": "list_item",
+        "text": "The right of the Association (acting by the Board) to grant private access and/or private utility or drainage easements to private individuals or entities, to serve neighboring properties.",
+        "label": "(c)"
+      },
+      {
+        "id": "node:ccr:section-2--delegation-of-use",
+        "type": "subsection",
+        "title": "SECTION 2. Delegation of Use.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a2-s2"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-2--delegation-of-use:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2--delegation-of-use:p-1",
+        "type": "paragraph",
+        "text": "Any Owner may delegate, in accordance with the By-Laws, his rights of enjoyment of the Common Area and facilities to the members of his family, his tenants, or contract purchasers who reside on the property. Membership in the Association may not be conveyed separate from ownership in the Lot."
+      },
+      {
+        "id": "node:ccr:section-3--association-s-right-of-entry",
+        "type": "subsection",
+        "title": "SECTION 3. Association's Right of Entry.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a2-s3"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-3--association-s-right-of-entry:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3--association-s-right-of-entry:p-1",
+        "type": "paragraph",
+        "text": "The authorized representatives of the Association or the Board shall be entitled to reasonable access to the individual Lots as may be required to correct any existing violation of the provisions of this Declaration, or in connection with the preservation of any individual Unit or in the event of an emergency, or in connection with maintenance of, repairs or replacements within the Units or Common Elements, or any equipment, facilities or fixtures affecting or serving the other Unit or Common Elements, or to make any alteration required by any governmental authority."
+      },
+      {
+        "id": "node:ccr:article-iii-membership-and-voting-rights",
+        "type": "section",
+        "title": "ARTICLE III MEMBERSHIP AND VOTING RIGHTS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a3"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1"
+          },
+          {
+            "ref": "node:ccr:section-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1",
+        "type": "subsection",
+        "title": "SECTION 1.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a3-s1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1:p-1",
+        "type": "paragraph",
+        "text": "Every owner of a Lot which is subject to a lien for assessments shall be a Member of the Association. Membership shall be appurtenant to and may not be separated from ownership of any Unit which is subject to assessment."
+      },
+      {
+        "id": "node:ccr:section-2",
+        "type": "subsection",
+        "title": "SECTION 2.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a3-s2"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-2:p-1"
+          },
+          {
+            "ref": "node:ccr:section-2:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2:p-1",
+        "type": "paragraph",
+        "text": "The Association shall have two classes of voting membership."
+      },
+      {
+        "id": "node:ccr:section-2:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-2:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-2:list-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2:list-1:p-1",
+        "type": "list_item",
+        "text": "Class A shall be all Owners with the exception of the Declarant and each shall be entitled to ONE vote for each Lot owned. When more than one person or entity holds an interest in any Lot, all such persons must agree must collectively agree on how that Lot is to cast its vote, which shall be ONE vote. No fractional votes, within the ownership of a Lot, shall be cast.",
+        "label": "A.",
+        "title": "Class A.",
+        "meta": {
+          "indent_level": 1
+        }
+      },
+      {
+        "id": "node:ccr:section-2:list-1:p-2",
+        "type": "list_item",
+        "text": "The Class B Member (s) shall be the Declarant and it shall be entitled to three (3) votes for each Lot owned (developed, platted but unsold). The Class B membership shall cease and be converted to Class A membership upon the happening of any of the following events, which ever occurs earlier:",
+        "label": "B.",
+        "title": "Class B.",
+        "meta": {
+          "indent_level": 1
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-2:list-1:p-2:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2:list-1:p-2:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-2:list-1:p-2:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-2:list-1:p-2:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-2:list-1:p-2:list-1:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2:list-1:p-2:list-1:p-1",
+        "type": "list_item",
+        "text": "When the total Votes outstanding in the Class A membership equal the total Votes outstanding in the Class B membership, or",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-2:list-1:p-2:list-1:p-2",
+        "type": "list_item",
+        "text": "Five years from the date of the sale of the first Lot to an Owner other than Declarant, or",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-2:list-1:p-2:list-1:p-3",
+        "type": "list_item",
+        "text": "One hundred sixty-eight (168) of the projected Lots to be developed and sold have been sold by the Declarant.",
+        "label": "(c)"
+      },
+      {
+        "id": "node:ccr:article-iv-covenants-for-maintenance-assessments",
+        "type": "section",
+        "title": "ARTICLE IV COVENANTS FOR MAINTENANCE ASSESSMENTS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments"
+          },
+          {
+            "ref": "node:ccr:section-2--purpose-of-assessments"
+          },
+          {
+            "ref": "node:ccr:section-3--maximum-annual-assessment"
+          },
+          {
+            "ref": "node:ccr:section-4--payable-annual-assessment"
+          },
+          {
+            "ref": "node:ccr:section-5--special-assessments-for-capital-improvements"
+          },
+          {
+            "ref": "node:ccr:section-6--rate-of-annual-assessment"
+          },
+          {
+            "ref": "node:ccr:section-7--date-and-commencement-of-annual-assessments--due-dates"
+          },
+          {
+            "ref": "node:ccr:section-8--effect-of-nonpayment-of-assessments--remedies-of-the-association"
+          },
+          {
+            "ref": "node:ccr:section-9--subordination-of-the-lien-to-mortgages"
+          },
+          {
+            "ref": "node:ccr:section-10--exempt-property"
+          },
+          {
+            "ref": "node:ccr:section-11--capital-replacement-reserve-equal-to-three-months--maintenance-fees-to-be-collected-at-initial-closings"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments",
+        "type": "subsection",
+        "title": "SECTION 1. Creation of the Lien and Personal Obligation of Assessments.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-1"
+          },
+          {
+            "ref": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1"
+          },
+          {
+            "ref": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-1",
+        "type": "paragraph",
+        "text": "The Declarant, for each Lot owned within the Properties, does hereby covenant, and each Owner for any Lot, by acceptance of a deed therefor, whether or not it shall be so expressed in such deed, is deemed to covenant and agree to pay to the Association: The reference to 'assessments' in this Article and elsewhere in this Declaration shall refer to annual, special and remedial assessments, collectively.",
+        "meta": {
+          "provenance": {
+            "modified_by_instrument_id": "amend-8-2005-01-04",
+            "modified_by_op_id": "patch-article-iv-section-1-define-assessments-collectively",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-2-s1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-3--remedial-assessments"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-1",
+        "type": "list_item",
+        "text": "annual assessments or charges, and",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-2",
+        "type": "list_item",
+        "text": "special assessments for capital improvements, such assessments to be established and collected as hereinafter provided.",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:p-2",
+        "type": "paragraph",
+        "text": "The annual and special assessments and remedial assessments, together with interest, costs and reasonable attorney's fees, shall be a charge on the land, and shall be a continuing lien upon the property against which each such assessment is made. Each such assessment, together with interest, costs and reasonable attorney's fees, shall also be the personal obligation of the person who was the Owner of such property at the time when the assessment fell due. The personal obligation for the delinquent assessments shall not pass to his successors in title unless expressly assumed by them.",
+        "meta": {
+          "provenance": {
+            "modified_by_instrument_id": "amend-8-2005-01-04",
+            "modified_by_op_id": "patch-article-iv-section-1-add-remedial-assessments",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-2",
+              "pdf_dest": {
+                "name": "amend8-2-s1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-2--purpose-of-assessments",
+        "type": "subsection",
+        "title": "SECTION 2. Purpose of Assessments.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s2"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-2--purpose-of-assessments:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2--purpose-of-assessments:p-1",
+        "type": "paragraph",
+        "text": "The assessments levied by the Association shall be used exclusively to promote the recreation, health, safety and welfare of the residents of the Property, and in particular for the acquisition, improvement and maintenance of properties, services and facilities devoted to this purpose, or for the use and enjoyment of the Common Area, including but not limited to, the costs of repairs, replacements and additions, the cost of labor, equipment, materials, management and supervision, the payment of taxes assessed against the Common Area, the procurement and maintenance of insurance in accordance with the By-Laws, the employment of attorneys to represent the Association when necessary, and such other needs as may arise."
+      },
+      {
+        "id": "node:ccr:section-3--maximum-annual-assessment",
+        "type": "subsection",
+        "title": "SECTION 3. Maximum Annual Assessment.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s3"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-3--maximum-annual-assessment:p-1"
+          },
+          {
+            "ref": "node:ccr:section-3--maximum-annual-assessment:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3--maximum-annual-assessment:p-1",
+        "type": "paragraph",
+        "text": "Until January 1, 2001, the maximum annual assessment shall be TWO HUNDRED TWENTY-TWO and 12/100 ($222.12) DOLLARS per Unit."
+      },
+      {
+        "id": "node:ccr:section-3--maximum-annual-assessment:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-3--maximum-annual-assessment:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-3--maximum-annual-assessment:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-3--maximum-annual-assessment:list-1:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3--maximum-annual-assessment:list-1:p-1",
+        "type": "list_item",
+        "text": "From and after January 1, 2001, the maximum annual assessment may be increased each year not more than 10% above the maximum assessment for the previous year without a vote of the membership; or",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-3--maximum-annual-assessment:list-1:p-2",
+        "type": "list_item",
+        "text": "From and after January 1, 2001, the maximum annual assessment may be increased above 10% by a vote of at least a majority of members who are voting in person or by proxy, at a meeting duly called for this purpose.",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-3--maximum-annual-assessment:list-1:p-3",
+        "type": "list_item",
+        "text": "The Board of Directors may fix the annual assessment at an amount not in excess of the maximum.",
+        "label": "(c)"
+      },
+      {
+        "id": "node:ccr:section-4--payable-annual-assessment",
+        "type": "subsection",
+        "title": "SECTION 4. Payable Annual Assessment.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s4"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-4--payable-annual-assessment:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-4--payable-annual-assessment:p-1",
+        "type": "paragraph",
+        "text": "The Board of Directors shall fix the payable annual assessment at an amount not in excess of the maximum annual assessment, subject to the provisions of Sections 7 and 8 of this Article."
+      },
+      {
+        "id": "node:ccr:section-5--special-assessments-for-capital-improvements",
+        "type": "subsection",
+        "title": "SECTION 5. Special Assessments for Capital Improvements and Remedial Assessments for Violations of Winston Hills Development Guidelines and Use Restrictions.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s5"
+          },
+          "provenance": {
+            "modified_by_instrument_id": "amend-8-2005-01-04",
+            "modified_by_op_id": "update-section-5-title-remedial-assessments",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend8-2-s5"
+              }
+            }
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-5--special-assessments-for-capital-improvements:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--special-assessments-for-capital-improvements:p-2--remedial-assessments"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--special-assessments-for-capital-improvements:p-1",
+        "type": "paragraph",
+        "text": "In addition to the annual assessment authorized above, the Association (acting by and through the Board) may levy, in any calendar year, a special assessment applicable to that year only for the purpose of defraying in whole or in part, the costs of any construction, reconstruction, repair or replacement of a capital improvement upon the Common Area, including fixtures and personal property related thereto, provided that any such assessment shall have the assent of a majority of the votes of eligible Members who are voting in person or by proxy at a meeting duly called for this purpose. All special assessments shall be fixed at a uniform rate for all Units and may be collected on a monthly basis, without additional fee or cost to such members paying on a monthly basis.",
+        "label": "(a)",
+        "meta": {
+          "provenance": {
+            "modified_by_instrument_id": "amend-8-2005-01-04",
+            "modified_by_op_id": "label-section-5-first-paragraph",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-2",
+              "pdf_dest": {
+                "name": "amend8-2-s5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-6--rate-of-annual-assessment",
+        "type": "subsection",
+        "title": "SECTION 6. Rate of Annual Assessment.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s6"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-6--rate-of-annual-assessment:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-6--rate-of-annual-assessment:p-1",
+        "type": "paragraph",
+        "text": "Annual assessment must be fixed at a uniform rate for all Units and may be collected on a monthly basis. The books and records for the Association will be kept in such a manner that it is possible to determine and ascertain (1) such sums as are expended by the Association for development, improvement, maintenance and upkeep of all recreational facilities of the Association, and (ii) such sums as are expended for other purposes."
+      },
+      {
+        "id": "node:ccr:section-7--date-and-commencement-of-annual-assessments--due-dates",
+        "type": "subsection",
+        "title": "SECTION 7. Date and Commencement of Annual Assessments; Due Dates.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s7"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-7--date-and-commencement-of-annual-assessments--due-dates:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-7--date-and-commencement-of-annual-assessments--due-dates:p-1",
+        "type": "paragraph",
+        "text": "The annual assessments provided for herein shall commence as to all Lot(s) on the first day of the month following the conveyance of the first Lot in Village III. The first annual assessment shall be adjusted according to the number of months remaining in the calendar year. At least thirty (30) days in advance of each annual assessment period, the Board of Directors shall fix the amount of the annual assessment to every Owner subject thereto. Written notice of such assessment shall be sent to every Owner subject thereto at least thirty (30) days in advance of each annual assessment period. The due dates shall be established by the Board of Directors. The Association shall, upon demand, and for a reasonable charge, furnish a certificate signed by an officer of the Association setting forth whether the assessments on specified Lot(s) have been paid. A properly executed certificate of the Association as to the status of the assessments on a Lot is binding upon the Association as of the date of its issuance."
+      },
+      {
+        "id": "node:ccr:section-8--effect-of-nonpayment-of-assessments--remedies-of-the-association",
+        "type": "subsection",
+        "title": "SECTION 8. Effect of Nonpayment of Assessments; Remedies of the Association",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s8"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-8--effect-of-nonpayment-of-assessments--remedies-of-the-association:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-8--effect-of-nonpayment-of-assessments--remedies-of-the-association:p-1",
+        "type": "paragraph",
+        "text": "Any assessment not paid within thirty (30) days after the due date shall bear interest from the due date at the then maximum applicable formula rate of interest legally chargeable under Title 47, Chapter 14, Sections 101 et seq., Tennessee Code Annotated, as it may be amended from time to time, on a per annum basis until reinstatement or the completion of foreclosure. The Association may bring an action at law against the Owner personally obligated to pay the same or foreclose the lien against the property, and interest, costs and reasonable attorney's fees of such action or foreclosure shall be added to the amount of such assessments. No owner may waive or otherwise escape liability for the assessment provided for herein by non-use of the Common Area or abandonment of his Unit or Lot."
+      },
+      {
+        "id": "node:ccr:section-9--subordination-of-the-lien-to-mortgages",
+        "type": "subsection",
+        "title": "SECTION 9. Subordination of the Lien to Mortgages.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s9"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-9--subordination-of-the-lien-to-mortgages:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-9--subordination-of-the-lien-to-mortgages:p-1",
+        "type": "paragraph",
+        "text": "The liens provided for herein shall be subordinate to the lien of any first mortgage. Sale or transfer of any Lot shall not affect the assessment lien or liens provided for in the preceding section. However, the sale or transfer of any Unit which is subject to any first mortgage or deed of trust, pursuant to a foreclosure thereof or any proceeding in lieu of foreclosure thereof, shall extinguish the lien of such assessments as the payment thereof which become due prior to such sale or transfer (provided, that such unpaid assessment shall be reallocated among the other Units). No such sale or transfer shall relieve such Lot from liability for any assessments thereafter becoming due or from the lien thereof."
+      },
+      {
+        "id": "node:ccr:section-10--exempt-property",
+        "type": "subsection",
+        "title": "SECTION 10. Exempt Property.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s10"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-10--exempt-property:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-10--exempt-property:p-1",
+        "type": "paragraph",
+        "text": "All property dedicated to, and accepted by, a local public authority and all properties owned by a charitable or non-profit organization exempt from taxation by the laws of the State of Tennessee shall be exempt from the assessments created herein [unless there is a Common Element contained within the boundaries of a Lot, in which event that particular Lot Owner shall be responsible for any state or local taxes]. However, no land or improvements devoted to dwelling use or access thereto shall be exempt from said assessments in any case."
+      },
+      {
+        "id": "node:ccr:section-11--capital-replacement-reserve-equal-to-three-months--maintenance-fees-to-be-collected-at-initial-closings",
+        "type": "subsection",
+        "title": "SECTION 11. Capital Replacement Reserve Equal to Three Months' Maintenance Fees to be Collected at Initial Closings.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a4-s11"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-11--capital-replacement-reserve-equal-to-three-months--maintenance-fees-to-be-collected-at-initial-closings:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-11--capital-replacement-reserve-equal-to-three-months--maintenance-fees-to-be-collected-at-initial-closings:p-1",
+        "type": "paragraph",
+        "text": "As builders sell Lots to residential purchasers, those builders shall collect for the Association and such purchaser shall pay to the Association, a sum of money equal to three months' maintenance fees, and that sum shall be delivered to the Association promptly after such residential lot closing. Any sums collected from such builders by the Association when they purchased a particular Lot (s) for construction, shall then be refunded to such builder. Such sums shall be held by the Association in a separate line item account, to be spent only on replacements or maintenance of capital items."
+      },
+      {
+        "id": "node:ccr:article-v-maintenance--repairs-and-replacements",
+        "type": "section",
+        "title": "ARTICLE V MAINTENANCE, REPAIRS AND REPLACEMENTS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a5"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:article-v-maintenance--repairs-and-replacements:p-1"
+          },
+          {
+            "ref": "node:ccr:article-v-maintenance--repairs-and-replacements:p-2"
+          },
+          {
+            "ref": "node:ccr:article-v-maintenance--repairs-and-replacements:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:article-v-maintenance--repairs-and-replacements:p-1",
+        "type": "paragraph",
+        "text": "Each Owner, at his own expense, shall furnish and be responsible for all maintenance of, repairs to and replacements within his own Lot or exclusively serving his own Lot (\"Unit Fixtures\") or the Board may cause the same to be done at the expense of the Owner. Maintenance of, repairs to and replacements to the Common Elements, except those referred to elsewhere herein, shall be the responsibility of and shall be furnished by the Association. The cost of maintenance of, repairs to and replacements to the Common Elements shall be part of the common expenses, subject to the By- Laws, rules and regulations of the Association. The expenses for the maintenance, repair or replacement of Unit Fixtures shall be borne by the owner of the Lot to which such Unit Fixtures are appurtenant and at the discretion of the Board, maintenance of, repairs to and replacements within the other Unit Fixtures may be assessed in whole or in part to Owners benefitted thereby. And, further, at the discretion of the Board, the Board may direct Owners who stand to be directly benefitted by such maintenance of, repairs to and replacement of abutting Common Elements to arrange for such maintenance, repairs and replacement in the name and for the account of such benefitted Owners, pay the cost thereof with their own funds, and procure and deliver to the Board such indemnities, lien waivers and contractor's and subcontractor's sworn statements as may be required to protect the Property from all furnishers', mechanics' or materialmen's lien claims that may arise therefrom. All decks, patios and backyards shall be the maintenance, repair and replacement responsibility of the individual Owner to which they attach."
+      },
+      {
+        "id": "node:ccr:article-v-maintenance--repairs-and-replacements:p-2",
+        "type": "paragraph",
+        "text": "If, due to the act or neglect of an Owner, or of his agent, servant, tenant, family member, invitee, licensee or household pet, damage shall be caused to the Common Elements or to a Lot or Unit owned by others, or maintenance, repair or replacement are required which would otherwise be a common expense, then such Owner shall pay for such damage or such maintenance, repair and replacements, as may be determined by the Association, to the extent not covered by the Association's insurance or sufficient proceeds are not collected from the insurance carrier."
+      },
+      {
+        "id": "node:ccr:article-v-maintenance--repairs-and-replacements:p-3",
+        "type": "paragraph",
+        "text": "The authorized representative of the Association or the Board shall be entitled to reasonable access to the individual Units and/or Lots as may be required in connection with the preservation of any individual Unit in the event of an emergency, or in connection with maintenance of, repairs or replacements within the Common Elements or any equipment, facilities or fixtures affecting or serving other Lots or Units or the Common Elements or to make any alteration required by any governmental authority."
+      },
+      {
+        "id": "node:ccr:article-vi",
+        "type": "section",
+        "title": "ARTICLE VI",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a6"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:article-vi:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:article-vi:p-1",
+        "type": "paragraph",
+        "text": "[Intentionally left blank]"
+      },
+      {
+        "id": "node:ccr:article-vii-insurance",
+        "type": "section",
+        "title": "ARTICLE VII INSURANCE",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a7"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--casualty-insurance-on-insurable-area"
+          },
+          {
+            "ref": "node:ccr:section-2--deficiency-assessment"
+          },
+          {
+            "ref": "node:ccr:section-3--annual-review-of-policies"
+          },
+          {
+            "ref": "node:ccr:section-4--notice-to-first-mortgagees"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage"
+          },
+          {
+            "ref": "node:ccr:section-6--other-insurance"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--casualty-insurance-on-insurable-area",
+        "type": "subsection",
+        "title": "SECTION 1. Casualty Insurance on Insurable Area.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a7-s1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-1"
+          },
+          {
+            "ref": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-2"
+          },
+          {
+            "ref": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-3"
+          },
+          {
+            "ref": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-4"
+          },
+          {
+            "ref": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-5"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-1",
+        "type": "paragraph",
+        "text": "The Association shall keep all insurable improvements and fixtures of the Common Area insured against loss or damage by fire for the full insurance replacement cost thereof, and may obtain insurance against such other hazards and casualties as the Association may deem desirable. The Association may also insure any other property whether real or personal, owned by the Association, against loss or damage by fire and such other hazards as the Association may deem desirable, with the Association as the owner and beneficiary of such insurance. The insurance coverage with respect to the Common Area shall be written in the name of, and the proceeds thereof shall be payable to the Association. Insurance proceeds shall be used by the Association for the repair or replacement of the property for which the insurance was carried. Premiums for all insurance carried by the Association are Common Expenses included in the Common Assessments made by the Association."
+      },
+      {
+        "id": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-2",
+        "type": "paragraph",
+        "text": "The Association shall have a duty to maintain in effect casualty and liability insurance and fidelity bond coverage, as specified in Section 106 of the FNMA Conventional Home Mortgage Selling Contract Lending Guide (herein referred to as the \"FNMA Lending Guide\")."
+      },
+      {
+        "id": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-3",
+        "type": "paragraph",
+        "text": "The Board shall also have authority to and shall obtain comprehensive public liability insurance, in such amounts as it deems desirable, and workmen's compensation insurance and other liability insurance as it deems desirable, insuring each Owner, mortgagee of record, if any, the Association, its officers, directors, Board and employees from liability in connection with the Common Elements. The premiums for such insurance shall be a common expense. However, at the option of the Board, and upon written notice to all Owners, premiums for such insurance shall be separately billed to each Owner for his corresponding percentage of ownership in the Association. The Board shall retain in safe- keeping any such public liability policy for fifteen (15) years after the expiration date of the policy."
+      },
+      {
+        "id": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-4",
+        "type": "paragraph",
+        "text": "The Board shall also have authority to and may obtain such insurance as it deems desirable, in such amounts, from such sources and in such forms as it deems desirable, insuring each member of the Board and officer of the Association, and member of any committee appointed pursuant to the By-Laws of the Association from liability arising from the fact that said person is or was director or officer of the Association, or a member of such a committee. The premiums for such insurance shall be a common expense."
+      },
+      {
+        "id": "node:ccr:section-1--casualty-insurance-on-insurable-area:p-5",
+        "type": "paragraph",
+        "text": "Each Owner shall be responsible for obtaining his own insurance on his or her Residence, the contents of his own Unit and the Unit Fixtures serving his Unit, as well as his additions and improvements thereto, decorating, furnishings, fixtures, and personal property therein, and personal property stored elsewhere on the Property. In addition, in the event an Owner desires to insure against his personal liability and loss or damage by fire or other hazards above and beyond the extent that his liability, loss or damage is covered by the liability insurance and insurance against loss or damage by fire and such other hazards which may be otherwise (but not otherwise required hereunder) obtained by the Board for all of the Owners as part of the common expenses, as above provided, said Owner may, at his option and expense, obtain additional insurance."
+      },
+      {
+        "id": "node:ccr:section-2--deficiency-assessment",
+        "type": "subsection",
+        "title": "SECTION 2. Deficiency Assessment.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a7-s2"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-2--deficiency-assessment:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2--deficiency-assessment:p-1",
+        "type": "paragraph",
+        "text": "In the event of damage to or destruction of any part of the Common Area Improvements, the Association shall repair or replace the same from the insurance proceeds available. If such insurance proceeds are insufficient to cover the costs of repair or replacement of the property damaged or destroyed, the Association may make a Reconstruction Assessment against the Owners directly affected by the casualty (as determined in the sole discretion of the Board) or against all Owners to cover the additional cost of repair or replacement not covered by the insurance proceeds, in addition to any other Common Assessments made against such Owner. In the event that the Association is maintaining blanket casualty and fire insurance on the Units, the Association shall repair or replace the same from the insurance proceeds available from insurance proceeds only."
+      },
+      {
+        "id": "node:ccr:section-3--annual-review-of-policies",
+        "type": "subsection",
+        "title": "SECTION 3. Annual Review of Policies.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a7-s3"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-3--annual-review-of-policies:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3--annual-review-of-policies:p-1",
+        "type": "paragraph",
+        "text": "All insurance policies shall be reviewed at least annually by the Board of Directors in order to ascertain whether the coverage contained in the policies is sufficient to make any necessary repairs or replacement of the property which may have been damaged or destroyed."
+      },
+      {
+        "id": "node:ccr:section-4--notice-to-first-mortgagees",
+        "type": "subsection",
+        "title": "SECTION 4. Notice to First Mortgagees.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a7-s4"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-4--notice-to-first-mortgagees:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-4--notice-to-first-mortgagees:p-1",
+        "type": "paragraph",
+        "text": "In the event of substantial damage to or destruction of any Unit or any part of the Common Elements, the institutional holder of any first deed of trust or mortgage on a Unit will be entitled to timely written notice of any such damage or destruction and no provision of any document establishing the Property will entitle the owner of a Unit or other party to priority over such institutional holder with respect to the distribution to such Unit of any insurance proceeds."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage",
+        "type": "subsection",
+        "title": "SECTION 5. Federal National Mortgage Association (\"FNMA\" Coverage)",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a7-s5"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:p-2"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:p-3"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:p-1",
+        "type": "paragraph",
+        "text": "[This Section shall become effective and operational only if any of the residences and Lots should become encumbered by a first lien deed of trust or mortgage which is governed by FNMA]."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:p-2",
+        "type": "paragraph",
+        "text": "The Association shall also have a duty to maintain in effect casualty and liability insurance and fidelity bond coverage, as specified in Section 106 of the FNMA Conventional Home Mortgage Selling Contract Lending Guide (herein referred to as the \"FNMA Lending Guide\"), a summary of which follows:"
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1:p-1",
+        "type": "list_item",
+        "text": "Each hazard insurance policy must be written by an insurance carrier acceptable to FNMA and which falls into a financial category, as designated in Best's Key Rating Guide, of Class VI or better. In lieu of Class VI or better designation, a Seller/Servicer may accept a reinsurance arrangement to be entered into whereby an insurer with a classification lower than Class VI is covered by reinsurance of a company that does meet FNMA's minimum requirements. This may be accomplished by having both insurance carriers execute and attach to each mortgagor's policy an Assumption of Liability Endorsement, FNMA Form 858, or an equivalent endorsement that provides for one hundred percent (100%) reinsurance of the policy and ninety (90) days notice of reinsurance termination.",
+        "label": ".01",
+        "title": "General.",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1:p-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1:p-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1:p-1:p-1",
+        "type": "paragraph",
+        "text": "Where a reinsurer wishes to limit its per policy exposure, it may insist upon a dollar limitation being stated in the reinsurance endorsement. Such a limitation is acceptable to FNMA, provided the amount of insurance written under the policy does not exceed the limitations stated in the reinsurance endorsement."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-1:p-1:p-2",
+        "type": "paragraph",
+        "text": "In all cases, the primary insurer and the reinsuring company, association or organization must be specifically authorized by law or licensed by the jurisdiction to transact business within the state or territory where the property is located. In addition, policy contracts shall not provide that contribution or assessments may be made against FNMA or may become a lien on the property superior to the lien of FNMA's mortgage."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:p-3",
+        "type": "paragraph",
+        "text": "[Items .02 and .03 intentionally omitted]",
+        "meta": {
+          "indent_level": 2
+        }
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-2"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-3"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-4"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-5"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-6"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-9"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1",
+        "type": "list_item",
+        "text": "The insurance policy shall afford, as a minimum, protection against the following:",
+        "label": ".04",
+        "title": "Planned Unit Development (\"PUD\") Projects: Perils Covered.",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1:list-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1:list-1:p-1",
+        "type": "list_item",
+        "text": "loss or damage by fire and other perils normally covered by the standard extended coverage endorsement;",
+        "label": "a."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-1:list-1:p-2",
+        "type": "list_item",
+        "text": "all other perils which are customarily covered with respect to projects similar in construction, location and use, including all perils normally covered by the standard \"all risk\" endorsement, where such is available.",
+        "label": "b."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-2",
+        "type": "list_item",
+        "text": "The policy shall be in an amount equal to 100% of current replacement cost of the common areas in the Property, exclusive of land, foundation, excavation and other items normally excluded from coverage.",
+        "label": ".05",
+        "title": "Amount of Insurance."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-3",
+        "type": "list_item",
+        "text": "The name of the insured under such policies must be set forth therein substantially as follows:",
+        "label": ".06",
+        "title": "Named Insured and Loss Payable.",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-3:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-3:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-3:p-1",
+        "type": "paragraph",
+        "text": "\"Association of Owners of the Winston Hills Homeowners Association for the use and benefit of the individual owners.\""
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-3:p-2",
+        "type": "paragraph",
+        "text": "The policies may also be issued in the name of an authorized representative of the Association for the use and benefit of the individual owners. Loss payable shall be in favor of the Association, as a trustee for each Owner and each such Owner's mortgagee. Each Owner and each such Owner's mortgagee, if any, shall be beneficiaries of the policy in the percentage of common ownership or on the basis of another appropriate formula set out in the Declaration. Evidence of insurance shall be issued to each Owner and mortgagee upon request."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-4",
+        "type": "list_item",
+        "text": "Policies are unacceptable where (a) under the terms of the insurance carrier's charter, bylaws, or policy, contributions or assessments may be made against the Association, borrowers, FNMA, or the designee of FNMA, or (b) by the terms of the carrier's charter, bylaws or policy, loss payments are contingent upon actin by the carrier's board of directors, policyholders, or members, or (c) the policy includes any limiting clauses (other than insurance conditions) which could prevent FNMA or the borrowers from collecting insurance proceeds.",
+        "label": ".07",
+        "title": "Unacceptable Policies."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-5",
+        "type": "list_item",
+        "text": "Policies may not be canceled or substantially modified without at least 10 days' prior written notice to the Association and to each holder of a first mortgage which is listed as a scheduled holder of a first mortgage in the insurance policy.",
+        "label": ".08",
+        "title": "Notice of Cancellation or Modification."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-6",
+        "type": "list_item",
+        "text": "",
+        "label": ".09",
+        "title": "Property Insurance - Special Endorsements.",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-6:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-6:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-6:list-1:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-6:list-1:p-1",
+        "type": "list_item",
+        "text": "Policies must provide for the following: a waiver of the right of subrogation against Owners individually; the insurance is not prejudiced by any act or neglect of individual Owners which is not in the control of such Owners collectively; and the policy is primary in the event the Owner has other insurance covering the same loss. The requirements stated in this paragraph are generally provided by the insurer in the form of a \"Special Condominium or PUD Endorsement\" or its equivalent.",
+        "label": "a.",
+        "title": "Projects."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7",
+        "type": "list_item",
+        "text": "Where the Property is located within an area which has special flood hazards and for which flood insurance has been made available under the National Flood Insurance Program (NFIP), the following requirements apply:",
+        "label": ".10",
+        "title": "Flood Insurance.",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1:p-1",
+        "type": "list_item",
+        "text": "Flood insurance requirements for unit properties located in the Property are the same as those for other home mortgages.",
+        "label": "(1)"
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1:p-2",
+        "type": "list_item",
+        "text": "The Association must be required by the terms of the constituent documents hereof to obtain and pay, as a common expense, the premiums upon a policy of flood insurance on buildings and any other common property covered by the required form of policy (herein \"insurable property\"), in an amount deemed appropriate, but not less than the following:",
+        "label": "(2)",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1:p-2:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-7:list-1:p-2:p-1",
+        "type": "paragraph",
+        "text": "The lesser of: (a) the maximum coverage available under the NFIP for all buildings and other insurable property within any portion of the common areas located within a designated flood hazard area, or; (b) 100% of current \"replacement cost\" of all such buildings and other insurance property."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8",
+        "type": "list_item",
+        "text": "",
+        "label": ".11",
+        "title": "Liability Insurance.",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-3"
+          },
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-4"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-1",
+        "type": "list_item",
+        "text": "The Association must be required either by the terms of the constituent documents or by applicable law, to maintain comprehensive general liability insurance coverage covering all of the common areas, public ways of the project, and commercial spaces owned by the Association, whether or not they are leased to some third party.",
+        "label": "a.",
+        "title": "General."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-2",
+        "type": "list_item",
+        "text": "Coverage limits shall be in amounts generally required by private institutional mortgage investors for projects similar in construction, location and use. However, such coverage shall be for at least $1,000,000 for bodily injury, including deaths of persons and property damage arising out of a single occurrence. Coverage under this policy shall include, without limitation, legal liability of the insureds for property damage, bodily injuries and deaths of persons in connection with the operation, maintenance or use of the Units and common areas, and legal liability arising out of law suits related to employment contracts of the Association.",
+        "label": "b.",
+        "title": "Amount and Scope of Insurance."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-3",
+        "type": "list_item",
+        "text": "Such policies must provide that they may not be canceled or substantially modified, by any party, without at least 10 days' prior written notice to the Association and, to each holder of a first mortgage which is listed as a scheduled holder of a first mortgage in the insurance policy.",
+        "label": "c.",
+        "title": "Notice of Cancellation or Modification."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-8:list-1:p-4",
+        "type": "list_item",
+        "text": "Additional coverages may be required to include protection against such other risks as are customarily covered with respect to projects similar in construction, location and use, including but not limited to, host liquor liability, contractual and all-written contract insurance, employers liability insurance and comprehensive automobile liability insurance.",
+        "label": "d.",
+        "title": "Supplemental Coverage."
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-9",
+        "type": "list_item",
+        "text": "",
+        "label": ".12",
+        "title": "Fidelity Bonds.",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-9:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-9:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-9:list-1:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--federal-national-mortgage-association--fnma--coverage:list-2:p-9:list-1:p-1",
+        "type": "list_item",
+        "text": "By the terms of the appropriate constituent document, blanket fidelity bonds shall be required to be maintained by the Association for all officers, directors, trustees and employees of the Association and all other persons handling or responsible for funds of or administered by the Association.",
+        "label": "a.",
+        "title": "General."
+      },
+      {
+        "id": "node:ccr:section-6--other-insurance",
+        "type": "subsection",
+        "title": "SECTION 6. Other Insurance.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a7-s6"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-6--other-insurance:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-6--other-insurance:p-1",
+        "type": "paragraph",
+        "text": "The Board shall also have authority to and shall obtain any other insurance coverage, including comprehensive public liability insurance, in such amounts as it deems desirable, and workmen's compensation insurance and other liability insurance as it deems desirable, insuring each Owner, mortgagee of record, if any, the Association, its officers, directors, Board and employees from liability in connection with the Units and Common Elements. The premiums for such insurance shall be a common expense. However, at the option of the Board, and upon written notice to all Owners, premiums for such insurance shall be separately billed to each Owner for his corresponding percentage of ownership in the Association."
+      },
+      {
+        "id": "node:ccr:article-viii-easements",
+        "type": "section",
+        "title": "ARTICLE VIII EASEMENTS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a8"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:article-viii-easements:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:article-viii-easements:p-1",
+        "type": "paragraph",
+        "text": "Easements against subsidence and for installation and maintenance of utilities and drainage facilities are reserved as shown on the Plat. Within these easements no structure, planting or other material shall be placed or permitted to remain which may interfere with the installation and maintenance of utilities, or which may change the direction of flow of drainage channels in the easements, or which may obstruct or retard the flow of water through drainage channels in the easements, or which would dislodge or disturb the rock walls or holding walls. The Board may grant exceptions to these rules."
+      },
+      {
+        "id": "node:ccr:article-ix-general-provisions",
+        "type": "section",
+        "title": "ARTICLE IX GENERAL PROVISIONS",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--enforcement"
+          },
+          {
+            "ref": "node:ccr:section-2--severability"
+          },
+          {
+            "ref": "node:ccr:section-3--amendment"
+          },
+          {
+            "ref": "node:ccr:section-4--encroachment"
+          },
+          {
+            "ref": "node:ccr:section-5--alterations--additions-or-improvements"
+          },
+          {
+            "ref": "node:ccr:section-6--decorating"
+          },
+          {
+            "ref": "node:ccr:section-7--non-liability-of-the-directors--board-and-officers"
+          },
+          {
+            "ref": "node:ccr:section-8--board-s-determination-binding"
+          },
+          {
+            "ref": "node:ccr:section-9--notices"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association"
+          },
+          {
+            "ref": "node:ccr:section-11--perpetuities-and-restraints-on-alienation"
+          },
+          {
+            "ref": "node:ccr:section-12--rights-and-obligations"
+          },
+          {
+            "ref": "node:ccr:section-13--separate-real-estate-taxes"
+          },
+          {
+            "ref": "node:ccr:section-14--condemnation"
+          },
+          {
+            "ref": "node:ccr:section-15--rights-reserved"
+          },
+          {
+            "ref": "node:ccr:section-16--remedies"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc"
+          },
+          {
+            "ref": "node:ccr:section-18--adoption-of-declaration"
+          },
+          {
+            "ref": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant"
+          },
+          {
+            "ref": "node:ccr:section-19--leasing-of-units"
+          },
+          {
+            "ref": "node:ccr:section-20--business-use"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--enforcement",
+        "type": "subsection",
+        "title": "SECTION 1. Enforcement.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s1"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-1--enforcement:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-1--enforcement:p-1",
+        "type": "paragraph",
+        "text": "The Association, or any Owner, shall have the right to enforce, by any proceeding at law or in equity, all restrictions, conditions, covenants, reservations, liens and charges now or hereafter imposed by the provisions of the Declaration. Failure by the Association or any Owner to enforce any covenant or restriction herein contained shall in no event be deemed a waiver of the right to do so thereafter."
+      },
+      {
+        "id": "node:ccr:section-2--severability",
+        "type": "subsection",
+        "title": "SECTION 2. Severability.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s2"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-2--severability:p-1"
+          },
+          {
+            "ref": "node:ccr:section-2--severability:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-2--severability:p-1",
+        "type": "paragraph",
+        "text": "Invalidation of any one of the covenants or restrictions by judgment or court order shall in no way affect any other provisions which shall remain in full force and effect."
+      },
+      {
+        "id": "node:ccr:section-2--severability:p-2",
+        "type": "paragraph",
+        "text": "If any provision of the Declaration or By-Laws, or any section, sentence, clause, phrase, word, or the application thereof in any circumstance, is held invalid, the validity of the remainder of this Declaration and the By-Laws and of the application of any such provision, section, sentence, clause, phrase or word in any other circumstances shall not be affected thereby and the remainder of this Declaration or the By-Laws shall be construed as if such invalid part was never included therein."
+      },
+      {
+        "id": "node:ccr:section-3--amendment",
+        "type": "subsection",
+        "title": "SECTION 3. Amendment.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s3"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-3--amendment:amend-2-2002-02-28:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3--amendment:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-3--amendment:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-3--amendment:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-3--amendment:list-1:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-3--amendment:list-1:p-1",
+        "type": "list_item",
+        "text": "The covenants and restrictions of this Declaration shall run with and bind the land for a term of thirty (30) years from the date this Declaration is recorded, after which time they shall be automatically extended for six (6) successive periods of ten years each. This Declaration may be changed, modified or rescinded during the first thirty (30) year period by an instrument in writing, setting forth such change, modification or rescission, signed by not less than all of the Owners then eligible to vote, and acknowledged, and thereafter, by an instrument signed by all of such Owners, provided that no amendment shall alter any obligation to pay ad valorem taxes or assessments for public improvements as herein provided, or affect any lien for the payment thereof established herein, and provided that all lien holders of record have been notified by certified mail of such change, modification or rescission, and an affidavit by the secretary of the Association certifying to such mailing is made a part of such instrument. Any amendment must be properly recorded.",
+        "label": "A.",
+        "title": "Duration."
+      },
+      {
+        "id": "node:ccr:section-3--amendment:list-1:p-2",
+        "type": "list_item",
+        "text": "However, if the Declaration or the By-Laws require the consent or agreement of all Owners or of all lien holders for any action specified in this Declaration, then any instrument changing, modifying or rescinding any provision of this Declaration with respect to such action shall be signed by all the Owners or all lien holders or both as required by the Declaration. The change, modification or rescission, whether accomplished under either of the provisions of these paragraphs, shall be effective upon recording of such instrument in the Office of the Register of Deeds of Sumner County, Tennessee.",
+        "label": "B.",
+        "title": "Supermajority Requirements."
+      },
+      {
+        "id": "node:ccr:section-3--amendment:list-1:p-3",
+        "type": "list_item",
+        "text": "Anything herein to the contrary notwithstanding, the Declarant (or its successors or assigns in title) may subject and/or submit additional Villages or Phases of Lots to the Association and to this Declaration, as long as the newly submitted Lots/Phase of development are a part of the general plan for the property which the Declarant has proposed and has received approval for from the appropriate Planning Commission, such property consisting of this Village III and adjacent property which the Declarant now owns and which has been approved for development as a planned unit development (with Village III) by the appropriate Planning Commission or public authority. Such subjection and/or submission may be accomplished by the Declarant (or its successors or assigns in title) acting alone, and without the permission, consent or joinder of any other party, including, but not limited to, the Association, any Homeowner, or any mortgagee.",
+        "label": "C.",
+        "title": "Subjection / Submittal of Adjacent Property Owned by the Declarant."
+      },
+      {
+        "id": "node:ccr:section-4--encroachment",
+        "type": "subsection",
+        "title": "SECTION 4. Encroachment.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s4"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-4--encroachment:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-4--encroachment:p-1",
+        "type": "paragraph",
+        "text": "It is understood that Residences which are next door to each other and which may have a portion of the residence or walls, or equipment which is necessary for the operation of the residence, or the walls, or a driveway serving the residence next door, may be placed upon a Lot dividing line, which neighboring residence or equipment or walls or a driveway serving the residence next door may encroach on such adjoining Lot due to construction or other reasons. Accordingly, an easement is reserved for such encroachments which may result from such construction or other reasons, whether the same now exist or may be caused or created by construction, settlement, or movement of the residences, or such equipment, or such walls, or such driveways, by permissible repairs, construction or alteration."
+      },
+      {
+        "id": "node:ccr:section-5--alterations--additions-or-improvements",
+        "type": "subsection",
+        "title": "SECTION 5. Alterations, Additions or Improvements.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s5"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-5--alterations--additions-or-improvements:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-5--alterations--additions-or-improvements:p-1",
+        "type": "paragraph",
+        "text": "Anything herein to the contrary notwithstanding, alterations of the exterior of any Unit, or any additions or improvements thereto, may not be made by any Owner without the prior written approval of the Board. The Board may authorize and charge as common assessments, alterations, additions and improvements of the Common Elements as provided in the By-Laws."
+      },
+      {
+        "id": "node:ccr:section-6--decorating",
+        "type": "subsection",
+        "title": "SECTION 6. Decorating.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s6"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-6--decorating:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-6--decorating:p-1",
+        "type": "paragraph",
+        "text": "Each Owner, at his own expense, shall furnish and be responsible for all decorating within and outside his or her own Unit."
+      },
+      {
+        "id": "node:ccr:section-7--non-liability-of-the-directors--board-and-officers",
+        "type": "subsection",
+        "title": "SECTION 7. Non-Liability of the Directors, Board and Officers.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s7"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-7--non-liability-of-the-directors--board-and-officers:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-7--non-liability-of-the-directors--board-and-officers:p-1",
+        "type": "paragraph",
+        "text": "Neither the directors, Board, nor the officers of the Association, shall be personally liable to the Owners for any mistake of judgment or for any other acts or omissions of any nature whatsoever as such directors, Board, or officers, except for any acts or omissions found by a court to constitute gross negligence or actual fraud. The Owners shall indemnify and hold harmless each of the directors, Board, or officers, and their respective heirs, executors, administrators, successors and assigns in accordance with the By-Laws."
+      },
+      {
+        "id": "node:ccr:section-8--board-s-determination-binding",
+        "type": "subsection",
+        "title": "SECTION 8. Board's Determination Binding.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s8"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-8--board-s-determination-binding:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-8--board-s-determination-binding:p-1",
+        "type": "paragraph",
+        "text": "In the event of any dispute or disagreement between any Owners relating to the Property, or any questions of interpretation or application of the provisions of the Declaration or By-Laws, the determination thereof by the Board shall be final and binding on each and all such Owners."
+      },
+      {
+        "id": "node:ccr:section-9--notices",
+        "type": "subsection",
+        "title": "SECTION 9. Notices.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s9"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-9--notices:p-1"
+          },
+          {
+            "ref": "node:ccr:section-9--notices:p-2"
+          },
+          {
+            "ref": "node:ccr:section-9--notices:p-3"
+          },
+          {
+            "ref": "node:ccr:section-9--notices:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-9--notices:p-1",
+        "type": "paragraph",
+        "text": "Notices provided for in the Declaration or By-Laws shall be in writing, and shall be addressed to the Association or Board, or any Unit Owner, as the case may be, at their respective street addresses on Caudill Drive, Hendersonville, Tennessee, or at such other address as hereinafter provided. The Association or Board may designate a different address or addresses for notices to them, respectively, by giving written notice of such change of address to all Owners. Any Owner may designate a different address for notices to him (other than to his or her Unit) by giving written notice to the Association. Notices addressed as above shall be deemed delivered when mailed by United States registered or certified mail, or when delivered in person with written acknowledgment of the receipt thereof."
+      },
+      {
+        "id": "node:ccr:section-9--notices:p-2",
+        "type": "paragraph",
+        "text": "Upon written request to the Board, the holder of any recorded mortgage or trust deed encumbering any Unit shall be given a copy of all notices permitted or required by this Declaration to be given to the Owner or Owners whose Lot is subject to such mortgage or trust deed."
+      },
+      {
+        "id": "node:ccr:section-9--notices:p-3",
+        "type": "paragraph",
+        "text": "Upon written request to the Association, identifying the name and address of the holder, insurer or guarantor and the Lot estate number or address, any such eligible mortgage holder or eligible insurer or guarantor will be entitled to timely written notice of:"
+      },
+      {
+        "id": "node:ccr:section-9--notices:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-9--notices:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-9--notices:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-9--notices:list-1:p-3"
+          },
+          {
+            "ref": "node:ccr:section-9--notices:list-1:p-4"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-9--notices:list-1:p-1",
+        "type": "list_item",
+        "text": "Any condemnation loss or any casualty loss which affects a material portion of the project or any Lot estate on which there is a first mortgage held, insured, or guaranteed by such eligible mortgage holder or eligible insurer or guarantor, as applicable;",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-9--notices:list-1:p-2",
+        "type": "list_item",
+        "text": "Any delinquency in the payment of assessments or charges owed by an owner of a unit estate subject to a first mortgage held, insured or guaranteed by such eligible holder or eligible insurer or guarantor, which remains uncured for a period of 60 days;",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-9--notices:list-1:p-3",
+        "type": "list_item",
+        "text": "Any lapse, cancellation or material modification of any insurance policy or fidelity bond maintained by the Association;",
+        "label": "(c)"
+      },
+      {
+        "id": "node:ccr:section-9--notices:list-1:p-4",
+        "type": "list_item",
+        "text": "Any proposed action which would require the consent of a specified percentage of mortgage holders.",
+        "label": "(d)"
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association",
+        "type": "subsection",
+        "title": "SECTION 10. Transfer of a Unit - Notice to Association.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s10"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-1"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-2"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-3"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-4"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-5"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-3"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-1",
+        "type": "list_item",
+        "text": "An Owner may, without restriction under this Declaration, sell, give, devise, lease or otherwise transfer his Unit, or any interest therein, to any person.",
+        "label": "A.",
+        "title": "Unrestricted Transfers."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-2",
+        "type": "list_item",
+        "text": "The Board shall have the power and authority to bid and purchase, for and on behalf of the remaining Owners, any Unit, or interest therein, at a sale pursuant to a deed of trust or mortgage foreclosure, or an order or direction of a court, or at any other involuntary sale, upon the consent or approval of a majority of Owners. However, at a foreclosure of the lien for common expenses, the Board may bid the unpaid assessment allocable to that Unit, without approval of Unit Owners.",
+        "label": "B.",
+        "title": "Association's Right to Purchase at a Foreclosure Sale."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-3",
+        "type": "list_item",
+        "text": "The Board shall have authority to make such mortgage arrangements and special assessments proportionately among the respective Owners, and other such financing arrangements, as the Board may deem desirable, in order to close and consummate the purchase or lease of a Unit, or interest therein, by the Association. However, no such financing arrangement may be secured by an encumbrance on any interest in the Property other than the Unit, or interest therein, to be purchased or leased, and the percentage interest in the Association appurtenant thereto.",
+        "label": "C.",
+        "title": "Financing of Purchase by Association."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4",
+        "type": "list_item",
+        "text": "",
+        "label": "D.",
+        "title": "Miscellaneous.",
+        "children": [
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:p-1"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:p-1",
+        "type": "paragraph",
+        "text": "(a) A transfer or lease of a Unit, or interest therein, by or to the Board or the holder of any deed of trust or mortgage (or purchaser at foreclosure) on a Unit which comes into possession of the mortgagee of a Lot pursuant to remedies provided in such deed of trust or mortgage, or pursuant to foreclosure of such deed of trust or mortgage, or pursuant to a deed (or assignment) in lieu of foreclosure of such deed of trust or mortgage, shall not be subject to the provisions of this Section. The provisions of this Section shall in no way impair the rights of a first mortgagee to any of the following:"
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1:p-1",
+        "type": "list_item",
+        "text": "Foreclose or take title to a Lot pursuant to the remedies provided in the mortgage, or",
+        "label": "1."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1:p-2",
+        "type": "list_item",
+        "text": "Accept a deed (or assignment) in lieu of foreclosure in the event of default by a mortgagor, or",
+        "label": "2."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:list-1:p-4:list-1:p-3",
+        "type": "list_item",
+        "text": "Sell or lease a Lot acquired by the mortgagee.",
+        "label": "3."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-1",
+        "type": "paragraph",
+        "text": "If the occasion arises, The Association shall hold title to or lease any Lot, pursuant to the terms hereof, in the name of the Association, or a nominee thereof delegated by the Board, for the sole benefit of all remaining Owners. The Board shall have the authority at any time to sell, lease or sublease said Lot on behalf of the Association upon such terms as the Board shall deem desirable, but in no event shall a Lot be sold for less than the amount paid by the Association to purchase said Unit unless Owners owning at least fifty (50%) percent of the total ownership of the Association first authorize the sale for such lesser amount."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-2",
+        "type": "paragraph",
+        "text": "(b) All notices referred to or required under this Section shall be given in the manner provided in this Declaration for the giving of notices."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-3",
+        "type": "paragraph",
+        "text": "(c) The provisions of this Section with respect to the Association's right shall be and remain in full force and effect until the Property as a whole shall be sold unless the provisions of this Paragraph are sooner rescinded or amended by the Owners."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-4",
+        "type": "paragraph",
+        "text": "(d) The Board may adopt rules and regulations, from time to time, not inconsistent with the provisions of this Section, for the purpose of implementing and effectuating said provisions."
+      },
+      {
+        "id": "node:ccr:section-10--transfer-of-a-unit---notice-to-association:p-5",
+        "type": "paragraph",
+        "text": "(e) If any transfer or lease of a Unit is made or attempted without complying with the provisions of this Paragraph, such transfer or lease shall be subject to each and all of the rights of, and remedies and actions available to, the Association hereunder and otherwise."
+      },
+      {
+        "id": "node:ccr:section-11--perpetuities-and-restraints-on-alienation",
+        "type": "subsection",
+        "title": "SECTION 11. Perpetuities and Restraints on Alienation.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s11"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-11--perpetuities-and-restraints-on-alienation:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-11--perpetuities-and-restraints-on-alienation:p-1",
+        "type": "paragraph",
+        "text": "If any of the options, privileges, covenants or rights created by this Declaration shall be unlawful, void or voidable for violation of the rule against perpetuities, then such provision shall continue only until twenty-one (21) years after the death of the survivor of the now living descendants of the Governor of Tennessee, Don Sundquist."
+      },
+      {
+        "id": "node:ccr:section-12--rights-and-obligations",
+        "type": "subsection",
+        "title": "SECTION 12. Rights and Obligations.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s12"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-12--rights-and-obligations:p-1"
+          },
+          {
+            "ref": "node:ccr:section-12--rights-and-obligations:p-2"
+          },
+          {
+            "ref": "node:ccr:section-12--rights-and-obligations:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-12--rights-and-obligations:p-1",
+        "type": "paragraph",
+        "text": "Each Grantee of the Declarants, by the acceptance of a deed of conveyance accepts the same subject to all restrictions, conditions, covenants, reservations, liens and charges, and the jurisdiction, rights and powers created or reserved by this Declaration. All future Owners and Occupants shall be subject to and shall comply with the provisions of this Declaration. All rights, benefits and privileges of every character hereby imposed shall be deemed and taken to be covenants running with the land, and shall bind any person having at any time any interest or estate in said land, and shall inure to the benefit of such grantee in like manner as though the provisions of this Declaration were recited and stipulated at length in each and every deed of conveyance or contract for conveyance."
+      },
+      {
+        "id": "node:ccr:section-12--rights-and-obligations:p-2",
+        "type": "paragraph",
+        "text": "All present and future Owners, tenants and Occupants of a Unit shall be subject to, and shall comply with, the provisions of the By-Laws appended hereto and recorded herewith. The acceptance of a deed of conveyance devise or of a lease to a Unit, or the entering into occupancy of any Unit shall constitute an agreement that the provisions of the said By-Laws and any Rules and Regulations promulgated thereunder, as they may be amended from time to time, are assumed, accepted and ratified by such Owner, tenant or occupant, and all of such provisions shall be deemed and taken to be covenants running with the land and shall bind any person having at any time any interest or estate in such Unit, as though such provisions were recited and stipulated at length in each and every deed, conveyance or lease, thereof."
+      },
+      {
+        "id": "node:ccr:section-12--rights-and-obligations:p-3",
+        "type": "paragraph",
+        "text": "The terms and conditions of the Declaration, By-Laws and Rules and Regulations may be incorporated by reference in, and become part of, the agreement between any first mortgagee and any present or future Owner who enters into such an agreement with a first mortgagee. When so incorporated, any default in the terms and conditions of the Declaration, By-Laws and Rules and Regulations may be considered as a default by the first mortgagee, whereupon said first mortgagee, after exercising its option to declare a default, shall then have all of the rights and privileges arising as a result of a default under its agreement with said Owner."
+      },
+      {
+        "id": "node:ccr:section-13--separate-real-estate-taxes",
+        "type": "subsection",
+        "title": "SECTION 13. Separate Real Estate Taxes.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s13"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-13--separate-real-estate-taxes:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-13--separate-real-estate-taxes:p-1",
+        "type": "paragraph",
+        "text": "Real estate taxes shall be separately taxed to each Owner for his Lot and his corresponding percentage of ownership in the Association (if any taxes are assessed thereon). In the event that such taxes for any year are not separately taxed to each Owner, but rather are taxed on the Property as a whole, then each Owner shall pay his proportionate share thereof in accordance with his respective percentage of ownership interest in the Association."
+      },
+      {
+        "id": "node:ccr:section-14--condemnation",
+        "type": "subsection",
+        "title": "SECTION 14. Condemnation.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s14"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-14--condemnation:p-1"
+          },
+          {
+            "ref": "node:ccr:section-14--condemnation:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-14--condemnation:p-1",
+        "type": "paragraph",
+        "text": "In the event of a taking in condemnation or by eminent domain of a part of the Common Elements, the award made for such taking shall be payable to the Board for and on behalf of the Association and/or the Owners directly affected thereby, as their interest may appear. If a majority of the Board in their sole and absolute discretion approve the repair and restoration of such Common Elements the Board shall arrange for the repair and restoration of such Common Elements, and the Board shall disburse the proceeds of such award to the contractors engaged in such repair and restoration in appropriate progress payments. In the event that the Board does not approve the repair and commence restoration of Common Elements within 120 days after taking by the public or private authority, the Board shall disburse the net proceeds of such award on a fair and reasonable basis to the mortgagees directly affected by the condemnation and the balance to the Owners directly affected. The decision of the Board as to fairness and reasonableness shall be binding upon all parties if such decision reasonably relates to the given facts."
+      },
+      {
+        "id": "node:ccr:section-14--condemnation:p-2",
+        "type": "paragraph",
+        "text": "If any Unit or portion thereof or the Common Elements or any portion thereof is made the subject matter of any condemnation or eminent domain proceeding or is otherwise sought to be acquired by a condemning authority, then the institutional holder of any first deed of trust or mortgage on a Lot directly affected will be entitled to timely written notice of any such proceeding or proposed acquisition and no provision of any document establishing the Property will entitle the owner of a Lot or other party to priority over such institutional holder with respect to the distribution to such Lot of the proceeds of any award or settlement."
+      },
+      {
+        "id": "node:ccr:section-15--rights-reserved",
+        "type": "subsection",
+        "title": "SECTION 15. Rights Reserved.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s15"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-15--rights-reserved:p-1"
+          },
+          {
+            "ref": "node:ccr:section-15--rights-reserved:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-15--rights-reserved:p-1",
+        "type": "paragraph",
+        "text": "The Owner's right of enjoyment in the property commonly owned by the Association as herein created shall be subject to:"
+      },
+      {
+        "id": "node:ccr:section-15--rights-reserved:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-15--rights-reserved:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-15--rights-reserved:list-1:p-2"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-15--rights-reserved:list-1:p-1",
+        "type": "list_item",
+        "text": "The right of the Association (acting by and through the Board), as provided in its By-Laws, to suspend the enjoyment rights of any member for any period during which any assessment remains unpaid, and for such period as it considers appropriate for any infraction of its published rules and regulations; and",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-15--rights-reserved:list-1:p-2",
+        "type": "list_item",
+        "text": "The right of the Association (acting by and through the Board) to charge reasonable fees for the maintenance and/or use of the parts of the Common Elements.",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-16--remedies",
+        "type": "subsection",
+        "title": "SECTION 16. Remedies.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s16"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-16--remedies:p-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-16--remedies:p-1",
+        "type": "paragraph",
+        "text": "[This Section is intentionally reserved]."
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc",
+        "type": "subsection",
+        "title": "SECTION 17. Federal Home Loan Mortgage Corporation Regulations, etc.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s17"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:p-1"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:p-2"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:p-1",
+        "type": "paragraph",
+        "text": "[This Section shall become effective and operational only if any of the residences and Lots should become encumbered by a first lien deed of trust or mortgage which is governed by Federal Home Loan Mortgage Corporation Regulations]."
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:p-2",
+        "type": "paragraph",
+        "text": "Notwithstanding anything to the contrary contained in this Declaration, or in the By-Laws which are attached hereto, all terms, conditions and regulations which are now existing, or which may be amended from time to time, by the Federal Home Loan Mortgage Corporation pertaining to planned unit developments are hereby incorporated as terms and conditions of the Declaration and By-Laws and such shall be governing upon the Property and the Association. Specifically, without limitation upon the foregoing, the following declarations shall be fully effective and controlling over any terms of the Declaration or By-Laws which are in conflict. Any portions of such Declaration or By-Laws which are in conflict with this Section, or with any portion of Federal Home Loan Mortgage Corporation or the Federal National Mortgage Association regulations pertaining to planned unit developments are hereby deleted, such regulations are substituted herefor and to the extent that it is necessary to amend this instrument so that the Seller's Warranties will be deemed to be true (as defined in the Sellers Guide, issued by the Federal Home Loan Mortgage Corporation, Part III, Subsection 3.207), then this instrument and the accompanying By-Laws shall be deemed to be so amended to conform thereto, and so that the legal guidelines and underwriting standards set forth in Sections 401 through 611 of the \"FNMA Lending Guide\" shall be incorporated herein by reference, and any conflicting provisions herein shall be deemed to be amended to conform thereto, anything herein to the contrary notwithstanding. The following additional rights of mortgagees are itemized as follows:"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-4"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-5"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-6"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-7"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-8"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-9"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-10"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-1",
+        "type": "list_item",
+        "text": "A first mortgagee of a Unit at his request is entitled to written notification from the Association of any default by the mortgagor of such Unit in the performance of such mortgagor's obligations under the Declaration, By-Laws, or any of the documents, which is not cured within thirty (30) days.",
+        "label": "(a)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-2",
+        "type": "list_item",
+        "text": "Any first mortgagee of a Unit who comes into possession of the Unit pursuant to the remedies provided in the mortgage, deed of trust, foreclosure of the mortgage or deed of trust, or deed in lieu of foreclosure shall take the property free of any claims for any unpaid assessments or charges against the mortgaged Unit, which accrue prior to the time such holder comes into possession of the Unit (except for claims for a prorata share of such assessments or charges resulting from a prorata reallocation of such assessments or charges to all Units including the mortgaged Unit).",
+        "label": "(b)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3",
+        "type": "list_item",
+        "text": "Unless at least seventy-five (75%) percent of the first mortgagees (based upon one (1) vote for each mortgage owned) of Units have given their prior written approval, the Association shall not be entitled to:",
+        "label": "(c)",
+        "children": [
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1:p-3"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1:p-1",
+        "type": "list_item",
+        "text": "Change the prorata interest or obligations of any Unit for (a) purposes of levying assessments or charges or allocating distributions of hazard insurance proceeds or condemnation awards and for (b) determining the prorata share of each Unit in the Association.",
+        "label": "(i)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1:p-2",
+        "type": "list_item",
+        "text": "Use hazard insurance proceeds for losses to any property (whether to individual Units or Common Elements) for other than the repair, replacement, or reconstructions of such improvements, in case of substantial loss to the Units and/or Common Elements.",
+        "label": "(ii)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-3:list-1:p-3",
+        "type": "list_item",
+        "text": "Amend the Declaration, By-Laws or survey in such a manner as to adversely affect the rights or security enjoyed by a first mortgage lien holder.",
+        "label": "(iii)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-4",
+        "type": "list_item",
+        "text": "First mortgagees shall have the right to examine the books and records of the Association and/or the Property; and upon request, be permitted or entitled to receive an annual audited financial statement of the Property within 90 days following the end of any fiscal year of the Property; and written notice of all meetings of the Association and be permitted to designate a representative to attend all such meetings.",
+        "label": "(d)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-5",
+        "type": "list_item",
+        "text": "An adequate reserve fund for the replacement of Common Elements will be established and funded by regular monthly payments rather than by special assessments.",
+        "label": "(e)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-6",
+        "type": "list_item",
+        "text": "All taxes, assessments and charges which may become liens prior to the first mortgage under the laws of the State of Tennessee shall relate only to the individual Unit and not to the project as a whole.",
+        "label": "(f)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-7",
+        "type": "list_item",
+        "text": "No Owner, or any other party shall have priority over any rights of the first mortgagees of Units pursuant to their mortgages in the case of a distribution to Owners of insurance proceeds or condemnation awards for losses to or a taking of Units and/or Common Elements.",
+        "label": "(g)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-8",
+        "type": "list_item",
+        "text": "The Association shall give to the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association or any lending institution servicing such mortgages as are acquired by the Federal Home Loan Mortgage Corporation and the Federal National Mortgage Association, notice in writing of any loss to or the taking of, the Units or the Common Elements of the project if such loss or taking exceeds Ten Thousand Dollars ($10,000). The Association may rely upon the information contained in the book entitled \"Mortgages of Units\" as must be established pursuant to the By-Laws, for a list of mortgagees to be notified hereby. All first mortgagees shall register with the \"Book of Mortgages\".",
+        "label": "(h)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-9",
+        "type": "list_item",
+        "text": "The interest of a first mortgagee in a mortgaged Unit shall be superior to the interests of any other person, group, partnership, corporation or entity of any kind, including any interest the Board or any Owner may have in any portion of the premises, regardless of the nature of the interest or the manner in which it is acquired.",
+        "label": "(i)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-10",
+        "type": "list_item",
+        "text": "Notwithstanding the above, any first mortgagee shall have all of the rights granted to a first mortgagee herein, and in addition shall have all of the rights granted to an institutional first mortgagee under its Deed of Trust, and under the Laws of the State of Tennessee.",
+        "label": "(j)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11",
+        "type": "list_item",
+        "text": "To the extent that the Federal National Mortgage Association shall have an interest in, or be the owner of, or participate in, any first mortgages or deeds of trust affecting any of the Units, then:",
+        "label": "(k)",
+        "children": [
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-3"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-4"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-5"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-6"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-7"
+          },
+          {
+            "ref": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-8"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-1",
+        "type": "list_item",
+        "text": "Any lien of the Association resulting from nonpayment of assessments against a unit must be subordinate to the first mortgage or deed of trust lien against that unit.",
+        "label": "(1)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-2",
+        "type": "list_item",
+        "text": "An adequate reserve fund for replacement of common element components must be established, which must be funded by monthly payments rather than extraordinary special assessments. A working capital fund shall be established for the initial months of the operation equal to at least a two months' established common expense charge for each unit. Each unit's share of the working capital fund must be collected and transferred to the Association at the time of closing of the sale of each unit and maintained in a segregated account for the use and benefit of the Association. The purpose of the fund is to insure that the Association's Board of Directors will have cash available to meet unforeseen expenditures, or to acquire additional equipment or services deemed necessary or desirable by the Board. Amounts paid into the fund are not to be considered as advance payment of regular assessments.",
+        "label": "(2)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-3",
+        "type": "list_item",
+        "text": "The Association shall give the holders of first deeds of trust and mortgages prompt notice of any default in the Unit mortgagor's obligations under the documents not cured within 30 days of default.",
+        "label": "(3)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-4",
+        "type": "list_item",
+        "text": "The holders of first deeds of trust or mortgages shall have the right to examine the books and records of the Association and to require annual reports and other financial data.",
+        "label": "(4)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-5",
+        "type": "list_item",
+        "text": "A reasonable method for dealing with any condemnation of the Property shall be provided, specifying written notice to first mortgagees of any such proceedings and not disturbing mortgagee's first lien priority.",
+        "label": "(5)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-6",
+        "type": "list_item",
+        "text": "The Association shall have the right to maintain existing improvements regardless of any present or future encroachments of the common elements or a Unit upon another Unit.",
+        "label": "(6)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-7",
+        "type": "list_item",
+        "text": "The unit shall not be subject to any unreasonable restraints on alienation which would adversely affect the title or marketability of the unit, or the ability of the mortgage holder to foreclose its first mortgage lien and thereafter to sell or lease the mortgaged unit.",
+        "label": "(7)"
+      },
+      {
+        "id": "node:ccr:section-17--federal-home-loan-mortgage-corporation-regulations--etc:list-1:p-11:list-1:p-8",
+        "type": "list_item",
+        "text": "Appropriate fidelity bond coverage must be required for any person or entity handling funds of the Association, including, but not limited to, employees of the professional managers.",
+        "label": "(8)"
+      },
+      {
+        "id": "node:ccr:section-18--adoption-of-declaration",
+        "type": "subsection",
+        "title": "SECTION 18. Adoption of Declaration.",
+        "meta": {
+          "pdf_dest": {
+            "name": "ccr-a9-s17"
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-18--adoption-of-declaration:p-1"
+          },
+          {
+            "ref": "node:ccr:section-18--adoption-of-declaration:p-2"
+          },
+          {
+            "ref": "node:ccr:section-18--adoption-of-declaration:p-3"
+          },
+          {
+            "ref": "node:ccr:section-18--adoption-of-declaration:p-4"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-18--adoption-of-declaration:p-1",
+        "type": "paragraph",
+        "text": "Accordingly, the Declarants hereby adopt this Declaration of Covenants, Conditions and Restrictions, and all Exhibits hereto attached."
+      },
+      {
+        "id": "node:ccr:section-18--adoption-of-declaration:p-2",
+        "type": "paragraph",
+        "text": "Each Lot Owner, whether existing or in the future, does hereby make, constitute and appoint Declarant his or her true and lawful attorney-in-fact for the sole purpose of amending said Declaration, By-Laws and corporate charter in order to: (1) correct drafting and/or scrivener's errors, or (2) conform this Declaration to FNMA and/or FHLMC regulations or requirements, as fully as if such Lot Owner had joined herein in person. No joinder of any Lot's first mortgagee shall be required for this purpose, so long as the Lot Owner's interest as a member of the Association is not reduced and his ownership in the Lot is not changed. This power of attorney is given for value, is irrevocable and shall survive the death or disability of all Unit Owners their successors and assigns."
+      },
+      {
+        "id": "node:ccr:section-18--adoption-of-declaration:p-3",
+        "type": "paragraph",
+        "text": "Declarant agrees, for itself and its successors and assigns, that any requirements of City of Hendersonville, Tennessee, dealing with the establishment of an Association and the ownership and maintenance of \"common open space,\" and the possibility that if an Association does not maintain the common open space in reasonable order and condition in accordance with the requirements of the city, shall become the obligations and duties of the Association."
+      },
+      {
+        "id": "node:ccr:section-18--adoption-of-declaration:p-4",
+        "type": "paragraph",
+        "text": "Declarant agrees, for itself and its successors and assigns, and any Owner agrees that it/he/she will abide by and perform each and every requirement contained in the \"Winston Hills Development Guidelines\" set out and attached hereto as Exhibit D (the \"Guidelines\"). All requirements set out in the Guidelines shall be deemed to be material and bargained for in the sale and purchase of Lots. The failure to comply with any such Guideline, as interpreted by the Development Review Committee (in its sole and absolute discretion), or its successor, shall result in a disapproval of the requested Lot plans. If any Owner should violate any such approval by the Development Review Committee, or if an Owner should develop a Lot without having the requisite approval from the Development Review Committee. Unless the Declarant expressly assigns the right, no party other than the Declarant or the Development Review Committee shall have standing to enforce the Guidelines. Enforcement of the Guidelines shall expire on the 120th month after the date hereof."
+      },
+      {
+        "id": "node:ccr:root:p-5",
+        "type": "paragraph",
+        "text": "IN WITNESS WHEREOF, the undersigned, being the Declarant herein, has caused this instrument to be executed by its duly authorized officer, as of this the 27 day of May, 1999."
+      },
+      {
+        "id": "node:ccr:exhibit-1",
+        "type": "exhibit",
+        "label": "EXHIBIT \"A\" TO DECLARATION",
+        "children": [
+          {
+            "ref": "node:ccr:exhibit-1:p-1"
+          }
+        ],
+        "title": "LEGAL DESCRIPTION OF THE PROPERTY"
+      },
+      {
+        "id": "node:ccr:exhibit-1:p-1",
+        "type": "paragraph",
+        "text": "Being land located in the 5TH Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee. The above described property is encumbered by easements for sanitary sewer lines, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress- egress easements for the use and benefit of the Winston Hills Homeowners Association."
+      },
+      {
+        "id": "node:ccr:exhibit-2",
+        "type": "exhibit",
+        "label": "EXHIBIT \"B\" TO DECLARATION",
+        "children": [
+          {
+            "ref": "node:ccr:exhibit-2:p-1"
+          },
+          {
+            "ref": "node:ccr:exhibit-2:p-2"
+          },
+          {
+            "ref": "node:ccr:exhibit-2:p-3"
+          }
+        ],
+        "title": "LEGAL DESCRIPTION OF THE COMMON AREAS OR COMMON ELEMENTS"
+      },
+      {
+        "id": "node:ccr:exhibit-2:p-1",
+        "type": "paragraph",
+        "text": "Being land located in the 555 Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee."
+      },
+      {
+        "id": "node:ccr:exhibit-2:p-2",
+        "type": "paragraph",
+        "text": "HOWEVER, there is specifically EXCLUDED AND EXCEPTED from the above described property all numbered and platted lots and public utility easements as shown in plat of said lots and public streets as shown in plat of WINSTON HILLS [Village III], a Planned Unit Development, of record in Plat Book 17, Page 374, of the Register's Office for Sumner County, Tennessee, and to which plat reference is hereby made for more complete details as to location and description of said lot areas and public utilities and drainage easements."
+      },
+      {
+        "id": "node:ccr:exhibit-2:p-3",
+        "type": "paragraph",
+        "text": "The above described property is encumbered by easements for sanitary sewer lines, open space, detention area, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress-egress easements for the use and benefit of the WINSTON HILLS HOMEOWNERS ASSOCIATION."
+      },
+      {
+        "id": "node:ccr:exhibit-3",
+        "type": "exhibit",
+        "label": "EXHIBIT \"C\" BYLAWS OF WINSTON HILLS HOMEOWNERS ASSOCIATION",
+        "children": [],
+        "meta": {
+          "exhibit_ref": {
+            "instrument_id": "exhibit-c-2005-01-04"
+          }
+        }
+      },
+      {
+        "id": "node:ccr:exhibit-4",
+        "type": "exhibit",
+        "label": "EXHIBIT \"D\" WINSTON HILLS Development Guidelines",
+        "children": [],
+        "meta": {
+          "exhibit_ref": {
+            "instrument_id": "exhibit-d-1999-05-27"
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant",
+        "type": "subsection",
+        "title": "SECTION 19. Subjection / Submittal of Adjacent Property Owned by the Declarant.",
+        "children": [
+          {
+            "ref": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant:p-1"
+          }
+        ],
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-2-2002-02-28",
+            "created_by_op_id": "insert-section-19-subjection-submittal",
+            "source_ref": {
+              "instrument_id": "amend-2-2002-02-28",
+              "node_id": "node:amend-2-2002-02-28:root:list-1:p-2",
+              "pdf_dest": {
+                "name": "amend2-2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-19--subjection---submittal-of-adjacent-property-owned-by-the-declarant:p-1",
+        "type": "paragraph",
+        "text": "Anything herein to the contrary notwithstanding, the Declarant (or its successors or assigns in title) may subject and/or submit additional Villages or Phases of Lots to the Association and to this Declaration, as long as the newly submitted Lots/Phase of development are a part of the general plan for the property which the Declarant has proposed and has received approval for from the appropriate Planning Commission, such property consisting of this Village III and adjacent property which the Declarant now owns and which has been approved for development as a planned unit development (with Village III) by the appropriate Planning Commission or public authority. Such subjection and/or submission may be accomplished by the Declarant (or its successors or assigns in title) acting alone, and without the permission, consent or joinder of any other party, including, but not limited to, the Association, any Homeowner, or any mortgagee.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-2-2002-02-28",
+            "created_by_op_id": "insert-section-19-subjection-submittal",
+            "source_ref": {
+              "instrument_id": "amend-2-2002-02-28",
+              "node_id": "node:amend-2-2002-02-28:root:list-1:p-2",
+              "pdf_dest": {
+                "name": "amend2-2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-3--amendment:amend-2-2002-02-28:p-1",
+        "type": "paragraph",
+        "text": "The covenants and restrictions of this Declaration shall run with and bind the land for a term of thirty (30) years from the date this Declaration is recorded, after which time they shall be automatically extended for six (6) successive periods of ten (10) years each. This Declaration may be changed, modified, amended or terminated by an instrument in writing, setting forth such change, modification, amendment or termination, and signed by Owners having not less than seventy five percent (75%) of the votes of the Owners at the time of said change, modification, amendment or termination. Any such change, modification, amendment or termination of said Declaration shall be effective upon recording of such instrument in the office of the Register of Deeds of Sumner County, Tennessee.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-2-2002-02-28",
+            "created_by_op_id": "replace-section-3-amendment",
+            "source_ref": {
+              "instrument_id": "amend-2-2002-02-28",
+              "node_id": "node:amend-2-2002-02-28:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend2-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:article-xiii-fha-va-approval",
+        "type": "section",
+        "title": "ARTICLE XIII",
+        "children": [
+          {
+            "ref": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval"
+          }
+        ],
+        "meta": {
+          "note": "The Third Amendment places FHA/VA approval text into Article XIII Section 1, however Article XIII does not exist in the original Covenants.",
+          "provenance": {
+            "created_by_instrument_id": "amend-3-2002-06-05",
+            "created_by_op_id": "insert-article-xiii-fha-va-approval",
+            "source_ref": {
+              "instrument_id": "amend-3-2002-06-05",
+              "node_id": "node:amend-3:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend3-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval",
+        "type": "subsection",
+        "title": "SECTION 1.",
+        "children": [
+          {
+            "ref": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval:p-1"
+          }
+        ],
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-3-2002-06-05",
+            "created_by_op_id": "insert-article-xiii-fha-va-approval",
+            "source_ref": {
+              "instrument_id": "amend-3-2002-06-05",
+              "node_id": "node:amend-3:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend3-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:article-xiii-fha-va-approval:section-1--fha-va-approval:p-1",
+        "type": "paragraph",
+        "text": "As long as there is a Class B membership, the following actions will require the prior approval of the Federal Housing Administration or the Veterans Administration: Annexation of additional properties, dedication of Common Area, and amendment of this Declaration.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-3-2002-06-05",
+            "created_by_op_id": "insert-article-xiii-fha-va-approval",
+            "source_ref": {
+              "instrument_id": "amend-3-2002-06-05",
+              "node_id": "node:amend-3:root:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend3-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-14--drc",
+        "type": "list_item",
+        "label": "(n)",
+        "text": "\"DRC\" shall mean and refer to that Development Review Committee or Design Review Committee, Development Review Committee and Design Review Committee being interchangeable terms referring to the same entity, referenced in the Winston Hills Development Guidelines attached as Exhibit \"D\" to this Declaration.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-definitions-drc-acc",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-1:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend8-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-1--definitions:list-1:p-15--acc",
+        "type": "list_item",
+        "label": "(o)",
+        "text": "\"ACC\" shall mean and refer to that Architectural Control Committee appointed by the Board of Directors of the Association pursuant to Article IX of the By-Laws of the Winston Hills Homeowners Association attached as Exhibit \"C\" to this Declaration. By First Amendment to Winston Hills Development Guidelines and Use Restrictions recorded simultaneously herewith, the ACC shall undertake all duties and responsibilities of the DRC and shall be referenced in lieu of the DRC wherever DRC is referenced in the Winston Hills Development Guidelines attached as Exhibit \"D\" to this Declaration.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-definitions-drc-acc",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-1:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend8-1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-1--creation-of-the-lien-and-personal-obligation-of-assessments:list-1:p-3--remedial-assessments",
+        "type": "list_item",
+        "label": "(c)",
+        "text": "remedial assessments for violations of the Winston Hills Development Guidelines and Use Restrictions.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-remedial-assessments-list-item",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-2:list-1:p-1:list-1:p-1",
+              "pdf_dest": {
+                "name": "amend8-2-s1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-5--special-assessments-for-capital-improvements:p-2--remedial-assessments",
+        "type": "paragraph",
+        "label": "(b)",
+        "text": "In addition to the annual and special assessments authorized above, the Association (acting by and through the Board, either independently or upon advice of the DRC) may levy, at any time, a remedial assessment for the violation of any Winston Hills Development Guidelines attached as Exhibit \"D\" to the Declaration, and amended by First Amendment to Winston Hills Development Guidelines and Use Restrictions being recorded simultaneously herewith. Said remedial assessment shall include expenses incurred by the Association or the DRC to remedy such violation and a fine for the violation not to exceed ONE HUNDRED AND NO/100 DOLLARS ($100.00) per violation.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-section-5-remedial-assessment-paragraph",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-2:list-1:p-2:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-2-s5"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-19--leasing-of-units",
+        "type": "subsection",
+        "title": "SECTION 19. Leasing of Units.",
+        "meta": {
+          "note": "Amendment Eighth Amendment adds a second SECTION 19 but Second Amended Declaration already created SECTION 19; numbering is preserved as recorded.",
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        },
+        "children": [
+          {
+            "ref": "node:ccr:section-19--leasing-of-units:list-1"
+          }
+        ]
+      },
+      {
+        "id": "node:ccr:section-19--leasing-of-units:list-1",
+        "type": "list",
+        "children": [
+          {
+            "ref": "node:ccr:section-19--leasing-of-units:list-1:p-1"
+          },
+          {
+            "ref": "node:ccr:section-19--leasing-of-units:list-1:p-2"
+          },
+          {
+            "ref": "node:ccr:section-19--leasing-of-units:list-1:p-3"
+          }
+        ],
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-19--leasing-of-units:list-1:p-1",
+        "type": "list_item",
+        "label": "(a)",
+        "text": "Definition. \"Leasing\" for purposes of the Declaration, is defined as regular, exclusive occupancy of a Unit by any person or persons other than the Owner for which the Owner receives any consideration or benefit, including, but not limited to a fee, service, gratuity, or emolument.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-19--leasing-of-units:list-1:p-2",
+        "type": "list_item",
+        "label": "(b)",
+        "text": "General. Units may be rented only in their entirety; no fraction or portion may be rented. There shall be no subleasing of Units or assignment of leases unless prior written approval is obtained from the Board. No transient tenants may be accommodated in a Unit. All leases shall be in writing and shall be for an initial term of no less than six (6) months, except with the prior written consent of the Board. Notice of any lease, together with such additional information as may be required by the Board, shall be given to the Board by the Owner within ten (10) days of execution of the lease. The Owner must make available to the lessee copies of the Declaration, Bylaws, and the rules and regulations.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-19--leasing-of-units:list-1:p-3",
+        "type": "list_item",
+        "label": "(c)",
+        "text": "Compliance with Declaration, Bylaws and Rules and Regulations. Every Owner shall cause all occupants of his or her Unit to comply with the Declaration, Bylaws, and the rules and regulations adopted pursuant thereto, and shall be responsible for all violations and losses to the Common Areas caused by such occupants, notwithstanding the fact that such occupants of a Unit are fully liable and may be sanctioned for any violation of the Declaration, Bylaws, and rules and regulations adopted pursuant thereto.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-20--business-use",
+        "type": "subsection",
+        "title": "SECTION 20. Business Use.",
+        "children": [
+          {
+            "ref": "node:ccr:section-20--business-use:p-1"
+          },
+          {
+            "ref": "node:ccr:section-20--business-use:p-2"
+          }
+        ],
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-20--business-use:p-1",
+        "type": "paragraph",
+        "text": "No trade or business may be conducted in or from any Unit, except that an Owner or occupant residing in a Unit may conduct business activities within the Unit so long as: (a) the existence or operation of the business activity is not apparent or detectable by sight, sound or smell from outside the Unit; (b) the business activity conforms to all zoning requirements for the Property; (c) the business activity does not involve persons coming onto the Property who do not reside in the Property or door-to-door solicitation of residents of the Property; and (d) the business activity is consistent with the residential character of the Property and does not constitute a nuisance, or a hazardous or offensive use, or threaten the security or safety of other residents of the Property, as may be determined in the sole discretion of the Board.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": "node:ccr:section-20--business-use:p-2",
+        "type": "paragraph",
+        "text": "The terms \"business\" and \"trade\", as used in this provision, shall be constructed to have their ordinary, generally accepted meanings, and shall include, without limitation, any occupation, work or activity undertaken on an ongoing basis which involves the provision of goods or services to persons other than the provider's family and for which the provider receives a fee, compensation, or other form of consideration, regardless of whether: (i) such activity is engaged in full or part-time; (ii) such activity is intended to or does generate a profit; or (iii) a license is required therefore. Notwithstanding the above, the leasing of a Unit in accordance with T. of this Section shall not be considered a trade or business within the meaning of the section.",
+        "meta": {
+          "provenance": {
+            "created_by_instrument_id": "amend-8-2005-01-04",
+            "created_by_op_id": "insert-article-ix-section-19-leasing-after-existing-19",
+            "source_ref": {
+              "instrument_id": "amend-8-2005-01-04",
+              "node_id": "node:amend-8:root:list-1:p-3",
+              "pdf_dest": {
+                "name": "amend8-3"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "meta": {
+      "generated_at": "2026-01-23T07:36:02.668828Z",
+      "tombstones": [
+        {
+          "node_id": "node:ccr:section-3--amendment:list-1",
+          "parent_node_id": "node:ccr:section-3--amendment",
+          "deleted_by_instrument_id": "amend-2-2002-02-28",
+          "deleted_by_op_id": "replace-section-3-amendment",
+          "position": "only_child",
+          "source_ref": {
+            "instrument_id": "amend-2-2002-02-28",
+            "node_id": "node:amend-2-2002-02-28:root:list-1:p-1",
+            "pdf_dest": {
+              "name": "amend2-1"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "instrument": {
+    "id": "ccr@asof-2005-01-12",
+    "base_doc_id": "ccr",
+    "title": "Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "declaration",
+    "doc_type": "Declaration",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2005-01-12",
+    "effective_at": "2005-01-12",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "982",
+      "page": "242"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    },
+    "coverage": [
+      {
+        "action": "other",
+        "scope_kind": "all_lots",
+        "phase_scope": "full_phase",
+        "plat_refs": [
+          {
+            "book": "17",
+            "page": "374"
+          }
+        ],
+        "legal_description": "Being land located in the 5TH Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee. The above described property is encumbered by easements for sanitary sewer lines, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress- egress easements for the use and benefit of the Winston Hills Homeowners Association.",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Initial declaration coverage.",
+        "phases": [
+          "Village III"
+        ]
+      },
+      {
+        "action": "other",
+        "scope_kind": "common_area_only",
+        "phase_scope": "full_phase",
+        "plat_refs": [
+          {
+            "book": "17",
+            "page": "374"
+          }
+        ],
+        "legal_description": "Being land located in the 555 Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee. HOWEVER, there is specifically EXCLUDED AND EXCEPTED from the above described property all numbered and platted lots and public utility easements as shown in plat of said lots and public streets as shown in plat of WINSTON HILLS [Village III], a Planned Unit Development, of record in Plat Book 17, Page 374, of the Register's Office for Sumner County, Tennessee, and to which plat reference is hereby made for more complete details as to location and description of said lot areas and public utilities and drainage easements. The above described property is encumbered by easements for sanitary sewer lines, open space, detention area, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress-egress easements for the use and benefit of the WINSTON HILLS HOMEOWNERS ASSOCIATION.",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Initial declaration common areas.",
+        "phases": [
+          "Village III"
+        ]
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "amend-1-1999-09-14",
+        "source_op_id": "annex-plat-book-18-pages-96-98",
+        "effective_at": "1999-09-14",
+        "scope_kind": "some_lots",
+        "phases": [
+          "Village II",
+          "Village III"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "18",
+            "page": "96-98"
+          }
+        ],
+        "lot_refs": [
+          {
+            "phase": "Village III",
+            "lot": "26"
+          },
+          {
+            "phase": "Village III",
+            "lot": "27"
+          },
+          {
+            "phase": "Village III",
+            "lot": "28"
+          },
+          {
+            "phase": "Village III",
+            "lot": "29"
+          },
+          {
+            "phase": "Village III",
+            "lot": "30"
+          },
+          {
+            "phase": "Village III",
+            "lot": "49"
+          },
+          {
+            "phase": "Village III",
+            "lot": "50"
+          },
+          {
+            "phase": "Village III",
+            "lot": "51"
+          },
+          {
+            "phase": "Village III",
+            "lot": "52"
+          },
+          {
+            "phase": "Village II",
+            "lot": "83"
+          },
+          {
+            "phase": "Village II",
+            "lot": "84"
+          },
+          {
+            "phase": "Village II",
+            "lot": "85"
+          },
+          {
+            "phase": "Village II",
+            "lot": "100"
+          },
+          {
+            "phase": "Village II",
+            "lot": "101"
+          },
+          {
+            "phase": "Village II",
+            "lot": "102"
+          },
+          {
+            "phase": "Village II",
+            "lot": "103"
+          },
+          {
+            "phase": "Village II",
+            "lot": "104"
+          },
+          {
+            "phase": "Village II",
+            "lot": "121"
+          },
+          {
+            "phase": "Village II",
+            "lot": "122"
+          },
+          {
+            "phase": "Village II",
+            "lot": "123"
+          },
+          {
+            "phase": "Village II",
+            "lot": "124"
+          },
+          {
+            "phase": "Village II",
+            "lot": "125"
+          },
+          {
+            "phase": "Village II",
+            "lot": "126"
+          },
+          {
+            "phase": "Village II",
+            "lot": "127"
+          },
+          {
+            "phase": "Village II",
+            "lot": "128"
+          }
+        ],
+        "legal_description": "Additional Plat(s) recorded in Plat Book 18, pages 96-98: Village III Lots 26, 27, 28, 29, 30, 49, 50, 51, 52; Village II Lots 83, 84, 85, 100, 101, 102, 103, 104, 121, 122, 123, 124, 125, 126, 127, 128."
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "supp-decl-2003-01-13",
+        "source_op_id": "annex-2003-01-13",
+        "effective_at": "2003-01-13",
+        "notes": "Annexes the Annexed Property to the Declaration and extends Association jurisdiction per Article IV Section 3.1."
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "amend-4-2003-06-19",
+        "source_op_id": "annex-plat-book-21-page-54",
+        "effective_at": "2003-06-19",
+        "scope_kind": "some_lots",
+        "phases": [
+          "Phase I, Section III"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "21",
+            "page": "54"
+          }
+        ],
+        "legal_description": "Final Plat of Winston Hills Phase I, Section III recorded in Plat Book 21, page 54, Register's Office of Sumner County, Tennessee."
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "amend-5-2003-11-07",
+        "source_op_id": "annex-plat-book-21-page-170",
+        "effective_at": "2003-11-07",
+        "scope_kind": "some_lots",
+        "phases": [
+          "Phase I, Section IV"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "21",
+            "page": "170"
+          }
+        ],
+        "legal_description": "Final Plat of Winston Hills Phase I, Section IV recorded in Plat Book 21, page 170, Register's Office of Sumner County, Tennessee."
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "amend-6-2004-11-22",
+        "source_op_id": "annex-plat-book-22-page-50",
+        "effective_at": "2004-11-22",
+        "scope_kind": "some_lots",
+        "phases": [
+          "Phase V, Section I"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "22",
+            "page": "50"
+          }
+        ],
+        "legal_description": "Final Plat of Winston Hills Phase V, Section I recorded in Plat Book 22, page 50, Register's Office of Sumner County, Tennessee."
+      },
+      {
+        "action": "annex_property",
+        "source_instrument_id": "amend-7-2005-01-04",
+        "source_op_id": "annex-plat-book-22-page-117",
+        "effective_at": "2005-01-04",
+        "scope_kind": "some_lots",
+        "phases": [
+          "Phase V, Section II"
+        ],
+        "phase_scope": "partial_phase",
+        "plat_refs": [
+          {
+            "book": "22",
+            "page": "117"
+          }
+        ],
+        "legal_description": "Final Plat of Winston Hills Phase V, Section II recorded in Plat Book 22, page 117, Register's Office of Sumner County, Tennessee."
+      }
+    ],
+    "current_declarant": {
+      "name": "HALO Properties, LLC",
+      "role": "declarant",
+      "source_instrument_id": "appointment-successor-2002-03-26",
+      "source_op_id": "assign-successor-declarant-2002-03-26",
+      "effective_at": "2002-03-26",
+      "notes": "Appointment of HALO Properties, LLC as Successor Declarant in place and stead of RBAG/Preston- Winston Hills, LLC."
+    },
+    "declarant_history": [
+      {
+        "name": "RBAG/PRESTON - WINSTON HILLS, L.L.C.",
+        "role": "declarant",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Declared in definitions section."
+      },
+      {
+        "name": "HALO Properties, LLC",
+        "role": "declarant",
+        "source_instrument_id": "appointment-successor-2002-03-26",
+        "source_op_id": "assign-successor-declarant-2002-03-26",
+        "effective_at": "2002-03-26",
+        "notes": "Appointment of HALO Properties, LLC as Successor Declarant in place and stead of RBAG/Preston- Winston Hills, LLC."
+      }
+    ]
+  },
+  "incorporations": [
+    {
+      "role": "exhibit",
+      "exhibit_label": "EXHIBIT \"C\" BYLAWS OF WINSTON HILLS HOMEOWNERS ASSOCIATION",
+      "included_in_instrument_id": "ccr-1999-05-27",
+      "instrument_id": "exhibit-c-2005-01-04"
+    },
+    {
+      "role": "exhibit",
+      "exhibit_label": "EXHIBIT \"D\" WINSTON HILLS Development Guidelines",
+      "included_in_instrument_id": "ccr-1999-05-27",
+      "instrument_id": "exhibit-d-1999-05-27"
+    }
+  ]
+}

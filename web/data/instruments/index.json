@@ -1,0 +1,351 @@
+{
+  "amend-1-1999-09-14": {
+    "id": "amend-1-1999-09-14",
+    "base_doc_id": "amend-1",
+    "title": "FIRST AMENDED DECLARATION OF COVENTANTS, CONDITIONS AND RESTRICTIONS",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "1999-09-14",
+    "effective_at": "1999-09-14",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1025",
+      "page": "799"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "amend-1-development-guidelines-2005-01-04": {
+    "id": "amend-1-development-guidelines-2005-01-04",
+    "base_doc_id": "amend-1-development-guidelines",
+    "title": "First Amendment to Winston Hills Development Guidelines",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2005-01-12",
+    "effective_at": "2005-01-04",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "2169",
+      "page": "766-767"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "amend-2-2002-02-28": {
+    "id": "amend-2-2002-02-28",
+    "base_doc_id": "amend-2",
+    "title": "Second Amended Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2002-06-05",
+    "effective_at": "2002-02-28",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1488",
+      "page": "509"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "amend-3-2002-06-05": {
+    "id": "amend-3-2002-06-05",
+    "base_doc_id": "amend-3",
+    "title": "Third Amendment to Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2002-06-05",
+    "effective_at": "2002-06-05",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1488",
+      "page": "554"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "amend-4-2003-06-19": {
+    "id": "amend-4-2003-06-19",
+    "base_doc_id": "amend-4",
+    "title": "Fourth Amendment to Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2003-06-23",
+    "effective_at": "2003-06-19",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1764",
+      "page": "658"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "amend-5-2003-11-07": {
+    "id": "amend-5-2003-11-07",
+    "base_doc_id": "amend-5",
+    "title": "Fifth Amendment to Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2003-11-18",
+    "effective_at": "2003-11-07",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1894",
+      "page": "667"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    },
+    "notes": "Recital paragraph says \"THIS FOURTH AMENDMENT\" while instrument is the Fifth Amendment."
+  },
+  "amend-6-2004-11-22": {
+    "id": "amend-6-2004-11-22",
+    "base_doc_id": "amend-6",
+    "title": "Sixth Amendment to Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2004-11-29",
+    "effective_at": "2004-11-22",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "2141",
+      "page": "614-615"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "amend-7-2005-01-04": {
+    "id": "amend-7-2005-01-04",
+    "base_doc_id": "amend-7",
+    "title": "Seventh Amendment to Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2005-01-12",
+    "effective_at": "2005-01-04",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "2169",
+      "page": "749-750"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "amend-8-2005-01-04": {
+    "id": "amend-8-2005-01-04",
+    "base_doc_id": "amend-8",
+    "title": "Eighth Amendment to Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "amendment",
+    "doc_type": "Amendment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2005-01-12",
+    "effective_at": "2005-01-04",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "2169",
+      "page": "751-766"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "appointment-successor-2002-03-26": {
+    "id": "appointment-successor-2002-03-26",
+    "base_doc_id": "appointment-successor",
+    "title": "Appointment of Successor Declarant for Winston Hills Subdivision",
+    "instrument_kind": "appointment",
+    "doc_type": "Appointment",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2002-06-05",
+    "effective_at": "2002-03-26",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1488",
+      "page": "550"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "ccr-1999-05-27": {
+    "id": "ccr-1999-05-27",
+    "base_doc_id": "ccr",
+    "title": "Declaration of Covenants, Conditions and Restrictions",
+    "instrument_kind": "declaration",
+    "doc_type": "Declaration",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "1999-06-04",
+    "effective_at": "1999-05-27",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "982",
+      "page": "242"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    },
+    "coverage": [
+      {
+        "action": "other",
+        "scope_kind": "all_lots",
+        "phase_scope": "full_phase",
+        "plat_refs": [
+          {
+            "book": "17",
+            "page": "374"
+          }
+        ],
+        "legal_description": "Being land located in the 5TH Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee. The above described property is encumbered by easements for sanitary sewer lines, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress- egress easements for the use and benefit of the Winston Hills Homeowners Association.",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Initial declaration coverage.",
+        "phases": [
+          "Village III"
+        ]
+      },
+      {
+        "action": "other",
+        "scope_kind": "common_area_only",
+        "phase_scope": "full_phase",
+        "plat_refs": [
+          {
+            "book": "17",
+            "page": "374"
+          }
+        ],
+        "legal_description": "Being land located in the 555 Civil District, Hendersonville, Sumner County, Tennessee, as shown on Plat of WINSTON HILLS [Village III], of record in Book 17, Page 374, Register's Office for Sumner County, Tennessee. HOWEVER, there is specifically EXCLUDED AND EXCEPTED from the above described property all numbered and platted lots and public utility easements as shown in plat of said lots and public streets as shown in plat of WINSTON HILLS [Village III], a Planned Unit Development, of record in Plat Book 17, Page 374, of the Register's Office for Sumner County, Tennessee, and to which plat reference is hereby made for more complete details as to location and description of said lot areas and public utilities and drainage easements. The above described property is encumbered by easements for sanitary sewer lines, open space, detention area, landscaping, drainage, public utilities, underground electric service, and private paved areas for ingress-egress easements for the use and benefit of the WINSTON HILLS HOMEOWNERS ASSOCIATION.",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Initial declaration common areas.",
+        "phases": [
+          "Village III"
+        ]
+      }
+    ],
+    "current_declarant": {
+      "name": "RBAG/PRESTON - WINSTON HILLS, L.L.C.",
+      "role": "declarant",
+      "source_instrument_id": "ccr-1999-05-27",
+      "effective_at": "1999-05-27",
+      "notes": "Declared in definitions section."
+    },
+    "declarant_history": [
+      {
+        "name": "RBAG/PRESTON - WINSTON HILLS, L.L.C.",
+        "role": "declarant",
+        "source_instrument_id": "ccr-1999-05-27",
+        "effective_at": "1999-05-27",
+        "notes": "Declared in definitions section."
+      }
+    ]
+  },
+  "exhibit-c-1999-05-27": {
+    "id": "exhibit-c-1999-05-27",
+    "base_doc_id": "exhibit-c",
+    "title": "Bylaws of Winston Hills Homeowners Association",
+    "instrument_kind": "exhibit",
+    "doc_type": "Exhibit",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "1999-05-27",
+    "effective_at": "1999-05-27",
+    "availability": {
+      "has_text": false,
+      "reason": "not_in_corpus"
+    }
+  },
+  "exhibit-c-2005-01-04": {
+    "id": "exhibit-c-2005-01-04",
+    "base_doc_id": "exhibit-c",
+    "title": "Bylaws of Winston Hills Homeowners Association",
+    "instrument_kind": "bylaws",
+    "doc_type": "Bylaws",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2005-01-12",
+    "effective_at": "2005-01-04",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "2169",
+      "page": "751-766"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "exhibit-d-1999-05-27": {
+    "id": "exhibit-d-1999-05-27",
+    "base_doc_id": "exhibit-d",
+    "title": "Winston Hills Development Guidelines",
+    "instrument_kind": "exhibit",
+    "doc_type": "Exhibit",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "1999-05-27",
+    "effective_at": "1999-05-27",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "982",
+      "page": "298"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  },
+  "supp-decl-2003-01-13": {
+    "id": "supp-decl-2003-01-13",
+    "base_doc_id": "supp-decl",
+    "title": "Supplemental Declaration to Declaration of Restrictive Covenants of Winston Hills",
+    "instrument_kind": "annexation",
+    "doc_type": "Supplemental Declaration",
+    "jurisdiction": "Tennessee",
+    "recorded_at": "2003-01-16",
+    "effective_at": "2003-01-13",
+    "recording": {
+      "county": "Sumner",
+      "state": "Tennessee",
+      "book": "1635",
+      "page": "615"
+    },
+    "availability": {
+      "has_text": true,
+      "reason": "available"
+    }
+  }
+}
